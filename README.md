@@ -94,5 +94,8 @@ documentació.
 
 ---
 
-Fet com a resposta a una pregunta de Twitter. Dades públiques; classificació editorial i oberta a
-discussió.
+Fet com a resposta a [una pregunta a X](https://x.com/joeldiazbrah/status/2061476681865384081).
+Dades públiques; classificació editorial i oberta a discussió.
+
+No som periodistes. Som gent que sap fer servir la intel·ligència artificial per construir coses
+que, de tant en tant, tenen valor. Aquesta n'és una: les dades hi són i es poden verificar.
