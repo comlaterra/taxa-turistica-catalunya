@@ -13,6 +13,11 @@ dataset = json.loads((ROOT / "data" / "dataset.json").read_text(encoding="utf-8"
 tpl = (ROOT / "index.template.html").read_text(encoding="utf-8")
 embedded = json.dumps(dataset, ensure_ascii=False, separators=(",", ":"))
 html = tpl.replace("__DATASET__", embedded)
+
+# inline the base64-embedded fonts so the page stays a single self-contained file
+fonts_path = ROOT / "assets" / "fonts-embed.css"
+if fonts_path.exists():
+    html = html.replace("/*__FONTS__*/", fonts_path.read_text(encoding="utf-8"))
 (ROOT / "index.html").write_text(html, encoding="utf-8")
 
 # 2) emit a flat CSV (one tidy row per data point, with source)
