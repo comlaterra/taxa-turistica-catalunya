@@ -1,3 +1,8 @@
 .DS_Store
 *.log
 __pycache__/
+
+# Fitxers intermedis regenerables de l'extracció OCR de Barcelona
+data/_bcn_projects_parsed.json
+data/_bcn_projects_resolved.json
+data/_bcn_summary.json
