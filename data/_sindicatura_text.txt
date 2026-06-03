@@ -1,0 +1,10068 @@
+ 
+INFORME  34/2023 DEPARTAMENTO  DE EMPRESA  Y  TRABAJO IMPUESTO  SOBRE  LAS  ESTANCIAS   EN  ESTABLECIMIENTOS TURÍSTICOS,  FONDO   PARA  EL  FOMENTO   DEL  TURISMO,  EJERCICIO  2021    
+es-ESEdición: Documento electrónico etiquetado para personas con discapacidad visual Páginas en blanco insertadas para facilitar la impresión a doble cara Autor y editor: 
+Sindicatura de Cuentas de Cataluña
+ 
+Vía Laietana, 60
+ 
+0800
+3
+ 
+Barcelona
+ 
+Tel. 
++34 93 270 11 61
+ 
+sindicatura@sindicatura.cat
+ 
+www.sindicatura.cat
+ 
+Publicació
+n
+ 
+sujeta a d
+e
+p
+ó
+sit
+o
+ 
+legal d
+e 
+ac
+uer
+d
+o
+ 
+con
+ 
+l
+o
+ 
+prev
+isto en el
+ 
+Real decret
+o
+ 
+635/2015, de 10 de julio
+ 
+SINDICATURA DE CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+ÍNDICE es-ESABREVIACIONES .................................................................................................................. 6 ACLARACIÓN SOBRE REDONDEOS ................................................................................... 6 1.INTRODUCCIÓN ............................................................................................................ 7 1.1. INTRODUCCIÓN AL INFORME .................................................................................... 7 1.1.1. Objeto y alcance ..................................................................................... 7 1.1.2. Metodología ............................................................................................ 7 1.2. ENTE FISCALIZADO .................................................................................................. 7 1.2.1. Antecedentes .......................................................................................... 7 1.2.2. Actividades ............................................................................................. 8 1.3. IMPUESTO SOBRE LAS ESTANCIAS EN ESTABLECIMIENTOS TURÍSTICOS .......................... 9 1.3.1. Normativa aplicable ................................................................................ 9 
+1.3.2. 
+Impuesto turístico  la Unión Europea ................................................. 10 
+1.3.3. Evolución del impuesto sobre las estancias en establecimientos turísticos ................................................................................................ 12 1.3.4. Principales características del impuesto ............................................... 13 2.FISCALIZACIÓN REALIZADA ...................................................................................... 16 2.1. LIQUIDACIÓN DEL PRESUPUESTO ............................................................................ 16 2.1.1. Liquidación del presupuesto de gastos del Departamento de Empresa y Trabajo ................................................................................ 16 2.1.2. Liquidación del programa presupuestario de la Dirección General de Turismo ............................................................................................ 17 2.1.3. Gastos financiados con el impuesto sobre las estancias en establecimientos turísticos .................................................................... 18 2.2. FISCALIZACIÓN DEL IMPUESTO SOBRE LAS ESTANCIAS EN ESTABLECIMIENTOS TURÍSTICOS .......................................................................................................... 20 2.2.1. Registro de Turismo de Cataluña .......................................................... 20 2.2.2. Comité bilateral ..................................................................................... 22 2.2.3. Fiscalización del Fondo para el fomento del turismo ............................. 24 3.CONCLUSIONES ......................................................................................................... 36 3.1. OBSERVACIONES .................................................................................................. 37 3.2. RECOMENDACIONES ............................................................................................. 40 4.TRÁMITE DE ALEGACIONES ....................................................................................... 40 4.1. ALEGACIONES RECIBIDAS ...................................................................................... 41 4.2. TRATAMIENTO DE LAS ALEGACIONES ....................................................................... 50 APROBACIÓN DEL INFORME ............................................................................................ 50 5 
+SINDICATURA DE CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+6
+ 
+ABREVIACIONES
+ 
+ 
+ 
+Millones de euros
+ 
+ 
+ 
+ 
+ACLARACIÓN SOBRE REDONDEOS
+ 
+ 
+Los importes monetarios que se presentan en los cuadros de este informe se han redon
+-
+deado de forma individualizada, lo que puede 
+producir diferencias entre la suma de las 
+cifras parciales y los totales de los cuadros.
+ 
+ 
+ 
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+7
+ 
+1.
+ 
+INTRODUCCIÓN
+ 
+1.1.
+ 
+I
+NTRODUCCIÓN AL INFORME
+ 
+1.1.1.
+ 
+Objeto y alcance
+ 
+La Sindicatura de Cuentas, como órgano fiscalizador del sector público de Cataluña, de 
+acuerdo con la normativa vigente y en cumplimiento de su Programa anual de actividades, 
+ha emitido este informe de fiscalización limitada relativo al Departamento de Emp
+resa y 
+Tra
+bajo, correspondiente al ejercicio 2021.
+ 
+ 
+El objeto de este informe ha sido la fiscalización limitada de legalidad del Departamento de 
+Empresa y Trabajo, centrada en la revisión del 
+impuesto sobre las estancias en estableci
+-
+mientos turísticos, en la parte que gestiona el Departamento, que es el Fondo para el fomento 
+del turismo, en la vertiente relativa a su reparto, correspondiente al ejercicio 2021.
+1
+ 
+ 
+Aunque el ámbito temporal de este informe ha sido el ejercicio 2021, cuando se ha conside
+-
+rado necesario para completar el trabajo, se ha ampliado a períodos anteriores y posteriores.
+ 
+ 
+Las conclusiones del informe incluyen las observaciones más significativas, los incumpli
+-
+mientos normativos detectados y las recomendaciones sobre mejoras en la gestión de las 
+actividades desarrolladas por la entidad en algunos de los aspectos que se han puesto de 
+manifiesto durante la realización del trabajo.
+ 
+ 
+ 
+1.1.2.
+ 
+Metodología
+ 
+El trabajo de fiscalización se ha llevado a cabo de acuerdo con los principios y normas 
+in
+ter
+nacionales de fiscalización del sector público generalmente aceptados y ha incluido 
+todas aquellas pruebas, de cumplimiento y sustantivas, que se han considerado necesarias 
+para obtener evidencias suficientes y adecuadas para poder expresar las conclusione
+s que 
+se exponen en el informe.
+ 
+ 
+ 
+1.2.
+ 
+E
+NTE FISCALIZADO
+ 
+1.2.1.
+ 
+Antecedentes
+ 
+Mediante el Decreto 21/2021, de 25 de mayo, de creación, denominación y determinación 
+del ámbito de competencia de los departamentos de la Administración de la Generalidad 
+ 
+ 
+1
+. En el informe 6/2020, relativo a los impuestos propios de la Generalidad de Cataluña, ejercicio 2018, se fis
+ca
+-
+li
+zó, entre otros, el impuesto sobre las 
+estancias en establecimientos turísticos para la gestión, recaudación, 
+li
+qui
+dación e inspección, funciones que corresponden a la Agencia Tributaria de Cataluña, de acuerdo con el 
+Estatuto de autonomía de Cataluña.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+8
+ 
+de Cataluña, el Departamento de Empresa y Conocimiento pasa a denominarse Departa
+-
+mento de Empresa y Trabajo, al que le corresponde, entre otr
+a
+s
+ 
+funciones
+, el ejercicio de 
+las atribu
+ciones propias de la Generalidad en el ámbito del turismo. Esta atribución se lleva 
+a cabo mediante la Dirección General de Turismo de la Secretaría de Empresa y Com
+pe
+titi
+-
+vidad del Departamento, y tiene las funciones establecidas en el Decreto 61/2020, de 2 de 
+junio, de reestructuración del Departamento de Empresa y Conocimi
+ento.
+ 
+ 
+ 
+1.2.2.
+ 
+Actividades
+ 
+El Departamento de Empresa y Trabajo tiene competencias en el ámbito del turismo, ámbito 
+que se gestiona a través de la Dirección General de Turismo, que, de acuerdo con el Decreto 
+61/2020
+, tiene las siguientes funciones:
+ 
+ 
+a)
+ 
+Diseñar,
+ 
+coordinar
+ 
+y
+ 
+ejecutar
+ 
+las
+ 
+políticas
+ 
+para
+ 
+el
+ 
+fomento
+ 
+de
+ 
+la
+ 
+competitividad
+ 
+del
+ 
+sector
+ 
+tu
+rístico,
+ 
+la
+ 
+innovación
+ 
+y
+ 
+la
+ 
+calidad
+ 
+de
+ 
+los
+ 
+productos
+ 
+turísticos
+ 
+de
+ 
+Cataluña.
+ 
+b)
+ 
+Elaborar
+ 
+los
+ 
+instrumentos
+ 
+de
+ 
+planificación
+ 
+para
+ 
+que
+ 
+la
+ 
+actividad
+ 
+turística
+ 
+sea
+ 
+equilibrada
+ 
+y
+ 
+sostenible
+ 
+en
+ 
+el
+ 
+territorio.
+ 
+c)
+ 
+Ordenar
+ 
+y
+ 
+controlar
+ 
+los
+ 
+establecimientos,
+ 
+las
+ 
+empresas
+ 
+y
+ 
+las
+ 
+actividades
+ 
+turísticas,
+ 
+en
+ 
+el
+ 
+ámbito
+ 
+de
+ 
+las
+ 
+competencias
+ 
+del
+ 
+Departamento.
+ 
+d)
+ 
+Diseñar
+ 
+y
+ 
+coordinar
+ 
+las
+ 
+actuaciones
+ 
+relacionadas
+ 
+con
+ 
+la
+ 
+formación
+ 
+del
+ 
+sector
+ 
+turístico.
+ 
+ 
+e)
+ 
+Dirigir
+ 
+y
+ 
+coordinar
+ 
+las
+ 
+actuaciones
+ 
+relativas
+ 
+al
+ 
+análisis,
+ 
+estudio,
+ 
+conocimiento,
+ 
+investiga
+-
+ción
+ 
+y
+ 
+definición
+ 
+de
+ 
+estrategias
+ 
+del
+ 
+sector
+ 
+del
+ 
+turismo.
+ 
+f)
+ 
+Diseñar
+ 
+y
+ 
+coordinar
+ 
+el
+ 
+apoyo
+ 
+a
+ 
+los
+ 
+entes
+ 
+locales
+ 
+para
+ 
+el
+ 
+fomento
+ 
+y
+ 
+la
+ 
+dinamización
+ 
+turística.
+ 
+ 
+g)
+ 
+Ejercer
+ 
+la
+ 
+potestad
+ 
+inspectora,
+ 
+sancionadora
+ 
+y
+ 
+de
+ 
+disciplina
+ 
+turística
+ 
+de
+ 
+establecimientos,
+ 
+empresas
+ 
+y
+ 
+actividades
+ 
+turísticas
+ 
+regladas.
+ 
+h)
+ 
+Impulsar,
+ 
+diseñar
+ 
+y
+ 
+coordinar
+ 
+la
+ 
+participación
+ 
+y
+ 
+adecuación
+ 
+de
+ 
+las
+ 
+actuaciones
+ 
+que
+ 
+en
+ 
+el
+ 
+ám
+bito
+ 
+estatal
+ 
+e
+ 
+internacional
+ 
+puedan
+ 
+incidir
+ 
+en
+ 
+materia
+ 
+turística
+ 
+competencia
+ 
+d
+e
+ 
+la
+ 
+Gene
+-
+ralidad
+ 
+de
+ 
+Cataluña.
+ 
+i)
+ 
+Gestionar
+ 
+los
+ 
+datos
+ 
+del
+ 
+Registro
+ 
+de
+ 
+Turismo
+ 
+de
+ 
+Cataluña.
+ 
+j)
+ 
+Cualquier
+ 
+otra
+ 
+función
+ 
+de
+ 
+naturaleza
+ 
+análoga
+ 
+que
+ 
+le
+ 
+sea
+ 
+encomendada.
+ 
+ 
+Plan estratégico de turismo de Cataluña
+ 
+En relación con el apartado 
+b
+,
+ 
+la Dirección General de Turismo participa en la elaboración 
+del 
+Plan estratégico de turismo
+ 
+de Cataluña, 
+que
+ 
+tiene como objetivo establecer las bases 
+para 
+gestionar la actividad turística
+ 
+en Cataluña. 
+La Dirección General de Turismo también 
+elabora un balance de ejecución del 
+Plan estratégico de turismo
+ 
+de Cataluña
+ 
+con los resulta
+-
+dos del modelo de trabajo y el grado de implementación que se ha alcanzado.
+ 
+ 
+En el ejercicio fiscalizado, estaba vigente el Plan estratégico de turismo de Cataluña 2018
+-
+2022, elaborado con la colaboración de representantes del sector turístico catalán. El Plan 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+9
+ 
+establece 
+7
+ 
+ejes
+ 
+vertebradores
+ 
+de las acciones que deben llevarse a cabo, que se desar
+-
+rollan mediante 
+29
+ 
+iniciativas
+ 
+y que tiene, entre otros objetivos a los que debería llegar a 
+finales del año 2022, los siguientes:
+ 
+ 
+a)
+ 
+Incrementar
+ 
+el
+ 
+gasto
+ 
+diario
+ 
+por
+ 
+turista
+ 
+en
+ 
+un
+ 
+16%
+ 
+respecto
+ 
+al
+ 
+2016.
+ 
+b)
+ 
+Aumentar,
+ 
+respecto
+ 
+al
+ 
+2016,
+ 
+en
+ 
+un
+ 
+9%
+ 
+el
+ 
+número
+ 
+de
+ 
+turistas
+ 
+que
+ 
+visitan
+ 
+Cataluña
+ 
+los
+ 
+me
+ses
+ 
+de
+ 
+marzo
+,
+ 
+abril
+,
+ 
+mayo
+ 
+y
+ 
+octubre
+.
+ 
+c)
+ 
+Incrementar,
+ 
+respecto
+ 
+al
+ 
+2016,
+ 
+el
+ 
+número
+ 
+de
+ 
+turistas
+ 
+alojados
+ 
+en
+ 
+las
+ 
+destinaciones
+ 
+de
+ 
+fue
+ra
+ 
+de
+ 
+la
+ 
+costa
+ 
+en
+ 
+un
+ 
+11%.
+ 
+d)
+ 
+Gestionar
+ 
+de
+ 
+manera
+ 
+inteligente
+ 
+el
+ 
+crecimiento
+ 
+turístico
+ 
+hasta
+ 
+llegar
+ 
+a
+ 
+los
+ 
+21
+ 
+millones
+ 
+de
+ 
+turistas
+ 
+internacionales
+.
+ 
+ 
+Fondo para el fomento del turismo
+ 
+El Departamento de Empresa y Trabajo y el departamento competente en materia de econo
+-
+mía son los encargados de gestionar el 
+F
+ondo para el fomento del turismo del impuesto 
+sobre las estancias en establecimientos turísticos, de acuerdo con la Ley 5/2017, de 28 de 
+marzo, de medidas fiscales, administrativas, financieras y del sector público y de creación 
+y regulación de los impuest
+os sobre grandes establecimientos comerciales, sobre estancias 
+en establecimientos turísticos, sobre elementos radiotóxicos, sobre
+ 
+bebidas azucaradas en
+-
+va
+sadas y sobre emisiones de dióxido de carbono. Aunque la gestión del Fondo es com
+pe
+-
+tencia de ambos departamentos, la gestión, recaudación e inspección del impuesto co
+rres
+-
+ponden a la Agencia Tributaria de Cataluña. Esta separación de funciones entre la Agen
+cia 
+Tributaria de Cataluña, el Departamento 
+de Empresa y Trabajo
+ 
+y el departamento compe
+-
+tente en materia de economía dificulta la gestión y el seguimiento y control del impuesto, y 
+también la consecución de los objetivos por los 
+que
+ 
+se creó, tal y como se pone de mani
+-
+fies
+to a lo largo de todo el informe. 
+ 
+ 
+ 
+1.3.
+ 
+I
+MPUESTO SOBRE LAS ESTANCIAS EN ESTABLECIMIENTOS TURÍSTICOS
+ 
+1.3.1.
+ 
+Normativa aplicable
+ 
+El impuesto sobre las estancias en establecimientos turísticos es un tributo propio de la 
+Generalidad de Cataluña. Durante el ejercicio 2021, el impuesto estaba regulado por la 
+Ley 5/2017, de 28 de marzo, de medidas fiscales, administrativas, financieras y
+ 
+del sector 
+pú
+blico y de creación y regulación de los impuestos sobre grandes establecimientos 
+comerciales, sobre estancias en establecimientos turísticos, sobre elementos radiotóxicos, 
+sobre bebidas azucaradas envasadas y sobre emisiones de dióxido de ca
+rbono. Esta ley 
+ha sido modificada con posterioridad por las siguientes normas:
+ 
+ 
+ 
+Decreto ley 2/2017, de 4 de abril, por el que se modifica la entrada en vigor del impuesto 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+10
+ 
+sobre bebidas azucaradas envasadas y se establece una regla de determinación de la 
+tarifa aplicable del impuesto sobre las estancias en establecimientos turísticos.
+ 
+Ley 5/2020, de 29 de abril, de medidas fiscales, financieras, administrativas y del sector
+pú
+blico y de creación del impuesto sobre las instalaciones que inciden en el medio
+ambiente.
+Decreto ley 
+23/2020, de 9 de junio, de medidas urgentes en materia tributaria.
+Decreto ley 33/2020, de 30 de septiembre, de medidas urgentes en el ámbito del im
+-
+puesto sobre las emisiones de dióxido de carbono de los vehículos de tracción mecá
+nica
+y del impuesto sobre las estancias en establecimientos turísticos, y en el ámbito presu
+-
+pues
+tario y administrativo.
+Decreto ley 36/2020, de 3 de noviembre, de medidas urgentes en el ámbito del impuesto
+sobre las emisiones de dióxido de carbono de los vehículos de tracción mecánica y del
+impuesto sobre las estancias en establecimientos turísticos, y en el ámbito presupue
+stario
+y administrativo.
+Decreto ley 12/2021, de 18 de mayo, relativo al aplazamiento de la entrada en vigor de
+las nuevas tarifas del impuesto sobre las estancias en establecimientos turísticos.
+es-ESAdemás, el reglamento del impuesto se regula mediante el Decreto 141/2017, de 19 de sep-tiembre, por el que se aprueba el Reglamento del impuesto sobre las estancias en esta-blecimientos turísticos, y el Decreto 75/2020, de 4 de agosto, de turismo de Cataluña, regula el Fondo para el fomento del turismo, en el artículo 431-1 a 431-8 del título III del libro IV, Modelo de gobernanza turística.  1.3.2. Impuesto turístico  la Unión Europea El origen del impuesto turístico se sitúa en las ciudades balnearias de Alemania a inicios del siglo XVI (kurtaxe).2 Sin embargo, no fue hasta la segunda mitad del siglo XIX que los impuestos sobre los visitantes de las ciudades de Austria y Alemania se normalizaron. En el siglo XX, Francia introdujo la taxe de séjour en París y, posteriormente, diferentes países europeos fueron introduciendo el impuesto en sus legislaciones. En el Estado español, el impuesto turístico se exige actualmente en Cataluña y en las Islas Baleares (ecotasa). En la Unión Europea 8 países no tienen impuesto turístico: Dinamarca, Estonia, Finlandia, Irlanda, Letonia, Luxemburgo, Suecia y Chipre. A continuación, se incluyen los países con impuesto turístico y las principales caracte-rísticas en cada uno de los casos. La información se ha extraído de un informe elaborado 
+ca-ES2
+.
+Kurtaxe
+ 
+en alemán
+,
+ 
+der Kurort
+(balneario) y 
+die Taxe
+ 
+(tasa).
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+11
+ 
+por la Asociación Europea de Turismo en el ejercicio 2020, que incluye a los países de la 
+Unión Europea de ese ejercicio.
+ 
+ 
+Cuadro 1.
+ 
+Impuesto turístico en Europa
+ 
+País
+ 
+Base imponible
+ 
+Tarifas
+ 
+Especificidades
+ 
+Alemania
+ 
+Persona/noche o en fun
+-
+ción del precio de la 
+habitación
+ 
+1,00
+ 
+-
+ 
+3,80
+ 
+y el 7,5% del precio de la 
+habitación
+ 
+En la 
+ciudad de Hamburgo la car
+-
+ga es progresiva según el precio 
+de la habitación.
+ 
+Austria
+ 
+Persona/noche
+ 
+0,50
+ 
+-
+ 
+3,80
+ 
+ 
+Viena tiene una tarifa de habita
+-
+ción del 3,2%.
+ 
+Bélgica
+ 
+Persona/noche 
+(normalmente)
+ 
+1,25
+ 
+-
+ 
+4,00
+ 
+ 
+ 
+ 
+Bulgaria
+ 
+Persona/noche
+ 
+0,21
+ 
+-
+ 
+0,77
+ 
+ 
+ 
+ 
+Croacia
+ 
+Persona/noche
+ 
+0,94
+ 
+-
+ 
+2,68
+ 
+ 
+El impuesto más alto se aplica a 
+Dubrovnik (a partir de 2021). El 
+gobierno local decide si grava a 
+los pasajeros de cruceros.
+ 
+Eslovaquia
+ 
+Persona/noche
+ 
+1,50
+ 
+-
+ 
+1,70
+ 
+ 
+ 
+ 
+Eslovenia
+ 
+Persona/noche y tasa de 
+promoción adicional
+ 
+1,60
+ 
+-
+ 
+3,13
+ 
+ 
+Impuesto turístico limitado a 
+2,50
+ 
+de promoción del 25%.
+ 
+España
+ 
+Persona/noche
+ 
+0,45
+ 
+-
+ 
+4,00
+ 
+ 
+Solo en Cataluña e Islas Baleares
+ 
+Francia
+ 
+Persona/noche
+ 
+0,20
+ 
+-
+ 
+4,10
+ 
+ 
+ 
+Grecia
+ 
+Habitación/noche
+ 
+0,50
+ 
+-
+ 
+4,00
+ 
+ 
+ 
+ 
+Hungría
+ 
+Persona/noche o en fun
+-
+ción del precio de la 
+habitación
+ 
+4% del precio de la 
+habitación o hasta 1,60
+ 
+persona
+ 
+/
+ 
+noche 
+ 
+ 
+ 
+Italia
+ 
+Persona/noche o excur
+-
+sio
+nistas de día en las 
+islas
+ 
+0,28
+ 
+-
+ 
+7,00
+ 
+ 
+Florencia, Roma y Venecia tienen 
+regulación específica
+ 
+Lituania
+ 
+Persona/noche
+ 
+0,60
+ 
+-
+ 
+1,00
+ 
+ 
+ 
+ 
+Malta
+ 
+Persona/noche
+ 
+0,50
+ 
+ 
+ 
+ 
+Países 
+Bajos 
+ 
+Persona/noche, porcen
+ta
+-
+je fijo o combinación de 
+ambos
+ 
+2,75
+ 
+-
+ 
+5,73
+ 
+o
+ 
+el 6,5% del precio de 
+la 
+habitación, o el 7% del pre
+-
+cio de la habitación + 3,00
+ 
+ 
+Ámsterdam también cobra a los 
+pasajeros de cruceros y ha imple
+-
+mentado el impuesto sobre el 
+entre
+tenimiento.
+ 
+Polonia
+ 
+Persona/noche
+ 
+0,38
+ 
+-
+ 
+0,55
+ 
+ 
+Se considera una tarifa climática.
+ 
+Portugal
+ 
+Persona/noche
+ 
+1,00
+ 
+-
+ 
+2,00
+ 
+ 
+ 
+ 
+República 
+Checa
+ 
+Persona/noche
+ 
+0,59
+ 
+-
+ 
+0,83
+ 
+ 
+ 
+Rumanía
+ 
+Precio habitación
+ 
+0,18
+ 
+precio de la habitación
+ 
+ 
+ 
+Fuente: Informe elaborado por la
+ 
+Asociación Europea de Turismo en 2020.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+12
+ 
+Como se 
+puede observar, las tarifas son muy variadas, y tanto pueden ser importes fijos 
+como porcentajes sobre el precio de la habitación. Además de las tarifas generales, es habi
+-
+tual que exista una casuística muy diversa de tarifas, tanto por tamaño de ciudades como 
+por tipología de establecimientos, etc. 
+ 
+ 
+ 
+1.3.3.
+ 
+Evolución del impuesto sobre las estancias en establecimientos 
+turísticos
+ 
+A continuación, se muestran los importes recaudados por el impuesto sobre las estancias 
+en establecimientos turísticos en el 
+período 2016
+-
+2021:
+ 
+ 
+Cuadro 2.
+ 
+Importes recaudados del impuesto sobre las estancias en establecimientos turísticos
+ 
+Temporada*
+ 
+2016
+ 
+2017
+ 
+2018
+ 
+2019
+ 
+2020
+ 
+2021
+ 
+2022
+ 
+Verano
+ 
+31.968.181
+ 
+37.394.889
+ 
+38.128.663
+ 
+42.661.014
+ 
+6.648.630
+ 
+19.287.424
+ 
+54.926.305
+ 
+Invierno 
+ 
+15.323.324
+ 
+16.224.959
+ 
+20.933.437
+ 
+11.969.846
+ 
+4.165.283
+ 
+20.527.744
+ 
+28.039.299
+ 
+Total
+ 
+47.291.505
+ 
+53.619.849
+ 
+59.062.100
+ 
+54.630.860
+ 
+10.813.913
+ 
+39.815.168
+ 
+82.965.604
+ 
+Variación interanual 
+(porcentaje)
+ 
+n/a
+ 
+13,38
+ 
+10,15
+ 
+(7,50)
+ 
+(80,21)
+ 
+268,18
+ 
+108,38
+ 
+Importes en euros.
+ 
+Fuente: Elaboración propia a partir de la recaudación de la Agencia Tributaria de Cataluña.
+ 
+Notas:
+ 
+n/a
+ 
+No aplicable.
+ 
+* Temporada de verano año x= segundo y tercer trimestre
+s
+ 
+del año x. Temporada de invierno año x= cuarto trimestre año x 
++ primer trimestre del año x+1. 
+ 
+ 
+Como se puede observar, el importe recaudado va aumentando entre 2016 y 2018. Entre 
+2019 y 2021 la evolución viene claramente marcada por la pandemia de la covid. En la tem
+-
+porada de invierno del ejercicio 2019, que incluye el primer trimestre del ejercicio 2020, 
+hasta el 31 de marzo de 2020, ya se observa un descenso de la recaudación de un 42,82% 
+respecto 
+a
+l ejercicio 2018 y, en términos globales, la reducción entre 2018 y 2019 es de un 
+7,50%. Este descenso es del 80,21% globalmente en el ejercicio 2020, 
+en el año en el que 
+el efecto de las restricciones debidas a la pandemia de la covid es más pronunciado. 
+ 
+ 
+En el ejercicio 2021, se observa ya una fuerte recuperación de los ingresos respecto al ejer
+-
+cicio 2020. Aunque no se alcanzaron los niveles del ejercicio 2018, sí se aprecia una mejora 
+muy significativa en la temporada de invierno, que abarca también el primer trimestre del 
+ejercicio 2022, año en el que los efectos de la covid disminuyeron de for
+ma drástica. Aparte, 
+hay que tener en cuenta que a partir del 1 de octubre de 2021 hay un aumento de las tarifas 
+que oscila entre un 11,11% y un 100%. 
+ 
+ 
+En el ejercicio 2022, la recaudación asciende a 82,97
+ 
+-
+pec
+to a 2021, y un 40,47% respecto a 2018, último año no afectado por la covid. Este 
+au
+mento significativo se produce, en parte, por el aumento de las tarifas a partir de 1 de 
+octubre de 2021, pero también por la 
+evolución positiva del empleo una vez anuladas las 
+res
+tricciones de la covid.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+13
+ 
+1.3.4.
+ 
+Principales características del 
+i
+mpuesto
+ 
+El impuesto sobre las estancias en establecimientos turísticos se creó mediante la
+ 
+Ley 
+5/2012, de 20 de marzo, de medidas fiscales, financieras y administrativas y de creación del 
+impuesto 
+sobre las estancias en establecimientos turísticos
+. 
+Posteriormente, la Ley 5/2017, 
+de 28 de marzo, derogó la Ley 5/2012 y estableció una nueva regulación íntegra del impuesto.
+ 
+ 
+ 
+Este impuesto
+ 
+se creó con la finalidad de generar recursos con el objetivo de mantener y 
+po
+tenciar Cataluña como destino turístico de primer orden y de referencia a nivel mundial, 
+tanto desde el punto de vista de la competitividad y de la calidad como de la sostenibilidad, 
+con un sector turístico de alto valor añadido. El impuesto también se cre
+a para minimizar 
+el
+ 
+impacto que el turismo puede causar en algunas zonas de alta concentración turística. 
+Los ingresos 
+obtenidos de este impuesto están afectados a la dotación del Fondo para el 
+fo
+mento del turismo, que se configura como un mecanismo destinado a financiar políticas 
+turísticas. 
+ 
+ 
+A continuación, se explican de forma resumida los principales aspectos que se regulan en 
+este impuesto. 
+ 
+ 
+Objeto
+ 
+El impuesto grava la singular capacidad económica de las personas físicas que se pone de 
+manifiesto en la estancia en los establecimientos y equipamientos turísticos y, por otra parte, 
+pretende internalizar las posibles externalidades que el turismo puede 
+causar en las zonas 
+de alta concentración turística.
+ 
+ 
+Gestión, recaudación e inspección
+ 
+La gestión, recaudación 
+e
+ 
+inspección del impuesto corresponden a la Agencia Tributaria de 
+Cataluña, sin perjuicio de la colaboración con los órganos de inspección competentes en 
+materia de turismo, los 
+que
+, en el transcurso de sus actuaciones, pueden requerir al titular 
+de la explotación del establecimiento o equipamiento turístico la acreditación de haber 
+presentado las autoliquidaciones del impuesto cuyo plazo de presentación haya trans
+cu
+-
+rrido en el momento de la actuación administrativa.
+ 
+ 
+L
+o
+s datos obtenidos de la gestión del impuesto sobre las estancias en establecimientos 
+turísticos pueden ser cedidos por la Agencia Tributaria de Cataluña al órgano de la Genera
+-
+lidad competente en materia de turismo, previo proceso de disociación y anonimización.
+ 
+ 
+Afectación de los ingresos
+ 
+Los ingresos derivados del impuesto sobre las estancias en establecimientos turísticos están 
+afectados por la dotación del Fondo para el fomento del turismo para atender a las finali
+-
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+14
+ 
+dades que se determinan, excepto los ingresos derivados del recargo para la ciudad de 
+Bar
+celona, en vigor desde el 1 de junio de 2021. Estos ingresos derivados de dicho 
+recargo 
+se destinan al Ayuntamiento de Barcelona una vez minorados los gastos de gestión y recau
+-
+dación en 
+los 
+que incurre la Agencia Tributaria de Cataluña.
+ 
+Hecho imponible
+ 
+El hecho imponible consiste en la estancia, por días o fracciones, con o sin 
+pernoctación, 
+que hacen los contribuyentes en los establecimientos y equipamientos turísticos situados en 
+Cataluña. Estos establecimientos y equipamientos turísticos son los siguientes:
+ 
+ 
+a)
+ 
+Los
+ 
+alojamientos
+ 
+turísticos
+ 
+establecidos
+ 
+en
+ 
+cada
+ 
+momento
+ 
+por
+ 
+la
+ 
+normativa
+ 
+vigente
+ 
+en
+ 
+materia
+ 
+de
+ 
+turismo.
+ 
+ 
+b)
+ 
+Los
+ 
+albergues
+ 
+de
+ 
+juventud,
+ 
+cuando
+ 
+presten
+ 
+servicios
+ 
+turísticos
+ 
+de
+ 
+alojamiento.
+ 
+ 
+c)
+ 
+Las
+ 
+embarcaciones
+ 
+de
+ 
+crucero
+ 
+turístico
+ 
+fondeadas
+ 
+o
+ 
+amarradas
+ 
+en
+ 
+un
+ 
+puerto
+ 
+de
+ 
+Cataluña.
+ 
+ 
+d)
+ 
+Cualquier
+ 
+establecimiento
+ 
+o
+ 
+equipamiento
+ 
+en
+ 
+el
+ 
+que
+ 
+se
+ 
+presten
+ 
+servicios
+ 
+turísticos
+ 
+de
+ 
+alojamiento.
+ 
+ 
+Contribuyente
+ 
+El contribuyente del impuesto es la persona física que realiza una estancia en cualquiera de 
+los establecimientos y equipamientos turísticos que establece la normativa o la persona jurí
+-
+dica a cuyo nombre se entrega la factura o documento análogo correspondiente por la 
+estan
+cia de personas físicas en los citados establecimientos y equipamientos.
+ 
+ 
+La normativa dispone que las personas físicas o jurídicas titulares de la explotación de cual
+-
+quiera de los establecimientos o equipamientos turísticos son sustitutos del contri
+buyente y 
+que los intermediarios entre el contribuyente y los establecimientos o equipa
+mien
+tos res
+pon
+-
+den solidariamente del ingreso de las deudas tributarias correspondientes a las cuotas 
+deven
+gadas de los contribuyentes.
+ 
+ 
+Base imponible
+ 
+La base imponible del impuesto se establece en el número de unidades de estancia en el 
+mismo establecimiento o equipamiento turístico durante un período continuado. En cualquier 
+caso, se computa un máximo de 7 unidades de estancia por persona.
+3
+ 
+ 
+Exenciones
+ 
+Están 
+exentas
+ 
+de la aplicación del impuesto:
+ 
+ 
+ 
+3
+. En cuanto al resto de países europeos, esta limitación existe también en Italia y en Portugal, con una limitación 
+similar a la del impuesto catalán, de 7 unidades de estancia de media, aunque es variable por municipios.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+15
+ 
+ 
+Las estancias subvencionadas por programas sociales de una administración pública de 
+cualquier estado miembro de la Unión Europea.
+ 
+ 
+Las estancias realizadas por personas de edad igual o inferior a 16 años. 
+ 
+ 
+Las estancias que se realicen por causas de fuerza mayor, determinadas por reglamento. 
+ 
+ 
+Las estancias que realice cualquier persona por motivos de salud y las de las personas 
+que la acompañen.
+ 
+Devengo
+ 
+El impuesto se devenga al comienzo de la estancia en los establecimientos y equipamientos. 
+En cuanto a las estancias en embarcaciones de crucero, el impuesto se devenga, para los 
+contribuyentes que están en tránsito, en el momento en que el barco hace esca
+la en algún 
+puerto de Cataluña.
+ 
+ 
+Tipo de gravamen y cuota tributaria
+ 
+La cuota tributaria se obtiene de multiplicar el número de estancias por el tipo de gravamen 
+correspondiente según la tipología del establecimiento o equipamiento turístico y su locali
+-
+zación, de acuerdo con las siguientes tarifas:
+ 
+ 
+Cuadro 3.
+ 
+Tarifas del impuesto sobre las estancias en establecimientos turísticos
+ 
+Tipología de establecimiento o de equipamiento 
+turístico
+ 
+Tarifa general
+ 
+Tarifa 
+especial
+ 
+Barcelona ciudad
+ 
+Resto de 
+Cataluña
+ 
+Hasta el 
+30.09.2021
+ 
+A partir del 
+1.10.2021
+ 
+Hasta el 
+30.09.2021 
+ 
+A partir del 
+1.10.2021
+ 
+1.
+ 
+Hotel de 5 estrell
+a
+s, gran lujo, camping de lujo y 
+establecimiento o equipamiento de categoría 
+equivalente
+ 
+2,25
+ 
+3,50
+ 
+2,25
+ 
+3,00
+ 
+5,00
+ 
+2.
+ 
+Hotel de 4 
+estrell
+a
+s y 4 estrell
+a
+s superior y 
+establecimiento o equipamiento de categoría 
+equivalente
+ 
+1,10
+ 
+1,70
+ 
+0,90
+ 
+1,20
+ 
+3,50
+ 
+3.
+ 
+Vivienda de uso turístico
+ 
+2,25
+ 
+2,25
+ 
+0,90
+ 
+1,00
+ 
+-
+ 
+4.
+ 
+Demás
+ 
+campings y 
+demás
+ 
+establecimientos y 
+equipamientos
+ 
+0,65
+ 
+1,00
+ 
+0,45
+ 
+0,60
+ 
+2,50
+ 
+5.
+ 
+Embarcación de crucero:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+ 
+Más de 12 horas
+ 
+2,25
+ 
+3,00
+ 
+2,25
+ 
+3,00
+ 
+-
+ 
+-
+ 
+12 horas o menos
+ 
+0,65
+ 
+1,00
+ 
+-
+ 
+1,00
+ 
+-
+ 
+Importes en euros. 
+ 
+Fuente: Elaboración propia a partir de los datos de la 
+normativa aplicable.
+ 
+ 
+La tarifa especial es aplicable a las estancias en los establecimientos que, dentro de un 
+cen
+tro recreativo turístico, estén situados en las áreas en 
+las 
+que se admiten actividades de 
+juego y apuestas. El importe es el mismo a lo 
+largo de todo el ejercicio fiscalizado.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+16
+ 
+Se establecen dos períodos de liquidación semestrales: 
+ 
+ 
+ 
+Temporada de verano: de 1 de abril a 30 de septiembre del mismo año. 
+ 
+ 
+Temporada de invierno: de 1 de octubre a 31 de marzo del año siguiente.
+ 
+ 
+Presentación e ingreso de la autoliquidación y plazos para 
+efectuarlo
+ 
+La presentación de la autoliquidación en la Agencia Tributaria de Cataluña, que debe 
+reali
+-
+zarse
+ 
+por vía telemática, y el ingreso del impuesto debe
+n
+ 
+efectuarse dentro de los siguientes 
+plazos:
+ 
+ 
+ 
+Temporada de verano, entre los días 1 y 20 de octubre.
+ 
+ 
+Temporada de invierno, entre los días 1 y 20 de abril.
+ 
+En relación con los plazos de presentación e ingreso de las autoliquidaciones del ejercicio 
+2020, el Decreto ley 6/2020, de 12 de marzo, de medidas urgentes en materia asistencial, 
+presupuestaria, financiera, fiscal y de contratación pública, para paliar l
+os efectos de la 
+pandemia generada por el coronavirus SARS
+-
+CoV
+-
+2, estableció la implementación de medi
+-
+das para minimizar los 
+riesgos que afecta
+ba
+n
+ 
+a
+ 
+la salud pública y 
+a
+l desarrollo económico, 
+entre otros, el aplazamiento del plazo p
+a
+r
+a
+ 
+presentar las auto
+liquidaciones que era entre el 
+1 y el 20 de abril de 2020, correspondientes a la 
+temporada de invierno 2019
+-
+2020
+, a los 
+días del 1 al 20 de octubre del 
+mismo año.
+ 
+ 
+Posteriormente, el Decreto ley 33/2020, de 30 de septiembre, de medidas urgentes en el 
+ámbito del impuesto sobre las emisiones de dióxido de carbono de los vehículos de trac
+-
+ción mecánica y del impuesto sobre las estancias en establecimientos turísticos, y en el 
+ámbito presupuestario y administrativo, estableció la posibilidad de posponer o fraccio
+nar 
+el pago de las deudas tributarias que debían liquidarse entre el 1 y el 20 de octubre, es 
+decir, las liquidaciones correspondientes a la temporada de inviern
+o 2019
+-
+2020 y a la tem
+-
+porada de verano 2020 (véanse los apartados 
+2.2.3.4
+ 
+y 
+2.2.3.5
+).
+ 
+ 
+ 
+ 
+2.
+ 
+FISCALIZACIÓN REALIZADA
+ 
+2.1.
+ 
+L
+IQUIDACIÓN DEL PRESUPUESTO
+ 
+2.1.1.
+ 
+Liquidación del presupuesto de gastos del Departamento de Empresa 
+y Trabajo
+ 
+A continuación se presenta la liquidación del 
+presupuesto de gastos del Departamento de 
+Empresa y Trabajo correspondiente al ejercicio 2021.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+17
+ 
+Cuadro 4.
+ 
+Liquidación del presupuesto de gastos del Departamento de Empresa y Trabajo
+ 
+Capítulos de gastos
+ 
+Presupuesto 
+inicial
+ 
+Modificaciones 
+de crédito
+ 
+Presupuesto 
+definitivo 
+ 
+Obligaciones 
+reconocidas
+ 
+Desviación
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Remuneraciones del personal
+ 
+42.971.351
+ 
+10.036.905
+ 
+53.008.256
+ 
+52.288.327
+ 
+719.929
+ 
+2. 
+Gastos corrientes bienes y servicios
+ 
+28.750.398
+ 
+(7.129.539)
+ 
+21.620.859
+ 
+15.891.422
+ 
+5.729.437
+ 
+3. Gastos 
+financieros
+ 
+60.500
+ 
+35.000
+ 
+95.500
+ 
+39.583
+ 
+55.917
+ 
+4. Transferencias corrientes
+ 
+797.852.220
+ 
+2.051.352.245
+ 
+2.849.204.465
+ 
+2.604.679.431
+ 
+244.525.034
+ 
+Operaciones corrientes
+ 
+869.634.469
+ 
+2.054.294.611
+ 
+2.923.929.080
+ 
+2.672.898.763
+ 
+251.030.317
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. 
+Inversiones reales
+ 
+501.187
+ 
+266.142
+ 
+767.329
+ 
+530.299
+ 
+237.030
+ 
+7. Transferencias de capital
+ 
+32.861.988
+ 
+46.624.490
+ 
+79.486.478
+ 
+74.554.884
+ 
+4.931.594
+ 
+Operaciones de capital
+ 
+33.363.175
+ 
+46.890.632
+ 
+80.253.807
+ 
+75.085.183
+ 
+5.168.624
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Operaciones no 
+financieras
+ 
+902.997.644
+ 
+2.101.185.243
+ 
+3.004.182.887
+ 
+2.747.983.946
+ 
+256.198.941
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8. Variación de activos financieros
+ 
+20.947.030
+ 
+697.982
+ 
+21.645.012
+ 
+21.014.205
+ 
+630.807
+ 
+Operaciones financieras
+ 
+20.947.030
+ 
+697.982
+ 
+21.645.012
+ 
+21.014.205
+ 
+630.807
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total gastos
+ 
+923.944.674
+ 
+2.101.883.225
+ 
+3.025.827.899
+ 
+2.768.998.151
+ 
+256.829.748
+ 
+Importes en euros.
+ 
+Fuente: Elaboración propia a partir de la ejecución presupuestaria del ejercicio 2021.
+ 
+El presupuesto inicial del Departamento, aprobado por la Ley 
+4/2020, de 29 de abril, de pre
+-
+supuestos de la Generalidad de Cataluña para el 2020, preveía unos gastos de 923,44
+ 
+de los cuales 83,22
+ 
+ran
+te el 
+ejercicio 2021 se aprobaron modificaciones de crédito por 2.101,88
+ 
+resultado un presupuesto definitivo de 3.025,83
+ 
+ 
+ 
+ 
+2.1.2.
+ 
+Liquidación del programa presupuestario de la Dirección General de 
+Turismo
+ 
+A continuación se presenta la liquidación del programa presupuestario correspondiente a la 
+Dirección General de Turismo del Departamento de Empresa y Trabajo, del ejercicio 2021.
+ 
+ 
+Cuadro 5.
+ 
+Liquidación del programa presupuestario de la Dirección General de Turismo
+ 
+Capítulos de gastos
+ 
+Presupuesto 
+inicial
+ 
+Modificaciones 
+de crédito
+ 
+Presupuesto 
+definitivo 
+ 
+Obligaciones 
+reconocidas
+ 
+Desviación
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Gastos corrientes bienes y servicios
+ 
+1.079.707
+ 
+3.230.043
+ 
+4.309.750
+ 
+1.700.017
+ 
+2.609.733
+ 
+4. Transferencias corrientes
+ 
+76.044.000
+ 
+36.789.738
+ 
+112.833.738
+ 
+79.580.944
+ 
+33.252.794
+ 
+Operaciones corrientes
+ 
+77.123.707
+ 
+40.019.781
+ 
+117.143.488
+ 
+81.280.961
+ 
+35.862.527
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. Inversiones reales
+ 
+130.000
+ 
+35.137
+ 
+165.137
+ 
+32.653
+ 
+132.484
+ 
+7. Transferencias de capital
+ 
+5.962.500
+ 
+2.712.226
+ 
+8.674.726
+ 
+4.479.281
+ 
+4.195.445
+ 
+Operaciones de 
+capital
+ 
+6.092.500
+ 
+2.747.363
+ 
+8.839.863
+ 
+4.511.934
+ 
+4.327.929
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Operaciones no financieras
+ 
+83.216.207
+ 
+42.767.144
+ 
+125.983.351
+ 
+85.792.895
+ 
+40.190.456
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8. Variación de activos financieros
+ 
+-
+ 
+2.953.983
+ 
+2.953.983
+ 
+2.953.983
+ 
+-
+ 
+Operaciones 
+financieras
+ 
+-
+ 
+2.953.983
+ 
+2.953.983
+ 
+2.953.983
+ 
+-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total gastos
+ 
+83.216.207
+ 
+45.721.127
+ 
+128.937.334
+ 
+88.746.878
+ 
+40.190.456
+ 
+Importes en euros.
+ 
+Fuente: Elaboración propia a partir de la ejecución presupuestaria del ejercicio 2021.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+18
+ 
+El presupuesto 
+inicial de la Dirección General de Turismo preveía unos gastos de 83,22
+ 
+Durante el ejercicio 2021 se aprobaron modificaciones de crédito por 45,72
+ 
+como resultado un presupuesto definitivo de 128,94
+ 
+ 
+ 
+En el presupuesto 
+definitivo, de los 128,94
+ 
+ 
+a gastos a financiar con recursos del impuesto sobre las estancias en establecimientos 
+turísticos. En cuanto al resto, 17,59
+ 
+-
+pios del presupuesto del Departamento de Empresa y Trabajo y 22,11
+ 
+-
+ciar con recursos incorporados procedentes de fondo
+s
+ 
+finalistas, principalmente para 
+afron
+-
+tar
+ 
+los 
+gastos generados por la covid.
+ 
+ 
+ 
+2.1.3.
+ 
+Gastos financiados con el 
+impuesto sobre las estancias en 
+establecimientos turísticos
+ 
+Las gastos financiados con los ingresos del impuesto sobre las estancias en estableci
+mien
+-
+tos turísticos incluidos en la liquidación del programa presupuestario de la Dirección General 
+de Turismo son los siguientes:
+ 
+ 
+Cuadro 6.
+ 
+Gastos financiados con el impuesto sobre las estancias en establecimientos turísticos
+ 
+Concepto
+ 
+Presupuesto 
+definitivo
+ 
+Obligaciones 
+reconocidas
+ 
+Diferencia 
+(importe)
+ 
+Diferencia 
+(%)
+ 
+Gastos varios
+ 
+3.024.939
+ 
+960.177
+ 
+2.064.762
+ 
+68,26
+ 
+Trabajos realizados por personas físicas o jurídicas
+ 
+212.433
+ 
+146.238
+ 
+66.195
+ 
+31,16
+ 
+Prestación de servicios con medios ajenos
+ 
+951.544
+ 
+531.573
+ 
+419.971
+ 
+44,14
+ 
+Transferencias corrientes:
+ 
+ 
+ 
+ 
+ 
+-
+ 
+A 
+la 
+Agencia Catalana de Turismo
+ 
+34.179.188
+ 
+34.179.188
+ 
+-
+ 
+-
+ 
+-
+ 
+A 
+Circuits de Catalunya, SL
+ 
+6.230.700
+ 
+6.230.700
+ 
+-
+ 
+-
+ 
+-
+ 
+A la Agencia Catalana de Patrimonio Cultural
+ 
+10.500
+ 
+-
+ 
+10.500
+ 
+100,00
+ 
+-
+ 
+A otras entidades participadas por la Generalidad
+ 
+400.000
+ 
+400.000
+ 
+-
+ 
+-
+ 
+-
+ 
+A corporaciones locales
+ 
+35.630
+ 
+-
+ 
+35.630
+ 
+100,00
+ 
+-
+ 
+Al 
+Fondo para el fomento del turismo
+ 
+35.188.840
+ 
+2.074.077
+ 
+33.114.763
+ 
+94,11
+ 
+-
+ 
+A empresas privadas y familias
+ 
+153.500
+ 
+61.600
+ 
+91.900
+ 
+59,87
+ 
+Inversiones reales
+ 
+165.137
+ 
+32.653
+ 
+132.484
+ 
+80,23
+ 
+Transferencias de capital a corporaciones locales
+ 
+8.674.726
+ 
+4.479.281
+ 
+4.195.445
+ 
+48,36
+ 
+Aportaciones de capital a la Agencia Catalana de Turismo 
+ 
+8.888
+ 
+8.888
+ 
+-
+ 
+-
+ 
+Total
+ 
+89.236.025
+ 
+49.104.375
+ 
+40.131.650
+ 
+44,97
+ 
+Importes en euros.
+ 
+Fuente: Elaboración propia a partir de la ejecución presupuestaria del ejercicio 
+2021.
+ 
+ 
+El presupuesto definitivo de los gastos de la Dirección General de Turismo financiados con 
+el impuesto sobre las estancias en establecimientos turísticos preveía unos gastos de 89,24
+ 
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+19
+ 
+Las obligaciones reconocidas, 49,10
+ 
+de la Dirección General de Turismo y el 55,03% del presupuesto definitivo. La baja ejecución 
+del presupuesto se debe, principalmente, a los efectos de la pandemia de la covid en el 
+tu
+rismo de Cataluña, que provocó un descenso generalizado de los ingresos procedentes 
+del impuesto sobre las estancias en establecimientos turísticos y, 
+por consiguiente
+, una dis
+-
+minución generalizada de los gastos financiados con el impuest
+o y, fundamentalmente, de 
+los gastos del Fondo para el fomento del turismo.
+ 
+ 
+Los ingresos derivados del impuesto sobre las estancias en establecimientos turísticos están 
+afectados a la dotación del Fondo para el fomento del turismo para atender las finalidades 
+que se determinan, excepto de los ingresos derivados del recargo para la
+ 
+ciudad de Barce
+-
+lona, en vigor desde el 1 de junio de 2021. 
+ 
+ 
+Los principales gastos corresponden a transferencias corrientes, principalmente a la Agen
+-
+cia Catalana de Turismo, 34,18
+ 
+4
+ 
+y a Circuits de Catalunya, SL,
+5
+ 
+6,23
+ 
+-
+feren
+cias corrientes se realizan de forma periódica anualmente. En cuanto a la Agencia 
+Ca
+ta
+lana
+ 
+de Turismo, dentro de las obligaciones reconocidas se incluyen, de forma 
+extraor
+di
+na
+ria, 12,18
+ 
+frente a con
+vo
+ca
+torias de ayudas para el sector turístico con motivo de la pandemia de la 
+covid. 
+ 
+ 
+En el presupuesto se incluye la partida del Fondo para el fomento del turismo, previsto en 
+35,19
+ 
+ 
+impuesto que, de acuerdo con la normativa, debe destinarse a los ayuntamientos en función 
+de la recaudación que ha habido en el ámbito territorial de cada uno de ellos (véase el 
+apar
+tado 
+1.3.4
+). Esta partida se previó por 35,19
+ 
+ 
+del presupuesto definitivo. Esta desviación se debe, principalmente, a 2 motivos: en primer 
+lugar, por la recaudación del impuesto sobre las estancias en establecimientos turísticos del 
+ejercicio 2020, que es la que debía repartirse y liquidarse en el presupuesto del ejercicio 
+2021, y que sufrió un descenso muy significativo con motivo de la pandemia de la covid y,
+ 
+en 
+segundo lugar, por la caída en el importe liquidado debido a que en el ejercicio 2021 solo 
+se liquidó 1 de las 2 temporadas en las que se divide la liquidación del impuesto, concreta
+-
+mente la temporada de invierno 2020
+-
+2021 (véase el apartado 
+1.3.3
+).
+ 
+ 
+Dentro de los gastos diversos, en el presupuesto definitivo se preveía, principalmente, un 
+gasto de 3,00
+ 
+de aislamiento y cuarentena de huéspedes que, alejados de su domicilio habi
+tual, presenta
+-
+ 
+ 
+4
+. El último informe de fiscalización de la Agencia Catalana de Turismo 
+elaborado 
+por la Sindicatura de Cuentas 
+fue el 8/2019, relativo al ejercicio 2017.
+ 
+5
+. El último informe de fiscalización de Circuits de Catalunya, SL
+,
+ 
+elaborado
+ 
+por la Sindicatura de Cuentas fue el 
+4/2021, relativo al ejercicio 2018.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+20
+ 
+ran sintomatología covid. Finalmente, el número de turistas internacionales y los casos de 
+covid quedaron por debajo de las previsiones, por lo que las obligaciones reconocidas 
+ascen
+dieron a 940.287
+ 
+ 
+Por último, en el presupuesto destaca también el gasto en el capítulo 7: 4,48
+ 
+-
+ciones reconocidas, que corresponden a transferencias de capital a corporaciones locales 
+relacionadas, básicamente, con la concesión de subvenciones a los entes locales para 
+proyectos de inversión dentro de los planes de fomento territorial del turismo.
+ 
+ 
+ 
+2.2.
+ 
+F
+ISCALIZACIÓN 
+DEL
+ 
+IMPUESTO SOBRE LAS ESTANCIAS EN ESTABLECIMIENTOS 
+TURÍSTICOS
+ 
+A continuación se incluye la fiscalización realizada sobre el impuesto sobre las estancias en 
+establecimientos turísticos. 
+ 
+ 
+ 
+2.2.1.
+ 
+Registro de Turismo de Cataluña
+ 
+El Registro de Turismo de Cataluña es un órgano administrativo adscrito a la dirección 
+general competente en materia de turismo, regulado en el artículo 73 de la Ley 13/2002, de 
+21 de junio, de turismo de Cataluña, y en el artículo 131 del título III del D
+ecreto 75/2020. La 
+finalidad del Registro es mantener un censo público de los alojamientos turísticos legales 
+existentes en Cataluña y recoger datos de las empresas y actividades reglamentadas, para 
+su 
+posterior 
+uso estadístico.
+ 
+ 
+De acuerdo con el artículo 38 de la Ley 5/2017, en las actuaciones con la Agencia Tribu
+-
+taria de Cataluña relativas al impuesto sobre las estancias en establecimientos turís
+ticos, 
+los establecimientos y equipamientos turísticos deben ser identificados por medio del có
+-
+digo de 
+identificación asignado por el Registro de Turismo de Cataluña. No obstante, el 
+artículo 15 del Decreto 141/2017, de 19 de septiembre, por el que se aprueba el Regla
+-
+mento del impuesto sobre las estancias en establecimientos turísticos, dispone que, en 
+caso de que el establecimiento o equipamiento no tenga asignado este código, la Agencia 
+Tributaria de Cataluña le asigne uno provisional, solo a efectos de este impuesto
+.
+ 
+ 
+El procedimiento de comunicación de altas y bajas de la actividad de los establecimientos 
+de alojamiento turístico en el Registro de Turismo de Cataluña se puede resumir de la si
+-
+guien
+te manera:
+ 
+ 
+ 
+El establecimiento turístico interesado inicia el procedimiento de habilitación mediante 
+una comunicación telemática ante el órgano municipal competente, y previo abono de la 
+tasa municipal, en su caso, para iniciar la prestación de servicios.
+ 
+ 
+ 
+El establecimiento turístico que haya comunicado el inicio de su actividad y todavía no 
+disponga del código de identificación del Registro de Turismo de Cataluña, transitoria
+-
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+21
+ 
+mente y a efectos de cumplir con la obligación de exhibición de
+ 
+dicho
+ 
+código en toda 
+clase de publicidad que lo anuncie
+ 
+exhibe
+ 
+un código de identificación provisional refe
+-
+rente al inicio de 
+las 
+actividades. En este caso, el código 
+provisional del establecimiento 
+l
+o
+ 
+otorga la Ventanilla única empresarial.
+6
+ 
+ 
+Cuando posteriormente el ayuntamiento competente comunica a la administración turís
+-
+tica de la Generalidad los datos definitivos relativos al establecimiento turístico 
+se inscribe
+ 
+en el 
+Registro de Turismo de Cataluña
+.
+ 
+ 
+ 
+La comunicación de los datos definitivos del establecimiento mediante la Ventanilla única 
+empresarial lleva asociad
+a
+ 
+la concesión automática del código de identificación que el 
+mismo sistema telemático 
+notifica 
+al titular y al ayuntamiento, de acuerdo con
+ 
+el artículo 
+131 del Decreto 75/2020. Cuando un establecimiento deb
+a
+ 
+darse de baja del 
+Registro de 
+Turismo de Cataluña
+, la 
+Dirección General de Turismo 
+dicta una 
+resolución administrativa 
+de baja que se comunica al interesado y al ayuntamiento correspondien
+te y da de baja 
+el establecimiento de la base de datos del registro.
+ 
+ 
+Del análisis de los trámites del procedimiento de inscripción de los establecimientos turísti
+-
+cos en el Registro de Turismo de Cataluña hay 
+que resaltar lo siguiente:
+ 
+ 
+ 
+Entre la Dirección General de Turismo y la Agencia Tributaria de Cataluña no se efectúa 
+una
+ 
+conciliación periódica de los datos de los establecimientos incluidos en el Registro, 
+lo que dificulta el seguimiento y control del hecho de que estos establecimientos estén 
+liquidando el impuesto de forma correcta. 
+ 
+ 
+ 
+La Dirección General de Turismo no recibe información de los códigos de identificación 
+que la Agencia Tributaria de Cataluña 
+asigna
+ 
+provisionalmente y, por lo tanto, desconoce 
+si los establecimientos están liquidando el impuesto con códigos provisionales y si estos 
+corresponden a establecimientos que ya tenían un código definitivo en el Registro de 
+Turismo de Cataluña.
+ 
+ 
+ 
+Para acceder a la información de los datos del Registro de Turismo de Cataluña, la Agen
+-
+cia Tributaria de Cataluña no accede a la base de datos de que dispone la Dirección 
+General de Turismo, sino que obtiene la información directamente del Centro de Teleco
+-
+municaciones y Tecnologías de la Información de la Generalidad de Cataluña. Esto au
+-
+men
+ta el riesgo de ineficiencias operativas y de control interno. 
+ 
+ 
+ 
+6
+. 
+La Ventanilla única empresarial es el instrumento de la Generalidad a través del cual se capturan y procesan 
+los datos aportados por las empresas y los profesionales, asegurando la calidad de los datos, la unidad del 
+dato a partir de la recogida única en o
+rigen a través de la tramitación unificada, la interoperabilidad con todos 
+los organismos responsables y la transparencia hacia los titulares de la actividad económica 
+en 
+relación 
+con
+ 
+los datos disponibles.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+22
+ 
+2.2.2.
+ 
+Comité bilateral
+ 
+De acuerdo con la normativa, el Comité bilateral gestiona el Fondo para el fomento del 
+turismo y tiene la función de aprobar las directrices de actuación, decidir la asignación de 
+los recursos y controlar el porcentaje de fondo con destino local.
+ 
+ 
+El Comité bilateral se reúne semestralmente con carácter ordinario, y está formado por las 
+siguientes personas:
+ 
+ 
+El titular del 
+d
+epartamento competente en materia de turismo, o en quien delegue, en 
+calidad de presidente o 
+presidenta.
+ 
+ 
+En representación del 
+d
+epartamento competente en materia de economía, 3 personas.
+ 
+ 
+En representación del 
+d
+epartamento competente en materia de turismo, 3 personas.
+ 
+ 
+Una persona funcionaria del departamento competente en materia de turismo, con voz 
+pero sin voto, en calidad de secretario o secretaria.
+ 
+ 
+En la última reunión del Comité bilateral de septiembre de 2021 los miembros que lo for
+-
+maban eran los siguientes:
+ 
+ 
+Cuadro 7.
+ 
+Composición del Comité bilateral
+ 
+Nombre
+ 
+Cargo
+ 
+Cargo
+ 
+/
+ 
+Representación
+ 
+Oriol Sagrera Saula
+ 
+Presidente
+ 
+Secretario general del Departamento de Empresa y Trabajo
+ 
+Albert Castellanos Maduell
+ 
+Vocal
+ 
+Secretario de Empresa y Competitividad del Departa
+mento 
+de Empresa y Trabajo
+ 
+Marta Domènech Tomàs
+ 
+Vocal
+ 
+Directora general de Turismo del Departamento de 
+Empresa y Trabajo
+ 
+Marta Espasa Queralt
+ 
+Vocal
+ 
+Secretaria de Hacienda del Departamento de Economía y 
+Hacienda
+ 
+Montserrat Bassols 
+Santamaria
+ 
+Vocal
+ 
+Subdirectora general de Financiación y Sostenibilidad 
+F
+inan
+ciera del Departamento de Economía y Hacienda
+ 
+Matilde Villarroya Martínez
+ 
+Vocal
+ 
+Secretaría de Asuntos Económicos y Fondos 
+E
+uropeos del 
+Departamento de Economía y Hacienda
+ 
+Carme Rubió Soto
+ 
+Secretaria, con 
+voz y sin voto
+ 
+Subdirectora general de 
+Desarrollo Turístico Territorial del 
+Departamento de Empresa y Trabajo
+ 
+Fuente: Elaboración propia.
+ 
+Nota: De acuerdo con lo previsto en la normativa, falta uno de los representantes del departamento competente 
+en materia de turismo.
+ 
+ 
+Del análisis de la actividad efectuada por el Comité bilateral respecto de los fondos a distri
+-
+buir correspondientes al ejercicio fiscalizado, hay que mencionar los siguientes aspectos, 
+relativos tanto a aspectos formales como de procedimiento y de legalidad: 
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+23
+ 
+ 
+El Comité 
+bilateral debe reunirse semestralmente y debe decidir el destino del Fondo. A 
+partir de las decisiones tomadas en el Comité se efectúa la transferencia de crédito a los 
+ayuntamientos por los importes establecidos en la reunión.
+ 
+ 
+Los plazos establecidos por la normativa para las temporadas de invierno 2020
+-
+2021, 
+verano 2021 e invierno 2021
+-
+2022, y los plazos reales de reparto del Fondo, son los 
+siguientes:
+ 
+ 
+Cuadro 8.
+ 
+Fechas y plazos de reparto del Fondo
+ 
+Temporada
+ 
+Período temporal
+ 
+Plazos según normativa
+ 
+Fecha real 
+de 
+reparto 
+del Fondo
+ 
+Autoliquidación
+ 
+Reparto del 
+Fondo a los 
+ayuntamientos
+ 
+Reparto del 
+recargo de 
+Barcelona
+ 
+Invierno 2020
+-
+2021
+ 
+10.2020 a 03.2021
+ 
+1 a 20 de abril 2021
+ 
+20.08.2021
+ 
+20.06.2021
+ 
+15.09.2021
+ 
+Verano 2021
+ 
+04.2021 a 09.2021
+ 
+1 al 20 de 
+octubre 2021
+ 
+20.02.2022
+ 
+20.12.2021
+ 
+16.02.2022
+ 
+Invierno 2021
+-
+2022
+ 
+10.2021 a 03.2022
+ 
+1 a 20 de abril 2022
+ 
+16.06.2022
+ 
+20.06.2022
+ 
+16.06.2022
+ 
+Fuente: Elaboración propia a partir de la información recogida en la normativa aplicable y en las actas del 
+Comité bilateral.
+ 
+ 
+Así, para la temporada de invierno 2020
+-
+2021, la fecha real de reparto del Fondo a los 
+ayuntamientos fue posterior a la fecha prevista en la normativa, mientras que para la tem
+-
+porada de verano 2021 y de invierno 2021
+-
+2022 el reparto se realizó dentro del plazo 
+previsto.
+ 
+ 
+En lo referente al reparto del Fondo correspondiente al recargo de Barcelona, el semestre 
+de invierno 2021
+-
+2022 fue el único en el que el reparto se hizo dentro del plazo previsto.
+ 
+ 
+ 
+En las actas de las reuniones del Comité no consta el visto bueno del presidente, que 
+establece el artículo 20.3 de la Ley 26/2010, de 3 de agosto, de régimen jurídico y de 
+procedimiento de las administraciones públicas de Cataluña.
+ 
+ 
+ 
+De acuerdo con el Decreto 75/2020, el Comité bilateral tiene la función de aprobar las 
+directrices de actuación, decidir la asignación de los recursos del Fondo y controlar el 
+porcentaje de fondo con destino local. 
+ 
+ 
+En la práctica, el Comité bilateral aprueba el destino del global del Fondo y detalla la 
+parte del Fondo a destinar a los ayuntamientos en función de la recaudación en su ámbito 
+territorial, diferenciando los importes por ayuntamiento o consejo comarcal, s
+egún sea el 
+caso. Hay que mencionar, 
+sin embargo,
+ 
+que para el 50% restante del Fondo, además de 
+la aprobación del importe global, el Comité bilateral no detalla ni especifica las actua
+-
+ciones o finalidades concretas a las que debe destinarse 
+el
+ 
+importe.
+ 
+ 
+ 
+Dentro de los importes recaudados correspondientes a la temporada de verano 2021, 
+hay 95.995
+ 
+asignó a ningún municipio por falta de datos y que clasificó como incidencias (véase el 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+24
+ 
+cuadro 10). En consecuencia, el Comité bilateral, en la reunión para el reparto de la recau
+-
+dación de aquella temporada, no distribuyó este importe.
+ 
+ 
+En la reunión posterior, de 16 de junio de 2022, estas incidencias seguían sin resolverse, 
+dado que la información procedente de la Agencia Tributaria de Cataluña no especificaba 
+la procedencia de los ingresos ni, por lo tanto, su destino. Dada la falta de
+ 
+información y 
+la imposibilidad de asignar el importe a los ayuntamientos correspondientes, el Comité 
+bi
+lateral acordó incorporar el importe a la cuantía a recibir por parte de la Generalidad de 
+Cataluña.
+ 
+2.2.3.
+ 
+Fiscalización del Fondo para el fomento del turismo
+ 
+El Fondo para el fomento del turismo se configura como un mecanismo destinado a financiar 
+políticas turísticas para 
+mejorar
+ 
+la competitividad de Cataluña como destino turís
+tico y ga
+-
+ran
+tizar 
+su
+ 
+sostenibilidad. 
+ 
+ 
+El Fondo se dota con los ingresos obtenidos del impuesto sobre las estancias en estableci
+-
+mientos turísticos. Esta dotación 
+queda
+ 
+afectada 
+a
+ 
+los gastos directamente relacionados con 
+los siguientes objetivos:
+ 
+ 
+a)
+ 
+La promoción turística de Cataluña.
+ 
+b)
+ 
+El impulso del turismo sostenible, responsable y de calidad, y la protección, preser
+va
+-
+ción, recuperación 
+de la mejora
+ 
+de los recursos turísticos.
+ 
+c)
+ 
+El fomento, la creación y el mejoramiento de los productos turísticos.
+ 
+d)
+ 
+El mejoramiento de los 
+servicios de control e inspección sobre los establecimientos y 
+equi
+pamientos turísticos.
+ 
+e)
+ 
+El
+ 
+desarrollo
+ 
+de
+ 
+infraestructuras
+ 
+y
+ 
+servicios
+ 
+relacionados
+ 
+con
+ 
+el
+ 
+turismo.
+ 
+ 
+Los departamentos competentes en materia de economía y de turismo son los encargados 
+de gestionar el Fondo, y deben garantizar la información previa del sector afectado. En este 
+sentido, el Decreto 75/2020 prevé la creación de la Comisión del Fondo para el
+ 
+fomento del 
+turismo. Esta Comisión debe garantizar la información previa del sector afectado, 
+debe
+ 
+pro
+-
+poner las directrices de actuación de acuerdo con la planificación turística de la Generalidad 
+de Cataluña y la aplicación de los recursos del Fondo.
+ 
+ 
+ 
+2.2.3.1.
+ 
+Reparto del Fondo
+ 
+De acuerdo con el Decreto 75/2020, este Fondo lo gestiona un Comité bilateral que tiene la 
+función de aprobar las directrices de actuación propuestas por la Comisión del Fondo para 
+el fomento del turismo, decidir la asignación de sus recursos y controlar e
+l porcentaje de 
+fondos
+ 
+con destino local. Este Comité debe estar formado por representantes de los depar
+-
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+25
+ 
+tamentos competentes en materia de turismo y de economía. El Comité bilateral 
+debe
+ 
+re
+-
+par
+tir el Fondo para el fomento del turismo para conseguir las finalidades descritas y pre
+-
+de
+termina que una parte de este Fondo debe destinar
+se
+ 
+a las administraciones locales de 
+acuerdo con los citados porcentajes.
+ 
+ 
+De acuerdo con la normativa, el reparto del Fondo es el siguiente:
+ 
+ 
+ 
+A las administraciones locales: el 50% de la recaudación obtenida del impuesto en el 
+ám
+bito territorial de cada ayuntamiento. Este importe debe ordenarse de forma directa 
+mediante transferencia de crédito 4 meses después de finalizar el plazo de presentación 
+e ingreso de la autoliquidación. 
+ 
+ 
+A la ciudad de Barcelona: le corresponde, además, el 50% del importe que resulta de 
+apli
+car el incremento de tarifa de los establecimientos de la ciudad con relación a la apli
+-
+cada 
+en e
+l resto de 
+los 
+establecimientos del territorio de Cataluña. Este destino se ordena 
+de forma directa mediante transferencia de crédito 2 meses después de finalizar el plazo 
+de presentación e ingreso de la autoliquidación.
+ 
+ 
+ 
+ 
+Al Consejo General de Arán: un 20% de la recaudación obtenida en su territorio, adicional 
+al reparto correspondiente a las administraciones locales, con cargo al tramo del Fondo 
+de gestión propia de la Generalidad, integrado por el 50% de la recaudación de
+l impuesto 
+en los municipios del Vall
+e
+ 
+d
+e 
+Ar
+án
+ 
+que corresponde a la Generalidad. Este Fondo de 
+gestión propia de la Generalidad solo se menciona en la Ley 5/2017 en este caso con
+-
+creto, pero no se define ni concreta qué debe incluir. La normativa reglament
+aria o de 
+desarrollo posterior tampoco concretó este concepto. 
+ 
+ 
+Por lo tanto, 
+el Valle de Arán
+ 
+participa del Fondo para el fomento del turismo mediante 
+una doble vía. Por una parte, a los municipios de
+l
+ 
+Vall
+e
+ 
+de 
+Ar
+á
+n les corresponde el 50% 
+de la recaudación de los establecimientos turísticos de cada municipio, igual que al resto 
+de municipios de Cataluña y, de la otra, al Consejo General de Arán le corresponde el 
+20% de la recaudación obtenida en 
+el Valle de Arán
+ 
+con cargo al Fondo de gestión propia 
+de la Generalidad. 
+ 
+ 
+Se debe tener en cuenta que, cuando la recaudación total de los establecimientos turísticos 
+de un municipio no supere los 6.000
+ 
+en 
+e
+l consejo comarcal correspondiente, en sustitución del ayuntamiento.
+ 
+ 
+Hay que 
+decir que el artículo 49 de la Ley 5/2017 excluye de este reparto la tarifa especial. 
+Igualmente, el recargo para la ciudad de Barcelona establecido en el artículo 34 bis de la 
+Ley 5/2017 tampoco se integra en el Fondo para el fomento del turismo y, por lo
+ 
+tanto, estos 
+ingresos no 
+quedan
+ 
+afectados a 
+dichas
+ 
+finalidades. La normativa debería especificar el des
+-
+tino de estos fondos, principalmente los relativos a la tarifa especial que se recauda en los 
+establecimientos 
+en los que
+ 
+se realizan actividades de ju
+ego y apuestas.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+26
+ 
+Tal y como se ha comentado, 
+en
+ 
+la práctica, el Comité bilateral aprueba el destino del global 
+del Fondo y detalla la parte del Fondo a destinar a los ayuntamientos, pero no detalla la otra 
+parte del Fondo, ni especifica las actuaciones o finalidades concretas a las que debe desti
+-
+narse este importe (véase el apartado 
+2.2.2
+).
+ 
+ 
+ 
+2.2.3.2.
+ 
+Justificación de los entes locales en relación con los fondos 
+recibidos
+ 
+En cuanto a la justificación de la aplicación del Fondo para el fomento del turismo, los entes 
+locales deben certificar ante el Comité bilateral el destino efectiv
+o
+ 
+de los créditos corres
+-
+pondientes al importe liquidado de las 2 temporadas semestrales 
+de invierno y de verano
+ 
+mediante certificados extendidos por un funcionario o funcionaria con habilitación suficiente 
+y deben incluir el conjunto de actuaciones, totales o parciales, que hay
+a realizado el ente 
+local durante el período que va desde el mes de 
+abril que inicia la temporada de verano 
+hasta el 
+límite del 
+plazo de presentación del certificado, de acuerdo con lo que prevé el 
+artículo 431
+-
+6 del Decreto 75/2020. Este certificado debe ir acompañado del corres
+pon
+-
+diente informe sobre el conjunto de actuaciones que han 
+realizado
+ 
+para el control de la 
+ac
+tividad de los alojamientos turísticos situados en su ámbito territorial que prevé el artículo 
+431
+-
+8 de
+ 
+dicho
+ 
+decreto.
+ 
+ 
+El plazo de presentación de los certificados finaliza el último día del mes de enero del año 
+siguiente al vencimiento de la temporada de invierno.
+ 
+ 
+Los entes locales que participan en el Fondo para el fomento del turismo deben destinar y 
+justificar la parte de los fondos recibidos en su ámbito territorial de acuerdo con las direc
+-
+trices de actuación y con los siguientes criterios y procedimientos:
+ 
+ 
+a)
+ 
+Los entes locales en cuyo territorio se haya alcanzado o superado el umbral de los 
+300.000,00
+ 
+-
+trales de 
+liquidación que corresponden a las temporadas de invierno y verano, deben 
+destinar un mínimo del 60% del importe de los fondos asignados a proyectos y actua
+-
+ciones concretas de promoción turística.
+ 
+b)
+ 
+Los entes locales en cuyo territorio no se haya alcanzado el umbral de los 300.000,00
+ 
+de recaudación en concepto del impuesto, sumando los 2 períodos semestrales de liqui
+-
+dación que corresponden a las temporadas de invierno y verano, deben destinar un mí
+-
+nimo del 75% del importe de los fondos asignados a proyectos y actuaciones concre
+tos 
+de promoción turística.
+ 
+ 
+En ambos supuestos, el porcentaje que 
+quede
+ 
+después de aplicar la recaudación a los pro
+-
+yectos y 
+actuaciones concret
+as
+ 
+de promoción turística puede destinarse 
+a los demás
+ 
+ob
+je
+-
+ti
+vos que 
+determina la Ley 5/2017.
+ 
+ 
+En caso de que no se acredite el destino efectivo de los créditos a las directrices de actuación, 
+el Comité debe declarar su incumplimiento, con la previa audiencia del ente local interesado.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+27
+ 
+El Comité debe determinar directamente el destino de los fondos a acciones vinculadas a 
+las directrices de actuación dentro del ámbito territorial de referencia del municipio interesado.
+ 
+ 
+En caso de que el incumplimiento sea imputable a un consejo comarcal o al Consejo General 
+de Arán, el Comité debe determinar directamente el destino de los fondos a las acciones de 
+promoción turística del departamento competente en materia de turismo.
+ 
+ 
+ 
+2.2.3.3.
+ 
+Recaudación del Fondo
+ 
+El Comité bilateral distribuye los importes procedentes de la recaudación del impuesto y que 
+conforman el Fondo para el fomento del turismo. A continuación se presenta un resumen de 
+los importes recaudados por las temporadas de invierno 2020
+-
+2021, verano 2
+021 e invierno 
+2021
+-
+2022. 
+ 
+ 
+Cuadro 9.
+ 
+Recaudación de la temporada de invierno 2020
+-
+2021 (cuarto trimestre de 2020 y primer trimestre
+ 
+de 2021)
+ 
+Concepto
+ 
+Recaudación
+ 
+Liquidaciones
+ 
+Media de los 
+ingresos por 
+liquidación
+ 
+Importe
+ 
+Porcentaje
+ 
+Número
+ 
+Porcentaje
+ 
+Estancias 
+ 
+2.390.947
+ 
+57,30
+ 
+3.598
+ 
+26,23
+ 
+665
+ 
+Cruceros 
+ 
+64.058
+ 
+1,60
+ 
+25
+ 
+0,18
+ 
+2.562
+ 
+Total Barcelona ciudad
+ 
+2.455.005
+ 
+58,90
+ 
+3.623
+ 
+26,41
+ 
+678
+ 
+Estancias 
+ 
+1.708.017
+ 
+41,00
+ 
+10.088
+ 
+73,59
+ 
+169
+ 
+Cruceros 
+ 
+2.261
+ 
+0,10
+ 
+2
+ 
+0,00
+ 
+1.131
+ 
+Total resto de Cataluña
+ 
+1.710.278
+ 
+41,10
+ 
+10.090
+ 
+73,59
+ 
+169
+ 
+Total 
+ 
+4.165.283
+ 
+100,00
+ 
+13.713
+ 
+100,00
+ 
+304
+ 
+Importes en euros.
+ 
+Fuente: Agencia Tributaria de Cataluña.
+ 
+ 
+Cuadro 10.
+ 
+Recaudación de la temporada de verano 2021 (segundo y tercer trimestres de 2021)
+ 
+Concepto
+ 
+Recaudación
+ 
+Liquidaciones
+ 
+Media de los 
+ingresos por 
+liquidación
+ 
+Importe
+ 
+Porcentaje
+ 
+Número
+ 
+Porcentaje
+ 
+Estancias 
+ 
+6.663.673
+ 
+34,55
+ 
+7.068
+ 
+23,10
+ 
+943
+ 
+Cruceros 
+ 
+74.451
+ 
+0,40
+ 
+17
+ 
+0,10
+ 
+4.379
+ 
+Total Barcelona ciudad
+ 
+6.738.124
+ 
+34,95
+ 
+7.085
+ 
+23,20
+ 
+951
+ 
+Estancias 
+ 
+12.452.225
+ 
+65,04
+ 
+23.393
+ 
+76,79
+ 
+532
+ 
+Cruceros 
+ 
+1.080
+ 
+0,01
+ 
+1
+ 
+0,01
+ 
+1.080
+ 
+Total resto de Cataluña
+ 
+12.453.305
+ 
+65,05
+ 
+23.394
+ 
+76,80
+ 
+532
+ 
+Incidencias*
+ 
+95.995
+ 
+ 
+ 
+141
+ 
+ 
+ 
+ 
+ 
+Total
+ 
+19.287.424
+ 
+100,00
+ 
+ 
+30.620
+ 
+100,00
+ 
+ 
+630
+ 
+ 
+Importes en euros.
+ 
+Fuente: Agencia 
+Tributaria de Cataluña.
+ 
+* Las incidencias responden a casos de importes recaudados en relación con los que la Agencia Tributaria de Cata
+-
+luña no dispuso de suficiente información para incluirlos en alguno de los conceptos referentes a Barcelona ciudad 
+o al resto de Cataluña ni a estancias o cruceros
+.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+28
+ 
+Cuadro 11.
+ 
+Recaudación de la temporada de invierno 2021
+-
+2022 (cuarto trimestre de 2021 y primer
+ 
+trimestre de 2022)
+ 
+Concepto
+ 
+Recaudación
+ 
+Liquidaciones
+ 
+Media de los 
+ingresos por 
+liquidación
+ 
+Importe
+ 
+Porcentaje
+ 
+Número
+ 
+Porcentaje
+ 
+Estancias 
+ 
+13.300.108
+ 
+64,80
+ 
+6.686
+ 
+28,00
+ 
+1.989
+ 
+Cruceros 
+ 
+397.081
+ 
+1,93
+ 
+85
+ 
+030
+ 
+4.671
+ 
+Total Barcelona ciudad
+ 
+13.697.189
+ 
+66,73
+ 
+6.771
+ 
+28,30
+ 
+2.023
+ 
+Estancias 
+ 
+6.830.555
+ 
+33,27
+ 
+17.121
+ 
+71,70
+ 
+399
+ 
+Cruceros 
+ 
+-
+ 
+-
+ 
+-
+ 
+-
+ 
+-
+ 
+Total resto de Cataluña
+ 
+6.830.555
+ 
+33,27
+ 
+17.121
+ 
+71,70
+ 
+399
+ 
+Total 
+ 
+20.527.744
+ 
+100,00
+ 
+23.892
+ 
+100,00
+ 
+859
+ 
+Importes en euros.
+ 
+Fuente: Agencia Tributaria de Cataluña.
+ 
+ 
+Los importes del Fondo que constan en las actas del Comité bilateral coinciden con los 
+importes recaudados por la 
+Agencia Tributaria de Cataluña.
+ 
+ 
+ 
+2.2.3.4.
+ 
+Muestra fiscalizada
+ 
+Para la fiscalización del Fondo para el fomento del turismo se han tenido en cuenta los lista
+-
+dos de distribución de los fondos 
+en
+ 
+los municipios, que constan en las diferentes actas del 
+Comité bilateral, en concreto, p
+a
+r
+a
+ 
+las temporadas que van desde la temporada de verano 
+2019 hasta la temporada de invierno 2021
+-
+2022. A partir de estos listados, se ha tomado 
+una muestra de los importes a justificar más significativos de cada temporada más 5 al azar, 
+a criterio del auditor
+.
+ 
+ 
+La muestra seleccionada y los porcentajes de cobertura se muestran a continuación:
+ 
+ 
+Cuadro 12.
+ 
+Muestra seleccionada y porcentajes de cobertura
+ 
+ 
+Temporada
+ 
+Expedientes
+ 
+Número
+ 
+Importe a 
+justificar
+ 
+Porcentaje de cobertura sobre 
+el importe 
+total a justificar
+ 
+Verano 2019
+ 
+8
+ 
+13.122.486
+ 
+61,46
+ 
+Invierno 2019
+-
+2020 y verano 2020*
+ 
+8
+ 
+5.507.320
+ 
+56,57
+ 
+Invierno 2020
+-
+2021
+ 
+7
+ 
+1.311.883
+ 
+63,25
+ 
+Verano 2021
+ 
+11
+ 
+5.462.989
+ 
+56,72
+ 
+Invierno 2021
+-
+2022
+ 
+7
+ 
+7.168.220
+ 
+68,66
+ 
+Total
+ 
+41
+ 
+32.572.898
+ 
+61,19
+ 
+Importes en euros, IVA incluido. 
+ 
+Fuente: Elaboración propia.
+ 
+* Se incluyen 2 temporadas conjuntamente 
+dado
+ 
+que la recaudación de invierno 2019
+-
+2020 se 
+aplazó en virtud del artículo 4 del Decreto ley 6/2020 y del artículo 3 del Decreto ley 33/2020.
+ 
+ 
+En 
+concreto, los expedientes seleccionados han sido los siguientes:
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+29
+ 
+Cuadro 13.
+ 
+Muestra de expedientes fiscalizados
+ 
+Municipio 
+ 
+Comarca
+ 
+Fecha límite 
+de justificación
+ 
+Fecha real de 
+justificación
+ 
+Importe a 
+justificar
+ 
+Importe 
+justificado
+ 
+Temporada de verano
+ 
+ 
+ 
+ 
+13.122.486
+ 
+13.768.991
+ 
+Barcelona
+ 
+Barcelonès
+ 
+31.01.2021
+ 
+09.04.2021
+ 
+10.028.823
+ 
+10.028.823
+ 
+Salou
+ 
+Tarragonès
+ 
+31.01.2021
+ 
+19.04.2021
+ 
+1.579.209
+ 
+2.116.700
+ 
+Lloret de Mar
+ 
+Selva
+ 
+31.01.2021
+ 
+26.04.2021
+ 
+1.400.685
+ 
+1.499.939
+ 
+Badalona
+ 
+Barcelonès
+ 
+31.01.2021
+ 
+09.03.2021
+ 
+36.357
+ 
+38.200
+ 
+Cerdanyola del Vallès
+ 
+Vallès Occidental
+ 
+31.01.2021
+ 
+08.06.2021
+ 
+29.861
+ 
+30.723
+ 
+Consejo Comarcal de El Baix Empordà
+ 
+Baix Empordà
+ 
+31.01.2021
+ 
+29.04.2021
+ 
+19.775
+ 
+19.853
+ 
+Creixell
+ 
+Tarragonès
+ 
+31.01.2021
+ 
+19.03.2021
+ 
+15.917
+ 
+22.138
+ 
+Riudellots de la Selva
+ 
+Selva
+ 
+31.01.2021
+ 
+26.03.2021
+ 
+11.859
+ 
+12.615
+ 
+Temporada de invierno 2019
+-
+2020 y 
+temporada de verano 2020 (a)
+ 
+ 
+ 
+ 
+5.507.320
+ 
+6.580.675
+ 
+Barcelona
+ 
+Barcelonès
+ 
+31.01.2022
+ 
+25.04.2022
+ 
+4.664.313
+ 
+4.664.313
+ 
+Salou
+ 
+Tarragonès
+ 
+31.01.2022
+ 
+30.03.2022
+ 
+384.213
+ 
+1.699.933
+ 
+Lloret de Mar
+ 
+Selva
+ 
+31.01.2022
+ 
+14.04.2022
+ 
+316.671
+ 
+319.737
+ 
+Calonge i Sant Antoni
+ 
+Baix Empordà
+ 
+31.01.2022
+ 
+29.04.2022
+ 
+65.823
+ 
+68.308
+ 
+Consejo Comarcal de La Cerdanya
+ 
+Cerdanya
+ 
+31.01.2022
+ 
+13.04.2022
+ 
+33.168
+ 
+33.336
+ 
+Roda de Berà
+ 
+Tarragonès
+ 
+31.01.2022
+ 
+27.05.2022
+ 
+21.041
+ 
+46.898
+ 
+Mataró
+ 
+Maresme
+ 
+31.01.2022
+ 
+26.04.2022
+ 
+13.493
+ 
+13.745
+ 
+Camprodon
+ 
+Ripollès
+ 
+31.01.2022
+ 
+28.03.2022
+ 
+8.598
+ 
+4.405
+ 
+Temporada de invierno 2020
+-
+2021 (b)
+ 
+ 
+ 
+ 
+1.311.883
+ 
+1.519.946
+ 
+Barcelona 
+ 
+Barcelonès 
+ 
+31.01.2022
+ 
+26.04.2023
+ 
+1.227.502
+ 
+1.227.502
+ 
+Salou 
+ 
+Tarragonès 
+ 
+31.01.2022
+ 
+27.04.2023
+ 
+48.972
+ 
+226.246
+ 
+Granollers 
+ 
+Vallès Oriental 
+ 
+31.01.2022
+ 
+30.03.2023
+ 
+11.477
+ 
+41.931
+ 
+Mataró 
+ 
+Maresme 
+ 
+31.01.2022
+ 
+25.04.2023
+ 
+7.948
+ 
+8.192
+ 
+Santa Susanna 
+ 
+Maresme 
+ 
+31.01.2022
+ 
+26.04.2023
+ 
+6.090
+ 
+6.100
+ 
+Cadaqués 
+ 
+Alt Empordà 
+ 
+31.01.2022
+ 
+02.03.2023
+ 
+5.133
+ 
+5.214
+ 
+Consejo Comarcal de El Ripollès 
+ 
+Ripollès 
+ 
+31.01.2022
+ 
+13.06.2023
+ 
+4.761
+ 
+4.761
+ 
+Temporada de verano
+ 
+ 
+ 
+ 
+5.462.989
+ 
+5.826.529
+ 
+Barcelona
+ 
+Barcelonès
+ 
+31.01.2023
+ 
+26.04.2023
+ 
+3.369.062
+ 
+3.369.602
+ 
+Salou
+ 
+Tarragonès
+ 
+31.01.2023
+ 
+27.04.2023
+ 
+659.644
+ 
+902.800
+ 
+Lloret de Mar
+ 
+Selva
+ 
+31.01.2023
+ 
+19.04.2023
+ 
+465.600
+ 
+465.601
+ 
+Cambrils
+ 
+Baix Camp
+ 
+31.01.2023
+ 
+09.03.2023
+ 
+305.127
+ 
+317.752
+ 
+Vila
+-
+seca
+ 
+Tarragonès
+ 
+31.01.2023
+ 
+28.03.2023
+ 
+249.291
+ 
+249.295
+ 
+Roses
+ 
+Alt Empordà
+ 
+31.01.2023
+ 
+21.04.2023
+ 
+218.820
+ 
+220.043
+ 
+ 
+Baix Ebre
+ 
+31.01.2023
+ 
+28.05.2023
+ 
+73.976
+ 
+78.354
+ 
+Pineda de Mar
+ 
+Maresme
+ 
+31.01.2023
+ 
+24.05.2023
+ 
+54.006
+ 
+152.466
+ 
+Naut Aran
+ 
+ 
+31.01.2023
+ 
+02.03.2023
+ 
+33.226
+ 
+35.980
+ 
+Consejo Comarcal de El Maresme
+ 
+Maresme
+ 
+31.01.2023
+ 
+16.05.2023
+ 
+28.990
+ 
+29.389
+ 
+Rialp
+ 
+Pallars Sobirà
+ 
+31.01.2023
+ 
+11.05.2023
+ 
+5.247
+ 
+5.247
+ 
+Temporada de invierno
+ 
+ 
+ 
+ 
+7.168.220
+ 
+-
+ 
+Barcelona
+ 
+Barcelonès
+ 
+31.01.2023
+ 
+-
+ 
+6
+.848.594
+ 
+-
+ 
+Salou
+ 
+Tarragonès
+ 
+31.01.2023
+ 
+-
+ 
+2
+20.790
+ 
+-
+ 
+Consejo Comarcal de La Garrotxa
+ 
+Garrotxa
+ 
+31.01.2023
+ 
+-
+ 
+4
+1.629
+ 
+-
+ 
+Calonge i Sant Antoni
+ 
+Baix Empordà
+ 
+31.01.2023
+ 
+-
+ 
+3
+3.356
+ 
+-
+ 
+Queralbs
+ 
+Ripollès
+ 
+31.01.2023
+ 
+-
+ 
+1
+6.812
+ 
+-
+ 
+Sant Pere de Ribes
+ 
+Garraf
+ 
+31.01.2023
+ 
+-
+ 
+5
+.278
+ 
+-
+ 
+Peramola
+ 
+Alt Urgell
+ 
+31.01.2023
+ 
+-
+ 
+1
+.761
+ 
+-
+ 
+Total
+ 
+ 
+ 
+ 
+32.572.898
+ 
+34.864.361
+ 
+Importes en euros.
+ 
+Fuente: Dirección General de Turismo.
+ 
+Notas:
+ 
+(a)
+ 
+La justificación comprende 2 períodos, dado que la recaudación de invierno 2019
+-
+2020 se posp
+uso
+ 
+en
+ 
+virtud del artículo 4 del 
+Decreto ley 6/2020 y del artículo 3 del Decreto ley 33/2020.
+ 
+(b)
+ 
+La temporada de invierno 2020
+-
+2021 es la que se incluye en la liquidación del presupuesto de 2021 como obligaciones recono
+-
+cidas por 2,07
+ 
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+30
+ 
+2.2.3.5.
+ 
+Resultados de la fiscalización
+ 
+A continuación se presentan las observaciones detectadas en el trabajo de fiscalización del 
+Fondo para el fomento del turismo.
+ 
+ 
+Plazo de justificación
+ 
+De acuerdo con el artículo 431.6 del Decreto 75/2020, el plazo de presentación del certifi
+-
+cado justificativo, que comprende conjuntamente las temporadas de verano e invierno, 
+fi
+na
+li
+za el último día del mes de enero del año siguiente al vencimiento de la temporada de 
+in
+vier
+no, de acuerdo con el siguiente detalle:
+ 
+ 
+Cuadro 14.
+ 
+Plazos de justificación de los gastos
+ 
+Año
+ 
+Temporada
+ 
+Período
+ 
+Fecha límite de 
+justificación de los gastos
+ 
+2019
+ 
+Verano
+ 
+04.2019 
+-
+ 
+09.2019
+ 
+31.01.2021
+ 
+ 
+Invierno
+ 
+10.2019 
+-
+ 
+03.2020
+ 
+31.01.2021
+ 
+2020
+ 
+Verano
+ 
+04.2020 
+-
+ 
+09.2020
+ 
+31.01.2022
+ 
+ 
+Invierno
+ 
+10.2020 
+-
+ 
+03.2021
+ 
+31.01.2022
+ 
+2021
+ 
+Verano
+ 
+04.2021 
+-
+ 
+09.2021
+ 
+31.01.2023
+ 
+ 
+Invierno
+ 
+10.2021 
+-
+ 
+03.2022
+ 
+31.01.2023
+ 
+Fuente: Elaboración propia.
+ 
+ 
+Ninguno de los entes locales analizados ha presentado la justificación en el plazo previsto. 
+En todos los casos existe un retraso de entre 1 y 16 meses.
+ 
+Hay que mencionar que los 
+expedien
+-
+tes correspondientes a la temporada de invierno 2021
+-
+2022, que debían justificarse antes 
+del 31 de enero de 2023, no han sido justificados a la fecha de finalización del trabajo de 
+campo, mayo de 2023.
+ 
+ 
+La principal razón para que los entes locales elaboren la justificación fuera del plazo previsto 
+en la normativa es que la Dirección General de Turismo permite presentar la justificación 
+has
+ta el 30 de abril y no hasta el 31 de enero del año correspondiente. Hay que mencionar 
+también que la temporada de invierno 2020
+-
+2021, que debía de justificarse en 2022, se 
+aceptó que se justificara hasta el 30 de abril de 2023.
+ 
+ 
+Cabe
+ 
+mencionar
+ 
+que en 7 de los expedientes analizados la justificación se presentó también 
+fuera del plazo de 30 de abril que permite la Dirección General. Por estos expe
+dientes, la 
+Dirección General de Turismo ha requerido que presenten la justificación, pero no existe 
+ninguna sanción por incumplimiento de plazo.
+ 
+ 
+Documentación justificativa
+ 
+Los entes locales que participan en el Fondo deben destinar y justificar la parte del crédito 
+resultante de la exacción del impuesto en su ámbito territorial de acuerdo con las directrices 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+31
+ 
+de actuación 
+y con los siguientes criterios y procedimientos establecidos en el artículo
+ 
+431.6.1 
+del Decreto 75/2020.
+ 
+De acuerdo con este Decreto, la acreditación de los requisitos debe 
+realizarse
+ 
+con un certifi
+-
+cado de un funcionario con habilitación suficiente que incluya el destino efectivo de los cré
+-
+ditos del Fondo para el fomento del turismo correspondientes al importe liquidado de las 2 
+temporadas de invierno y verano ante el Comité bilateral (véase el apartado 
+2.2.3.2
+). 
+ 
+ 
+En caso de que no se acredite el destino efectivo de los créditos en las directrices de 
+actuación, el Comité bilateral debe declarar el incumplimiento, con audiencia previa del ente 
+local afectado. En el caso de los municipios, el Comité debe determinar di
+rectamente el 
+des
+tino de los fondos a acciones vinculadas a las directrices de actuación dentro del ámbito 
+territorial de referencia del municipio y, en caso de que el incumplimiento sea imputable a 
+un consejo comarcal o al Consejo General de Arán, el Com
+ité debe determinar directamente 
+el destino de los fondos a las acciones de promoción turística del departamento competente 
+en materia de turismo.
+ 
+ 
+Dado que no existen definidas unas directrices de actuación, en la práctica, el Comité 
+bilateral da por buenas todas las actividades que podrían encajarse dentro de la actividad 
+turística o bien dentro de uno de los 5 objetivos previstos en la normativa, p
+ero no se 
+pue
+den seguir unas directrices claras para aceptarlas o rechazarlas. En varias ocasiones, 
+estas actividades no están definidas ni detalladas de manera clara, no se sabe a qué co
+-
+lec
+tivo van destinadas, ni qué pretenden mejorar.
+ 
+ 
+La normativa no está clara en los casos en
+ 
+los
+ 
+que no se acredita el destino efectivo de los 
+créditos, dado que insta 
+a
+l Comité a determinar directamente el destino de los fondos a 
+acciones vinculadas a las directrices de actuación dentro del ámbito territorial de referencia 
+del municipio interesado, sin tener en cuenta que estos fondos ya se han repartido en el 
+municipio,
+ 
+por lo que debería preverse un procedimiento específico de regularización de los 
+importes repartidos y de reintegro de las cuantías no j
+ustificadas.
+7
+ 
+ 
+La Comisión del Fondo para el fomento del turismo
+ 
+El artículo 431
+-
+3 del Decreto 75/2020 establece la constitución de una comisión del Fondo 
+para el fomento del turismo, para garantizar la información previa del sector 
+afectado, para 
+proponer las directrices de actuación de acuerdo con la planificación turística de la Genera
+-
+lidad de Cataluña y la aplicación de los recursos del Fondo. Esta Comisión se adscribe al 
+departamento competente en materia de turismo, debe reunirse una vez el año con carácter 
+ordinario y la forman 21 personas según la distribución prevista en el Decret
+o 75/2020.
+ 
+ 
+En el ejercicio fiscalizado, esta Comisión no se había constituido ni, en consecuencia, 
+reunido. 
+ 
+ 
+ 
+7
+. Texto modificado a raíz de las alegaciones recibidas.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+32
+ 
+Directrices de actuación
+ 
+El artículo 49 de la Ley 5/2017 prevé que los recursos procedentes del Fondo para el fomento 
+del turismo deben destinarse a una serie de proyectos y actuaciones que persigan alguno 
+de los 5 objetivos que recoge. 
+Hay que 
+decir que los objetivos están definidos de forma 
+ge
+nérica y falta una concreción en actuaciones y subobjetivos más concretos, relacionados 
+también con las políticas que quieren desarrollarse. En este sentido, el artículo 431
+-
+4 del 
+Decreto 75/2020 define las directrices de actuación del Fond
+o para el fomento del turismo, 
+que debe establecer la Comisión del Fondo para el fomento del turismo, de modo que:
+ 
+ 
+ 
+Las directrices deben establecer los ejes y las prioridades en relación con el destino de 
+los 
+créditos del Fondo, de acuerdo con la planificación turística de la Generalidad de 
+Cataluña.
+ 
+ 
+ 
+Las directrices de actuación deben sujetarse a las finalidades previstas en el artículo 49.1 
+de la Ley 5/2017 (véase el apartado 
+1.3.4
+).
+ 
+ 
+En el ejercicio 2014, la Dirección General de Turismo disponía de unas directrices estable
+-
+cidas por el Comité bilateral, pero solo para el tramo del Fondo destinado a los entes loca
+-
+les. En estas directrices se establecían una serie de actuaciones para las que se definían 
+las acciones que quedaban enmarcadas y aquellas que no 
+podían incluirse
+. Estas ac
+tua
+-
+cio
+nes eran las siguientes:
+ 
+ 
+ 
+Soporte a los certificados de especialidad 
+del destino
+ 
+ 
+Mejora de la experiencia turística del visitante en los equipamientos de información y 
+aten
+ción turística
+ 
+ 
+Plan de formación en idiomas, en atención al cliente y en la prestación de los servicios
+ 
+ 
+Mejora de la experiencia turística estimulando la creación y consolidación de nuevos pro
+-
+ductos turísticos
+ 
+ 
+Aplicación de las tecnologías de la información y las comunicaciones para la mejora de 
+la experiencia turística
+ 
+ 
+Mejora de la señalización turística del destino
+ 
+ 
+Priorización de captación de turismo interior
+ 
+ 
+Plan de captación y retención de mercados de proximidad (España y Francia)
+ 
+ 
+Plan de captación y retención de mercados internacionales
+ 
+ 
+Cabe decir que, como consecuencia de la falta de constitución de la Comisión del Fondo, 
+en el ejercicio fiscalizado tampoco se han establecido las directrices de actuación del Fondo 
+para el fomento del turismo. 
+ 
+ 
+Al no tener un marco directivo a que acogerse, la Dirección General de Turismo tampoco 
+efec
+túa una revisión detallada y profunda de las acciones que 
+desarrollan y justifican los 
+entes locales en cada anualidad.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+33
+ 
+En cuanto a la parte del Fondo que se debe destinar a la Generalidad, tampoco se dispone 
+de directrices de actuación, por lo que la distribución de este Fondo en el presupuesto de 
+la Generalidad tampoco responde a ningún marco directivo que esté en consona
+ncia con 
+las políticas turísticas. La falta de directrices provoca que no se 
+realice
+ 
+un seguimiento de 
+las actuaciones previstas respecto a las actuaciones realizadas, para analizar las posibles 
+desviaciones.
+ 
+ 
+La Dirección General de Turismo debe impulsar la definición de estas directrices, no solo 
+para la parte del Fondo destinada a los entes locales, sino también para la parte del Fondo 
+destinada a la Generalidad. Mediante una mayor concreción de los objetivos
+ 
+previstos en el 
+artículo 49 de la Ley 5/2017, estas directrices deben permitir alcanzar los objetivos previa
+-
+mente establecidos de acuerdo con la planificación turística de la Generalidad.
+ 
+ 
+Acreditación de las justificaciones por parte de los entes locales
+ 
+De acuerdo con la normativa, la acreditación del cumplimiento de los requisitos por parte de 
+los entes locales se realiza mediante un certificado de un funcionario con habilitación sufi
+-
+ciente. Este certificado debe ir acompañado del correspondiente informe sobre el conjunto 
+de actuaciones que han 
+realizado 
+para el control de la actividad de los alojamientos turís
+ti
+-
+cos situados en su ámbito territorial que prevé el artículo 431
+-
+8 del citado decreto. De acuer
+-
+do con 
+ello
+, la comprobación realizada por la D
+irección General de Turismo se limita a veri
+-
+ficar la existencia de este certificado. No se solicita la documentación justificativa del gasto 
+certificado, ni el justificante de pago de la actuación concreta, ni el informe sobre el conjunto 
+de actuaciones de control. 
+ 
+ 
+En el análisis realizado se ha visto que en varios casos no se detallan suficientemente las 
+actuaciones realizadas, sino que solo se cuantifican de manera global enmarcándolas en 
+alguno de los 5 objetivos genéricos 
+legalmente establecidos, lo que no permite valorar las 
+actuaciones ni su encaje dentro de los objetivos. En concreto, del análisis realizado de la 
+muestra, estos casos son los siguientes:
+ 
+ 
+Cuadro 15.
+ 
+Acreditaciones sin el detalle suficiente 
+ 
+Temporada
+ 
+Número de 
+municipios
+ 
+Municipios
+ 
+Verano 2019
+ 
+6
+ 
+Barcelona, Lloret de Mar, Badalona, Cerdanyola del Vallès, Consejo Comarcal de El 
+Baix Empordà, Riudellots de la Selva
+ 
+Invierno 2019
+-
+2020
+ 
+5
+ 
+Barcelona, Salou, Roda de Berà, Mataró, Camprodon
+ 
+Verano 2020
+ 
+6
+ 
+Barcelona, Salou, Lloret de Mar, Roda de Berà, Mataró, Camprodon
+ 
+Invierno 2020
+-
+2021
+ 
+5
+ 
+Barcelona, Mataró, Santa Susanna, Cadaqués, Consejo Comarcal de El Ripollès
+ 
+Verano 2021
+ 
+5
+ 
+Barcelona, Lloret de Mar, Vila
+-
+seca, Consejo Comarcal de El Maresme, Rialp
+ 
+Fuente: Elaboración propia.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+34
+ 
+Aunque los municipios 
+d
+el cuadro anterior no detallan suficientemente las actua
+ciones, en 
+cuanto 
+los demás
+, en ninguno de los certificados analizados existe un de
+talle suficiente y 
+adecuado para poder analizar si las 
+actuaciones responden a los objetivos legalmente esta
+-
+blecidos. Como no está soportado con la documentación fehaciente, no se puede analizar 
+si la actuación alcanza el objetivo preestablecido. Como ejemplos de des
+cripciones de 
+actuaciones incluidas en los certificados se pueden mencionar l
+o
+s siguientes: 
+ 
+Cuadro 16.
+ 
+Ejemplos de descripciones de actuaciones
+ 
+Descripción
+ 
+Importe
+ 
+Cuerpo blanco
+ 
+214.726,20
+ 
+Noches doradas
+ 
+157.084,76
+ 
+Espectáculo aéreo y de danza
+ 
+8.500,00
+ 
+Gestión de redes sociales y entorno web
+ 
+6.805,83
+ 
+Mejora de la señalización
+ 
+5.809,02
+ 
+Anuncio mercado ruso
+ 
+4.926,66
+ 
+Colaboración Ficcat 2019
+ 
+3.000,00
+ 
+Campaña publicidad productos
+ 
+1.001,88
+ 
+Importes en euros.
+ 
+Fuente: Documentación enviada por diferentes municipios.
+ 
+ 
+Como se puede observar, la definición incluida en los certificados es muy poco clara; no 
+detalla qué se 
+realiza 
+en la actuación, a 
+quién
+ 
+va destinada, si se trata de promociones 
+tu
+rís
+ticas, ni cuándo se realiza la actuación. Se considera que la 
+justificación de estas actua
+-
+ciones debería recoger una descripción más precisa, no solo de las actividades que incluye 
+sino también del período en el que se ha realizado la actuación, del coste (soportado con 
+documentación justificativa), entre otr
+a
+s. Además, aparte del grado de detalle que recoja, 
+debe subrayarse que fundamentar el procedimiento de justificación en 
+dicho
+ 
+certificado, 
+sin adjuntar documentación explicativa (memorias, contratos, facturas, etc.) no permite a la 
+Dirección General de Turismo n
+inguna clase de comprobación o validación sustentada de 
+las actuaciones certificadas.
+ 
+ 
+Alcance de los porcentajes de actuaciones en promoción turística
+ 
+Los entes locales deben justificar que el 60
+-
+75% de la recaudación para el conjunto de las 
+dos temporadas semestrales se destina a actuaciones de promoción turística. 
+ 
+En la muestra fiscalizada se ha verificado que, para las temporadas de invierno 2019
+-
+2020 
+y verano 2020, los municipios de Barcelona, Lloret de Mar, Calonge, Roda de Berà y Cam
+-
+prodon, y el Consejo Comarcal de La Cerdanya no han justificado el porcentaje que marca 
+la normativa para invertir el 
+F
+ondo en actuaciones concretas de promoción turística.
+ 
+ 
+El Comité bilateral ha empezado a efectuar esta verificación a partir de la última justificación 
+del Fondo, que corresponde a las temporadas de invierno 2020
+-
+2021 y verano 2021. En la 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+35
+ 
+muestra fiscalizada se ha verificado que Cadaqués, Lloret de Mar, Rialp y el Consejo Comar
+-
+cal de El Maresme no justificaron el porcentaje que marca la normativa.
+ 
+Falta de justificación o justificaciones insuficientes
+ 
+La justificación del Ayuntamiento de Camprodon relativa al período de las temporadas de 
+invierno 2019 a la de verano 2020 es insuficiente, dado que solo asciende a 4.405
+ 
+de los 8.598
+ 
+-
+ción del Ayuntamiento relativ
+a
+ 
+a la temporada anterior, la de verano 2019, dado que justificó 
+12.855
+ 
+cober
+tura a esta compensación. 
+ 
+ 
+Para analizar de forma completa la falta de justificación, se ha
+ 
+realizado
+ 
+un análisis detallado 
+de los listados de justificación por temporadas. De este análisis se desprende que el número 
+de entes locales que no han justificado el destino de los fondos o que 
+lo 
+han justificado por 
+debajo del importe recibido son los siguientes:
+ 
+ 
+Cuadro 17.
+ 
+Entes locales sin justificación o con justificación incompleta del destino de los fondos
+ 
+Temporada
+ 
+Total de entes locales 
+que debían 
+justificar el 
+destino de los fondos
+ 
+Entes locales que no 
+justificaron el destino de 
+los
+ 
+fondos
+ 
+Entes locales que justificaron 
+el destino de los fondos por 
+debajo del importe recibido
+ 
+Número
+ 
+Porcentaje
+ 
+Número
+ 
+Porcentaje
+ 
+Verano 2019
+ 
+251
+ 
+11
+ 
+4,38
+ 
+5
+ 
+2,00
+ 
+Invierno 2019
+-
+2020 / verano 2020
+ 
+245
+ 
+7
+ 
+2,86
+ 
+1
+ 
+0,41
+ 
+Invierno 2020
+-
+2021 / verano 2021
+ 
+197
+ 
+13
+ 
+6,60
+ 
+8
+ 
+4,06
+ 
+Fuente: Elaboración propia a partir de los listados de justificaciones por temporadas.
+ 
+ 
+El incumplimiento solo ha supuesto que el reparto de la 
+recaudación del próximo ejercicio 
+deba realizarse en el consejo comarcal correspondiente, en lugar de realizarse en el ente 
+local.
+ 
+ 
+Incumplimientos en la justificación
+ 
+Respecto a los incumplimientos referentes al trámite de justificación, la 
+regulación del De
+-
+cre
+to 75/2020 es insuficiente, dado que solo especifica que el Comité, en su caso, debe 
+determinar el destino del Fondo para el fomento del turismo, pero no especifica como revertir 
+los fondos que no se justifican. De hecho, cuando un municipio no justifica l
+as transferencias 
+del Fondo, estas se quedan sin justificar y la única medida que la Dirección General de 
+Tu
+rismo toma es que las transferencias del Fondo que le corresponderían en un período 
+posterior se asignen directamente al cons
+ejo comarcal en el que el municipio está integrado. 
+Además, el Decreto 75/2020 tampoco establece cuál es el procedimiento a seguir cuando 
+quien no justifica los fondos asignados es un consejo comarcal. 
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+36
+ 
+Falta de información de la recaudación
+ 
+La Dirección General de Turismo no recibe información de la recaudación obtenida por 
+cada establecimiento turístico, ni por cada tipología de establecimientos turísticos, sino solo 
+de la cantidad global recaudada en cada municipio. 
+Lo que 
+impide un control 
+efectivo de 
+las can
+tidades recaudadas e imposibilita, también, analizar la evolución y las posibles 
+desvia
+ciones interanuales. Aunque la normativa dispone que es la Agencia quien debe 
+ejercer la potestad sancionadora, sí establece que la Dirección General de Turismo debe 
+realizar 
+un análisis de la evolución del impuesto,
+ 
+tarea que es imposible sin la información 
+correspon
+diente.
+ 
+ 
+Así, en el artículo 47 de la Ley 5/2017 establece que 
+los datos obtenidos
+ 
+de la gestión del 
+impuesto sobre las estancias en establecimientos turísticos solo pueden ser cedidos por la 
+Agencia Tributaria de Cataluña al órgano de la Generalidad competente en materia de turis
+-
+mo, con un proceso previo de disociación y anonimización. Amparándose en este artículo, 
+la Agencia no envía ningún dato individualizado, cuando se podría sustituir el nombre del 
+establecimiento por un número, una letra o un código alfanumé
+rico. También se podría en
+-
+viar la información por tipología de establecimiento y no se está 
+enviando
+. 
+ 
+ 
+Esta limitación en la transmisión de la información dificulta también que la Dirección General 
+de Turismo 
+realice
+ 
+las actividades informativas, estadísticas, de certificación y de 
+soporte
+ 
+a 
+los órganos con competencias relacionadas con el estudio y la investigación en materia 
+turística, tal y como establece la normativa.
+ 
+ 
+ 
+ 
+3.
+ 
+CONCLUSIONES
+ 
+A lo largo de la fiscalización se ha constatado que, tal y como está definido el impuesto y, 
+especialmente, el 
+F
+ondo para el fomento del turismo, 
+es 
+difícil alcanzar unos objetivos que 
+surjan de una planificación turística previa. El hecho de que el importe recaudado se diluya 
+entre los municipios hace que se pierda el control del destino de estos fondos. Si bien la 
+justificación que se requiere a los entes locales implica un cierto cont
+rol en cuanto a la 
+consecución de los 5 objetivos genéricos establecidos en la normativa, también es cierto 
+que a la práctica las actividades justificadas no responden a unos objetivos concretos y 
+predeterminados por parte de la Generalidad de Cataluña. Ha
+y que plantearse, después de 
+unos años de la creación del impuesto, si con los procedimientos actuales se están alcan
+-
+zando los objetivos concretos para los que se creó.
+ 
+ 
+Otro aspecto a resaltar
+ 
+es que, tal y como está regulado el impuesto, una parte del proceso 
+(la gestión, recaudación e inspección) 
+l
+a
+ 
+efectúa la Agencia Tributaria de Cataluña y, otra 
+(concretamente, la gestión del Fondo para el fomento del turismo), el Departamento de Em
+-
+presa y Trabajo. Esta distribución de tareas dificulta al departamento competente el control 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+37
+ 
+y seguimiento de los importes recaudados y de la consecución de los objetivos para los que 
+se creó el impuesto, 
+lo que
+ 
+se ve agraviado 
+porque los
+ 
+datos obtenidos por la Agencia res
+-
+pec
+to a la gestión del impuesto no se traspasan al Departamento ni tan 
+solo con un proceso 
+previo de disociación y anonimización, tal y como determina la
+ 
+normativa. 
+ 
+3.1.
+ 
+O
+BSERVACIONES
+ 
+A continuación se incluyen las observaciones más significativas que se han puesto de ma
+-
+nifiesto durante el trabajo de fiscalización realizado sobre el impuesto sobre las estancias 
+en establecimientos turísticos, correspondiente al ejercicio 2021, en cuanto a determinados 
+aspectos que, si procede, habría que corregir.
+ 
+ 
+1.
+ 
+Se
+ 
+observa
+ 
+una
+ 
+falta
+ 
+de
+ 
+coordinación
+ 
+entre
+ 
+la
+ 
+Dirección
+ 
+General
+ 
+y
+ 
+la
+ 
+Agencia
+ 
+dado
+ 
+que,
+ 
+para
+ 
+acceder
+ 
+a
+ 
+la
+ 
+información,
+ 
+la
+ 
+Agencia
+ 
+no
+ 
+accede
+ 
+a
+ 
+la
+ 
+base
+ 
+de
+ 
+datos
+ 
+del
+ 
+Registro
+ 
+de
+ 
+Turismo
+ 
+de
+ 
+Cataluña
+ 
+de
+ 
+que
+ 
+dispone
+ 
+la
+ 
+Dirección
+ 
+General,
+ 
+sino
+ 
+que
+ 
+obtiene
+ 
+la
+ 
+infor
+-
+mación
+ 
+directamente
+ 
+del
+ 
+Centro
+ 
+de
+ 
+Telecomunicaciones
+ 
+y
+ 
+Tecnologías
+ 
+de
+ 
+la
+ 
+Información
+ 
+de
+ 
+la
+ 
+Generalidad
+ 
+de
+ 
+Cataluña.
+ 
+Este
+ 
+hecho
+ 
+aumenta
+ 
+el
+ 
+riesgo
+ 
+de
+ 
+ineficiencias
+ 
+operativas
+ 
+y
+ 
+de
+ 
+control
+ 
+interno
+ 
+(véase
+ 
+el
+ 
+apartado
+ 
+2.2.1
+).
+ 
+ 
+2.
+ 
+El
+ 
+Comité
+ 
+bilateral,
+ 
+que
+ 
+debe
+ 
+decidir
+ 
+la
+ 
+asignación
+ 
+de
+ 
+los
+ 
+recursos
+ 
+del
+ 
+Fondo
+ 
+para
+ 
+el
+ 
+fomento
+ 
+del
+ 
+turismo,
+ 
+a
+ 
+la
+ 
+práctica,
+ 
+aprueba
+ 
+el
+ 
+destino
+ 
+del
+ 
+global
+ 
+del
+ 
+Fondo
+,
+ 
+pero
+ 
+solo
+ 
+detalla
+ 
+el
+ 
+50%
+ 
+correspondiente
+ 
+a
+ 
+la
+ 
+parte
+ 
+del
+ 
+Fondo
+ 
+a
+ 
+destinar
+ 
+a
+ 
+los
+ 
+ayuntamientos
+ 
+en
+ 
+función
+ 
+de
+ 
+la
+ 
+recaudación
+ 
+en
+ 
+su
+ 
+ámbito
+ 
+territorial,
+ 
+diferenciando
+ 
+los
+ 
+importes
+ 
+por
+ 
+cada
+ 
+ente
+ 
+local.
+ 
+Para
+ 
+el
+ 
+50%
+ 
+restante
+ 
+del
+ 
+Fondo,
+ 
+además
+ 
+de
+ 
+la
+ 
+aprobación
+ 
+global,
+ 
+el
+ 
+Comité
+ 
+no
+ 
+detalla
+ 
+ni
+ 
+especifica
+ 
+las
+ 
+actuaciones
+ 
+o
+ 
+finalidades
+ 
+concretas
+ 
+a
+ 
+las
+ 
+que
+ 
+debe
+ 
+desti
+-
+nar
+se
+ 
+su
+ 
+importe.
+ 
+ 
+Hay
+ 
+que
+ 
+mencionar
+ 
+también
+ 
+que
+ 
+las
+ 
+actas
+ 
+del
+ 
+Comité
+ 
+bilateral
+ 
+no
+ 
+recogen
+ 
+el
+ 
+visto
+ 
+bueno
+ 
+del
+ 
+presidente,
+ 
+que
+ 
+establece
+ 
+el
+ 
+artículo
+ 
+20.3
+ 
+de
+ 
+la
+ 
+Ley
+ 
+26/2010,
+ 
+de
+ 
+régimen
+ 
+jurídico
+ 
+y
+ 
+de
+ 
+procedimiento
+ 
+de
+ 
+las
+ 
+administraciones
+ 
+públicas
+ 
+de
+ 
+Cataluña
+ 
+(véase
+ 
+el
+ 
+apartado
+ 
+2.2.2
+).
+ 
+ 
+3.
+ 
+La
+ 
+fecha
+ 
+real
+ 
+de
+ 
+reparto
+ 
+del
+ 
+Fondo
+ 
+para
+ 
+el
+ 
+fomento
+ 
+del
+ 
+turismo
+ 
+para
+ 
+la
+ 
+temporada
+ 
+de
+ 
+invierno
+ 
+2020
+-
+2021
+ 
+es
+ 
+posterior
+ 
+a
+ 
+la
+ 
+fecha
+ 
+prevista
+ 
+en
+ 
+la
+ 
+normativa.
+ 
+Por
+ 
+otra
+ 
+parte,
+ 
+el
+ 
+re
+par
+to
+ 
+del
+ 
+Fondo
+ 
+correspondiente
+ 
+al
+ 
+recargo
+ 
+de
+ 
+Barcelona
+ 
+para
+ 
+las
+ 
+temporadas
+ 
+de
+ 
+verano
+ 
+2021
+ 
+y
+ 
+de
+ 
+invierno
+ 
+2021
+-
+2022
+ 
+se
+ 
+efectúa
+ 
+con
+ 
+posterioridad
+ 
+al
+ 
+plazo
+ 
+de
+ 
+2
+ 
+meses
+ 
+previstos
+ 
+en
+ 
+la
+ 
+normativa
+ 
+(véase
+ 
+el
+ 
+apartado
+ 
+2.2.2).
+ 
+ 
+4.
+ 
+El
+ 
+artículo
+ 
+49
+ 
+de
+ 
+la
+ 
+Ley
+ 
+5/2017
+ 
+menciona
+ 
+el
+ 
+fondo
+ 
+de
+ 
+gestión
+ 
+propia
+ 
+de
+ 
+la
+ 
+Generalidad
+ 
+cuando
+ 
+se
+ 
+refiere
+ 
+al
+ 
+reparto
+ 
+del
+ 
+Fondo
+ 
+en
+ 
+la
+ 
+parte
+ 
+destinada
+ 
+al
+ 
+Consejo
+ 
+General
+ 
+de
+ 
+Arán,
+ 
+pero
+ 
+no
+ 
+define
+ 
+ni
+ 
+concreta
+ 
+qué
+ 
+debe
+ 
+incluir.
+ 
+La
+ 
+normativa
+ 
+reglamentaria
+ 
+o
+ 
+de
+ 
+desarrollo
+ 
+tampoco
+ 
+concreta
+ 
+este
+ 
+concepto
+ 
+(véase
+ 
+el
+ 
+apartado
+ 
+2.2.3.1
+).
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+38
+ 
+5.
+ 
+En
+ 
+lo
+ 
+referente
+ 
+al
+ 
+reparto
+ 
+del
+ 
+Fondo
+ 
+para
+ 
+el
+ 
+fomento
+ 
+de
+ 
+turismo,
+ 
+la
+ 
+normativa
+ 
+excluye
+ 
+de
+ 
+este
+ 
+reparto
+ 
+la
+ 
+tarifa
+ 
+especial
+ 
+y
+ 
+también
+ 
+el
+ 
+recargo
+ 
+para
+ 
+la
+ 
+ciudad
+ 
+de
+ 
+Barcelona,
+ 
+por
+ 
+lo
+ 
+que
+ 
+estos
+ 
+ingresos
+ 
+no
+ 
+están
+ 
+afectados
+ 
+a
+ 
+dichas
+ 
+finalidades.
+ 
+La
+ 
+normativa
+ 
+debería
+ 
+espe
+-
+cificar
+ 
+el
+ 
+destino
+ 
+de
+ 
+estos
+ 
+fondos,
+ 
+principalmente
+ 
+los
+ 
+relativos
+ 
+a
+ 
+la
+ 
+tarifa
+ 
+especial
+ 
+que
+ 
+se
+ 
+recauda
+ 
+en
+ 
+los
+ 
+establecimientos
+ 
+donde
+ 
+se
+ 
+se
+ 
+realizan
+ 
+actividades
+ 
+de
+ 
+juego
+ 
+y
+ 
+apuestas
+ 
+(véase
+ 
+el
+ 
+apartado
+ 
+2.2.3.1
+).
+ 
+6.
+ 
+En
+ 
+cuanto
+ 
+a
+ 
+la
+ 
+justificación
+ 
+de
+ 
+la
+ 
+parte
+ 
+del
+ 
+Fondo
+ 
+para
+ 
+el
+ 
+fomento
+ 
+del
+ 
+turismo
+ 
+destinado
+ 
+a
+ 
+los
+ 
+entes
+ 
+locales,
+ 
+se
+ 
+ha
+ 
+visto
+ 
+que
+ 
+ninguno
+ 
+de
+ 
+los
+ 
+entes
+ 
+locales
+ 
+analizados
+ 
+la
+ 
+presentó
+ 
+en
+ 
+el
+ 
+plazo
+ 
+previsto,
+ 
+y
+ 
+que
+ 
+existe
+ 
+un
+ 
+desfase
+ 
+de
+ 
+entre
+ 
+1
+ 
+y
+ 
+16
+ 
+meses
+ 
+respecto
+ 
+al
+ 
+plazo
+ 
+establecido
+ 
+(véase
+ 
+el
+ 
+apartado
+ 
+2.2.3.5
+).
+ 
+ 
+7.
+ 
+El
+ 
+destino
+ 
+del
+ 
+Fondo
+ 
+para
+ 
+el
+ 
+fomento
+ 
+del
+ 
+turismo
+ 
+por
+ 
+parte
+ 
+de
+ 
+los
+ 
+entes
+ 
+locales
+ 
+y
+ 
+su
+ 
+destino
+ 
+se
+ 
+regula
+ 
+en
+ 
+el
+ 
+artículo
+ 
+49.1
+ 
+de
+ 
+la
+ 
+Ley
+ 
+5/2017
+ 
+y
+ 
+en
+ 
+el
+ 
+artículo
+ 
+431
+ 
+del
+ 
+Decreto
+ 
+75/2020,
+ 
+en
+ 
+los
+ 
+que
+ 
+se
+ 
+establecen
+ 
+5
+ 
+objetivos
+ 
+y
+ 
+unos
+ 
+porcentajes
+ 
+a
+ 
+alcanzar
+ 
+en
+ 
+función
+ 
+de
+ 
+la
+ 
+recaudación
+ 
+obtenida.
+ 
+El
+ 
+cumplimiento
+ 
+de
+ 
+requisitos
+ 
+se
+ 
+acredita
+ 
+con
+ 
+un
+ 
+certificado
+ 
+de
+ 
+un
+ 
+funcionario
+ 
+con
+ 
+habilitación
+ 
+suficiente,
+ 
+que
+ 
+debe
+ 
+ir
+ 
+acompañado
+ 
+del
+ 
+informe
+ 
+que
+ 
+se
+ 
+prevé
+ 
+en
+ 
+el
+ 
+artículo
+ 
+431
+-
+8
+ 
+del
+ 
+Decreto
+ 
+75/2020
+ 
+sobre
+ 
+el
+ 
+conjunto
+ 
+de
+ 
+actuac
+iones
+ 
+de
+ 
+control
+ 
+realizadas
+ 
+por
+ 
+el
+ 
+ente
+ 
+local
+ 
+sobre
+ 
+la
+ 
+actividad
+ 
+de
+ 
+los
+ 
+alojamientos
+ 
+turísticos
+ 
+situa
+-
+dos
+ 
+en
+ 
+su
+ 
+ámbito
+ 
+territorial.
+ 
+A
+ 
+la
+ 
+práctica,
+ 
+los
+ 
+entes
+ 
+locales
+ 
+acreditan
+ 
+los
+ 
+requisitos
+ 
+con
+ 
+el
+ 
+certificado,
+ 
+pero
+ 
+este
+ 
+no
+ 
+se
+ 
+acompaña
+ 
+de
+ 
+dicho
+ 
+informe.
+ 
+ 
+Dado
+ 
+que
+ 
+no
+ 
+hay
+ 
+definidas
+ 
+unas
+ 
+directrices
+ 
+de
+ 
+actuación,
+ 
+a
+ 
+la
+ 
+práctica,
+ 
+el
+ 
+Comité
+ 
+bila
+-
+teral
+ 
+da
+ 
+por
+ 
+buenas
+ 
+todas
+ 
+las
+ 
+actividades
+ 
+justificadas
+ 
+por
+ 
+los
+ 
+entes
+ 
+locales
+ 
+que
+ 
+po
+drían
+ 
+incluirse
+ 
+dentro
+ 
+de
+ 
+la
+ 
+actividad
+ 
+turística
+ 
+o
+ 
+bien
+ 
+dentro
+ 
+de
+ 
+uno
+ 
+de
+ 
+los
+ 
+5
+ 
+objetivos
+ 
+previstos
+ 
+en
+ 
+la
+ 
+normativa,
+ 
+pero
+ 
+sin
+ 
+seguir
+ 
+unos
+ 
+criterios
+ 
+y
+ 
+unas
+ 
+directrices
+ 
+claras.
+ 
+En
+ 
+varias
+ 
+oca
+-
+siones,
+ 
+estas
+ 
+actividades
+ 
+no
+ 
+están
+ 
+definidas
+ 
+ni
+ 
+detalladas
+ 
+de
+ 
+forma
+ 
+clara
+ 
+en
+ 
+el
+ 
+certi
+fi
+-
+cado,
+ 
+sino
+ 
+que
+ 
+solo
+ 
+se
+ 
+cuantifican
+ 
+de
+ 
+forma
+ 
+global
+ 
+enmarcándolas
+ 
+dentro
+ 
+de
+ 
+algu
+no
+ 
+de
+ 
+los
+ 
+5
+ 
+objetivos
+ 
+genéricos
+ 
+legalmente
+ 
+establecidos.
+ 
+Se
+ 
+considera
+ 
+que
+ 
+la
+ 
+justifi
+ca
+ción
+ 
+de
+ 
+estas
+ 
+actuaciones
+ 
+debería
+ 
+recoger
+ 
+una
+ 
+descripción
+ 
+más
+ 
+detallada,
+ 
+no
+ 
+solo
+ 
+de
+ 
+las
+ 
+acti
+-
+vidades
+ 
+incluidas
+ 
+sino
+ 
+también
+ 
+del
+ 
+período
+ 
+en
+ 
+el
+ 
+que
+ 
+se
+ 
+ha
+ 
+realizado
+ 
+la
+ 
+actuación
+ 
+y
+ 
+del
+ 
+coste
+ 
+soportado,
+ 
+con
+ 
+la
+ 
+correspondiente
+ 
+documentación
+ 
+justificativa,
+ 
+entre
+ 
+otr
+a
+s.
+ 
+Hay
+ 
+que
+ 
+subrayar
+ 
+que
+ 
+fundamentar
+ 
+el
+ 
+procedimiento
+ 
+de
+ 
+justificación
+ 
+en
+ 
+dicho
+ 
+certifi
+ca
+do,
+ 
+sin
+ 
+requerir
+ 
+adjuntar
+ 
+documentación
+ 
+explicativa
+ 
+(memorias,
+ 
+contratos,
+ 
+facturas,
+ 
+etc.)
+ 
+no
+ 
+per
+-
+mite
+ 
+a
+ 
+la
+ 
+Dirección
+ 
+General
+ 
+de
+ 
+Turismo
+ 
+realizar
+ 
+ninguna
+ 
+clase
+ 
+de
+ 
+compro
+bación
+ 
+o
+ 
+vali
+-
+dación
+ 
+sustentada
+ 
+de
+ 
+las
+ 
+actuaciones
+ 
+certificadas.
+ 
+ 
+En
+ 
+lo
+ 
+referente
+ 
+al
+ 
+requisito
+ 
+de
+ 
+destinar
+ 
+un
+ 
+porcentaje
+ 
+predeterminado
+ 
+a
+ 
+actuaciones
+ 
+de
+ 
+promoción
+ 
+turística,
+ 
+se
+ 
+ha
+ 
+visto
+ 
+que
+ 
+para
+ 
+las
+ 
+temporadas
+ 
+de
+ 
+invierno
+ 
+2019
+-
+2020
+ 
+y
+ 
+verano
+ 
+2020
+ 
+y,
+ 
+para
+ 
+las
+ 
+temporadas
+ 
+de
+ 
+invierno
+ 
+2020
+-
+2021
+ 
+y
+ 
+verano
+ 
+2021,
+ 
+6
+ 
+de
+ 
+los
+ 
+8
+ 
+entes
+ 
+lo
+cales
+ 
+analizados
+ 
+y
+ 
+4
+ 
+de
+ 
+los
+ 
+16
+ 
+entes
+ 
+locales
+ 
+analizados,
+ 
+respectivamente,
+ 
+no
+ 
+justifican
+ 
+el
+ 
+destino
+ 
+de
+ 
+los
+ 
+porcentajes
+ 
+establecidos
+ 
+por
+ 
+la
+ 
+normativa
+ 
+(véase
+ 
+el
+ 
+apartado
+ 
+2.2.7.5
+).
+ 
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+39
+ 
+8.
+ 
+En
+ 
+la
+ 
+revisión
+ 
+fiscalizada
+ 
+se
+ 
+ha
+ 
+observado
+ 
+una
+ 
+falta
+ 
+de
+ 
+justificación
+ 
+de
+ 
+los
+ 
+importes
+ 
+reci
+-
+bidos
+ 
+por
+ 
+varios
+ 
+entes
+ 
+locales,
+ 
+mientras
+ 
+que
+ 
+en
+ 
+otros
+ 
+la
+ 
+justificación
+ 
+ha
+ 
+estado
+ 
+por
+ 
+debajo
+ 
+del
+ 
+importe
+ 
+recibido.
+ 
+Este
+ 
+incumplimiento
+ 
+solo
+ 
+supone
+ 
+que
+ 
+el
+ 
+reparto
+ 
+de
+ 
+la
+ 
+recau
+dación
+ 
+del
+ 
+siguiente
+ 
+ejercicio
+ 
+se
+ 
+realice
+ 
+en
+ 
+el
+ 
+consejo
+ 
+comarcal
+ 
+correspondiente,
+ 
+en
+ 
+lugar
+ 
+de
+ 
+realizarse
+ 
+en
+ 
+el
+ 
+ayuntamiento
+ 
+(véase
+ 
+el
+ 
+apartado
+ 
+2.2.3.5
+).
+ 
+ 
+9.
+ 
+La
+ 
+normativa
+ 
+no
+ 
+es
+ 
+clara
+ 
+en
+ 
+los
+ 
+casos
+ 
+en
+ 
+los
+ 
+que
+ 
+no
+ 
+se
+ 
+acredita
+ 
+el
+ 
+destino
+ 
+efectivo
+ 
+de
+ 
+los
+ 
+créditos,
+ 
+dado
+ 
+que
+ 
+el
+ 
+artículo
+ 
+431
+-
+6
+ 
+del
+ 
+Decreto
+ 
+75/2020
+ 
+insta
+ 
+a
+l
+ 
+Comité
+ 
+a
+ 
+deter
+mi
+-
+nar
+ 
+directamente
+ 
+el
+ 
+destino
+ 
+de
+ 
+los
+ 
+fondos
+ 
+a
+ 
+acciones
+ 
+vinculadas
+ 
+a
+ 
+las
+ 
+directrices
+ 
+de
+ 
+ac
+tua
+ción
+ 
+dentro
+ 
+del
+ 
+ámbito
+ 
+territorial
+ 
+de
+ 
+referencia
+ 
+del
+ 
+municipio
+ 
+interesado,
+ 
+sin
+ 
+tener
+ 
+en
+ 
+cuenta
+ 
+que
+ 
+estos
+ 
+fondos
+ 
+ya
+ 
+se
+ 
+han
+ 
+repartido
+ 
+en
+ 
+el
+ 
+municipio,
+ 
+por
+ 
+lo
+ 
+que
+ 
+debería
+ 
+preverse
+ 
+un
+ 
+proc
+edimiento
+ 
+específico
+ 
+de
+ 
+regularización
+ 
+de
+ 
+los
+ 
+importes
+ 
+repartidos
+ 
+y
+ 
+de
+ 
+reintegro
+ 
+de
+ 
+las
+ 
+cuantías
+ 
+no
+ 
+justificadas.
+ 
+8
+ 
+La
+ 
+normativa
+ 
+tampoco
+ 
+concreta
+ 
+el
+ 
+pro
+ce
+-
+dimiento
+ 
+a
+ 
+seguir
+ 
+cuando
+ 
+quien
+ 
+no
+ 
+justifica
+ 
+los
+ 
+fondos
+ 
+es
+ 
+un
+ 
+consejo
+ 
+comarcal
+ 
+(véase
+ 
+el
+ 
+apartado
+ 
+2.2.3.5
+).
+ 
+ 
+10.
+ 
+La
+ 
+Ley
+ 
+5/2017
+ 
+dispone
+ 
+que
+ 
+los
+ 
+recursos
+ 
+procedentes
+ 
+del
+ 
+impuesto
+ 
+sobre
+ 
+las
+ 
+estancias
+ 
+en
+ 
+establecimientos
+ 
+turísticos
+ 
+y
+ 
+destinados
+ 
+al
+ 
+Fondo
+ 
+para
+ 
+el
+ 
+fomento
+ 
+del
+ 
+turismo
+ 
+deben
+ 
+aplicarse
+ 
+a
+ 
+proyectos
+ 
+y
+ 
+actuaciones
+ 
+que
+ 
+persigan
+ 
+uno
+ 
+de
+ 
+los
+ 
+5
+ 
+objetivos
+ 
+previstos
+ 
+en
+ 
+el
+ 
+artículo
+ 
+49,
+ 
+definidos
+ 
+en
+ 
+términos
+ 
+muy
+ 
+genéricos.
+ 
+El
+ 
+desarrollo
+ 
+reglamentario
+ 
+del
+ 
+Decreto
+ 
+75/2020
+ 
+no
+ 
+incorpora
+ 
+mayor
+ 
+detalle
+ 
+a
+ 
+dichos
+ 
+objetivos.
+ 
+Sí
+ 
+que
+ 
+establece,
+ 
+en
+ 
+cambio,
+ 
+la
+ 
+definición
+ 
+de
+ 
+unas
+ 
+directrices
+ 
+de
+ 
+actuación
+ 
+del
+ 
+Fondo
+ 
+para
+ 
+el
+ 
+fomento
+ 
+del
+ 
+tu
+rismo
+ 
+que
+ 
+debía
+ 
+proponer
+ 
+la
+ 
+Comisión
+ 
+del
+ 
+Fondo
+ 
+para
+ 
+el
+ 
+fomento
+ 
+del
+ 
+turismo
+ 
+y
+ 
+aprobar
+ 
+el
+ 
+Comité
+ 
+bilateral.
+ 
+En
+ 
+el
+ 
+ejercicio
+ 
+fiscalizado,
+ 
+esta
+ 
+Comisión
+ 
+no
+ 
+se
+ 
+había
+ 
+constituido
+ 
+ni,
+ 
+en
+ 
+conse
+-
+cuencia,
+ 
+reunido
+ 
+y,
+ 
+por
+ 
+lo
+ 
+tanto,
+ 
+no
+ 
+se
+ 
+han
+ 
+establecido
+ 
+las
+ 
+directrices
+ 
+de
+ 
+actuación.
+ 
+ 
+ 
+Como
+ 
+consecuencia
+ 
+de
+ 
+esta
+ 
+falta
+ 
+de
+ 
+directrices,
+ 
+la
+ 
+Dirección
+ 
+General
+ 
+de
+ 
+Turismo
+ 
+tam
+-
+poco
+ 
+efectúa
+ 
+una
+ 
+revisión
+ 
+detallada
+ 
+y
+ 
+profunda
+ 
+de
+ 
+las
+ 
+acciones
+ 
+que
+ 
+desarrollan
+ 
+y
+ 
+justi
+-
+fican
+ 
+los
+ 
+entes
+ 
+locales
+ 
+en
+ 
+cada
+ 
+anualidad.
+ 
+A
+ 
+esta
+ 
+poca
+ 
+planificación
+ 
+en
+ 
+el
+ 
+momento
+ 
+de
+ 
+predeterminar
+ 
+los
+ 
+objetivos
+ 
+de
+ 
+los
+ 
+proyectos
+ 
+y
+ 
+de
+ 
+las
+ 
+actuaciones
+ 
+se
+ 
+añaden
+ 
+otras
+ 
+debi
+li
+dades
+ 
+en
+ 
+relación
+ 
+con
+ 
+el
+ 
+procedimiento
+ 
+previsto
+ 
+de
+ 
+justificación
+ 
+por
+ 
+parte
+ 
+de
+ 
+los
+ 
+entes
+ 
+locales
+ 
+destinatarios
+ 
+de
+ 
+recursos
+ 
+del
+ 
+Fondo
+ 
+y
+ 
+que
+ 
+se
+ 
+desarrollan
+ 
+en
+ 
+diversas
+ 
+observaciones.
+ 
+ 
+En
+ 
+cuanto
+ 
+a
+ 
+la
+ 
+parte
+ 
+del
+ 
+Fondo
+ 
+que
+ 
+debe
+ 
+destinar
+se
+ 
+a
+ 
+la
+ 
+Generalidad,
+ 
+tampoco
+ 
+se
+ 
+dis
+-
+pone
+ 
+de
+ 
+directrices
+ 
+de
+ 
+actuación,
+ 
+por
+ 
+lo
+ 
+que
+ 
+la
+ 
+distribución
+ 
+de
+ 
+este
+ 
+Fondo
+ 
+en
+ 
+el
+ 
+presu
+-
+puesto
+ 
+de
+ 
+la
+ 
+Generalidad
+ 
+tampoco
+ 
+responde
+ 
+a
+ 
+ningún
+ 
+marco
+ 
+directivo
+ 
+que
+ 
+esté
+ 
+en
+ 
+con
+-
+sonancia
+ 
+con
+ 
+las
+ 
+políticas
+ 
+turísticas.
+ 
+La
+ 
+falta
+ 
+de
+ 
+directrices
+ 
+es
+ 
+la
+ 
+causa
+ 
+de
+ 
+que
+ 
+no
+ 
+se
+ 
+haga
+ 
+un
+ 
+seguimiento
+ 
+de
+ 
+las
+ 
+actuaciones
+ 
+previstas
+ 
+respecto
+ 
+a
+ 
+las
+ 
+actuaciones
+ 
+realizadas,
+ 
+para
+ 
+analizar
+ 
+las
+ 
+posibles
+ 
+desviaciones
+ 
+(véase
+ 
+el
+ 
+apartado
+ 
+2.2.3.5
+).
+ 
+ 
+ 
+8
+. Texto modificado a raíz de las alegaciones recibidas.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+40
+ 
+3.2.
+ 
+R
+ECOMENDACIONES
+ 
+A continuación se incluyen las recomendaciones sobre algunos aspectos que se han puesto 
+de manifiesto durante el trabajo de fiscalización realizado sobre el ejercicio 2021.
+ 
+ 
+1.
+ 
+El
+ 
+Comité
+ 
+bilateral
+ 
+es
+ 
+el
+ 
+órgano
+ 
+que
+ 
+decide
+ 
+y
+ 
+aprueba
+ 
+la
+ 
+asignación
+ 
+del
+ 
+global
+ 
+del
+ 
+Fondo
+ 
+para
+ 
+el
+ 
+fomento
+ 
+del
+ 
+turismo,
+ 
+pero
+ 
+realiza
+ 
+trabajos
+ 
+de
+ 
+control
+ 
+únicamente
+ 
+res
+pecto
+ 
+a
+ 
+la
+ 
+par
+te
+ 
+del
+ 
+Fondo
+ 
+asignada
+ 
+a
+ 
+los
+ 
+entes
+ 
+locales.
+ 
+Sería
+ 
+necesario
+ 
+que
+ 
+las
+ 
+parti
+das
+ 
+que
+ 
+conforman
+ 
+la
+ 
+parte
+ 
+del
+ 
+Fondo
+ 
+destinada
+ 
+a
+ 
+otros
+ 
+conceptos
+ 
+y
+ 
+destinatarios
+ 
+diferentes
+ 
+de
+ 
+los
+ 
+entes
+ 
+locales
+ 
+también
+ 
+fueran
+ 
+objeto
+ 
+de
+ 
+unos
+ 
+trámites
+ 
+mínimos
+ 
+de
+ 
+justificación
+ 
+por
+ 
+parte
+ 
+de
+ 
+los
+ 
+destinatarios
+ 
+delante
+ 
+el
+ 
+Comité
+ 
+bilateral,
+ 
+y
+ 
+de
+ 
+control
+ 
+por
+ 
+parte
+ 
+de
+ 
+este
+ 
+último.
+ 
+2.
+ 
+La
+ 
+Dirección
+ 
+General
+ 
+de
+ 
+Turismo
+ 
+debería
+ 
+impulsar
+ 
+la
+ 
+constitución
+ 
+de
+ 
+la
+ 
+Comisión
+ 
+del
+ 
+Fondo
+ 
+para
+ 
+el
+ 
+fomento
+ 
+del
+ 
+turismo,
+ 
+y
+ 
+la
+ 
+definición
+ 
+y
+ 
+aprobación
+ 
+de
+ 
+las
+ 
+directrices
+ 
+de
+ 
+ac
+tuación
+ 
+del
+ 
+Fondo
+ 
+para
+ 
+el
+ 
+fomento
+ 
+del
+ 
+turismo.
+ 
+Estas
+ 
+directrices
+ 
+deben
+ 
+permitir
+ 
+alcan
+-
+zar
+ 
+los
+ 
+objetivos
+ 
+previamente
+ 
+establecidos
+ 
+de
+ 
+acuerdo
+ 
+con
+ 
+la
+ 
+planificación
+ 
+turística
+ 
+de
+ 
+la
+ 
+Generalidad.
+ 
+ 
+3.
+ 
+Debería
+ 
+revisar
+se
+ 
+en
+ 
+profundidad
+ 
+el
+ 
+sistema
+ 
+de
+ 
+justificación
+ 
+de
+ 
+los
+ 
+importes
+ 
+recibidos
+ 
+del
+ 
+Fondo
+ 
+para
+ 
+el
+ 
+fomento
+ 
+de
+ 
+turismo,
+ 
+dado
+ 
+que
+ 
+el
+ 
+sistema
+ 
+actual
+ 
+se
+ 
+fundamenta
+ 
+en
+ 
+la
+ 
+existencia
+ 
+de
+ 
+un
+ 
+certificado,
+ 
+con
+ 
+mayor
+ 
+o
+ 
+menor
+ 
+detalle
+ 
+y
+ 
+más
+ 
+o
+ 
+menos
+ 
+genérico
+ 
+en
+ 
+sus
+ 
+descripciones.
+ 
+Este
+ 
+certificado
+ 
+debería
+ 
+ir
+ 
+acompañado
+ 
+de
+ 
+la
+ 
+documentación
+ 
+justificativa
+ 
+que
+ 
+correspondiera,
+ 
+como
+ 
+memorias,
+ 
+contratos,
+ 
+facturas,
+ 
+pagos,
+ 
+etc.
+ 
+de
+ 
+manera
+ 
+que
+ 
+la
+ 
+Dirección
+ 
+General
+ 
+de
+ 
+Turismo
+ 
+pudiera
+ 
+realizar
+ 
+una
+ 
+correcta
+ 
+comprobación
+ 
+y
+ 
+validac
+ión
+ 
+de
+ 
+las
+ 
+actuaciones,
+ 
+no
+ 
+solo
+ 
+de
+ 
+los
+ 
+entes
+ 
+locales
+ 
+sino
+ 
+también
+ 
+del
+ 
+resto
+ 
+de
+ 
+entidades
+ 
+cuando
+ 
+reciben
+ 
+parte
+ 
+del
+ 
+Fondo
+ 
+procedente
+ 
+de
+ 
+la
+ 
+Generalidad.
+ 
+ 
+4.
+ 
+El
+ 
+Departamento
+ 
+de
+ 
+Empresa
+ 
+y
+ 
+Trabajo
+ 
+debería
+ 
+instar
+ 
+a
+ 
+mejorar
+ 
+la
+ 
+normativa
+ 
+relativa
+ 
+al
+ 
+impuesto
+ 
+sobre
+ 
+las
+ 
+estancias
+ 
+en
+ 
+establecimientos
+ 
+turísticos
+ 
+en
+ 
+varios
+ 
+aspectos,
+ 
+como
+ 
+elaborar
+ 
+una
+ 
+redacción
+ 
+más
+ 
+clara
+ 
+respecto
+ 
+a
+ 
+los
+ 
+plazos
+ 
+de
+ 
+justificación,
+ 
+establecer
+ 
+la
+ 
+cooperación
+ 
+entre
+ 
+la
+ 
+Agencia
+ 
+Tributaria
+ 
+de
+ 
+Cataluña
+ 
+y
+ 
+los
+ 
+departamentos
+ 
+que
+ 
+gestionan
+ 
+el
+ 
+Fondo,
+ 
+definir
+ 
+el
+ 
+Fondo
+ 
+de
+ 
+gestión
+ 
+propia
+ 
+de
+ 
+la
+ 
+Generalidad,
+ 
+determinar
+ 
+el
+ 
+destino
+ 
+de
+ 
+la
+ 
+tarifa
+ 
+especial
+ 
+y
+ 
+de
+ 
+los
+ 
+recargos
+ 
+de
+ 
+Barcelona,
+ 
+especificar
+ 
+el
+ 
+procedimient
+o
+ 
+en
+ 
+caso
+ 
+de
+ 
+que
+ 
+los
+ 
+importes
+ 
+no
+ 
+se
+ 
+justificaran
+ 
+adecuadamente,
+ 
+etc.
+ 
+ 
+4.
+ 
+TRÁMITE DE ALEGACIONES
+ 
+De acuerdo con la normativa vigente, el proyecto de informe de fiscalización fue enviado 
+Departamento de Empresa y Trabajo, para cumplir el trámite de alegaciones.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+41
+ 
+4.1.
+ 
+A
+LEGACIONES RECIBIDAS
+ 
+El escrito de alegaciones presentado por el 
+Departamento de Empresa y Trabajo, con regis
+tro 
+de entrada número E/005316, de 30 de noviembre de 2023, se reproduce a continuación
+:
+ 
+9
+ 
+ 
+ 
+ 
+ 
+ 
+Sr. D. Josep Viñas Xifra
+ 
+Síndico de la Sindicatura de Cuentas de Cataluña
+ 
+Via Laietana, 60
+ 
+08003 
+Barcelona
+ 
+ 
+ 
+Alegaciones al proyecto de informe de fiscalización núm. 8/2023
+-
+B correspondiente al 
+impuesto sobre las estancias en establecimientos turísticos, del Fondo para el Fomento 
+del Turismo, del Departamento de Empresa y Trabajo.
+ 
+ 
+En
+ 
+relación 
+con
+ 
+su proyecto de informe, de fecha 16 de noviembre de 2023, núm. 
+8/2023
+-
+B, les presento las siguientes alegaciones:
+ 
+ 
+a) Apartado 2.2.1.
+ 
+El Registro de Turismo de Cataluña, se dice: 
+General de Turismo y la Agencia Tributaria de Cataluña no se efectúa una concilia
+-
+ción periódica de los datos de los establecimientos incluidos en el Registro, lo que 
+dificulta el seguimiento y control de que estos establecimientos estén liquidando el 
+impuesto de forma correcta.
+ 
+ 
+La Dirección General de Turismo no recibe información de los códigos de identificación 
+que la Agencia Tributaria de Cataluña 
+asigna
+ 
+provisionalmente y, por lo tanto, desco
+-
+noce si los establecimientos están liquidando el impuesto con códigos provisionales y 
+si estos corresponden a 
+establecimientos que ya tenían un código definitivo en el 
+ 
+Para acceder a la información de los datos del Registro de Turismo de Cataluña, la 
+Agen
+cia Tributaria de Cataluña no accede a la base de datos 
+de 
+que dispone la 
+Dirección General de Turismo, sino que obtiene la información directamente del Centro 
+de Telecomunicaciones y Tecnologías de la Información de la Generalidad de Cata
+-
+ 
+ 
+A este respecto, se ha realizado una transformación tecnológica de la base de datos 
+del Registro de Turismo de Cataluña. Con esta transformación el Registro 
+está
+ 
+ahora 
+integrado 
+en
+ 
+la aplicación REE (Registro de entidades). Esta aplicación, a diferencia 
+de 
+la
+ 
+anterior, ya permite una integración directa y segura con los sistemas de la Agen
+-
+ 
+ 
+9
+.
+ 
+Las alegaciones
+ 
+original
+es
+ 
+estaba
+n
+ 
+redactad
+as
+ 
+en catalán. Aquí figura
+n
+ 
+traducid
+as
+ 
+al castellano.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+42
+ 
+cia Tributaria. Esta integración se ha puesto en funcionamiento el pasado mes de julio. 
+De esta manera, la Agencia Tributaria tendrá disponible la información periódicamente 
+actualizada para ser tratada dentro de 
+sus
+ 
+sistemas de información.
+ 
+ 
+Con esta actuación quedan mitigados los riesgos e ineficiencias en 
+cuanto
+ 
+a la con
+-
+sulta de los datos por parte de la Agencia Tributaria. 
+ 
+ 
+b) Apartado 2.2.2.
+ 
+Comité Bilateral, se dice: 
+-
+2021, la fecha real de reparto del Fondo a los ayuntamientos fue posterior a la fecha 
+prevista en la normativa, mientras que para la temporada de verano 2021 y de invierno 
+2021
+-
+2022 el reparto se realizó dentro del 
+plazo previsto. 
+ 
+ 
+En lo referente al reparto del Fondo correspondiente al recargo de Barcelona, el se
+-
+mes
+tre de invierno 2021
+-
+2022 fue el único en el que el reparto se hizo dentro del plazo 
+ 
+ 
+Los plazos previstos para ordenar la transferencia de los créditos, de dos meses para 
+el Ayuntamiento de Barcelona y de cuatro meses para el resto de 
+los ayuntamientos
+, 
+contados desde la finalización del plazo de presentación e ingreso de la autoliqui
+da
+-
+ción, son insuficientes dada la complejidad en la gestión del Fondo.
+ 
+ 
+La Agencia Tributaria de Cataluña envía los listados con los datos de la recaudación, 
+tanto de Barcelona como del resto de municipios aproximadamente dos meses des
+-
+pués de la finalización del plazo de presentación e ingreso de la autoliquidación; pos
+-
+te
+riormente, hay que preparar la documentación, lo que implica 
+realizar
+ 
+un trata
+miento 
+previo de 
+los 
+datos, cruzar información, etc.; una vez 
+realizados 
+estos trabajos, 
+debe
+ 
+con
+vocar
+se
+ 
+y realizar
+se
+ 
+la reunión del Comité bilateral que debe decidir la asignaci
+ón 
+de los recursos del Fondo, y por último, realizar las transferencias.
+ 
+ 
+Por lo tanto consideramos que cuatro meses no es un plazo suficiente para 
+realizar 
+di
+-
+chas
+ 
+gestiones. Esta insuficiencia todavía se pone de manifiesto cuando el importe re
+-
+cau
+dado y por lo tanto el ingreso generado es superior al previsto en un inicio y es 
+necesario 
+realizar 
+generaciones de crédito en el presupuesto antes de ordenar el pago. 
+ 
+ 
+En lo referente en concreto al retraso en el período invierno 2020
+-
+2021 que señala el 
+informe, hay que mencionar que la fecha en 
+la 
+que se recibieron los datos de la recau
+-
+dación de la Agencia Tributaria de Cataluña para poder ser trabajad
+o
+s fue los días 14 
+a 16 de junio.
+ 
+ 
+Ampliar el plazo de reparto sería una buena solución porque permitiría llevar a cabo 
+las gestiones con más margen de tiempo. 
+ 
+ 
+c) Apartado 2.2.3.5.
+ 
+Resultados de la fiscalización, se dice: 
+locales analizados ha presentado la justificación en el plazo previsto. En todos los 
+casos existe un retraso de entre 1 y 16 meses. Hay que mencionar que los expedientes 
+correspondientes a la temporada de invierno 2021
+-
+2022, que debía
+n de justificarse 
+antes del 31 de enero de 2023, no han sido justificados a la fecha de finalización del 
+trabajo de campo, mayo de 2023.
+ 
+ 
+La principal razón para que los entes locales elaboren la justificación fuera del plazo 
+previsto en la normativa es que la Dirección General de Turismo permite presentar la 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+43
+ 
+justificación hasta el 30 de abril y no hasta el 31 de enero del año correspondiente. 
+Hay que mencionar también que la temporada de invierno 2020
+-
+2021, que debía de 
+justificarse en 2022, se aceptó que se justificara hasta el 30 de abril de 2023.
+ 
+ 
+Cabe mencionar
+ 
+que por 7 de los expedientes analizados la justificación se presentó 
+también fuera del plazo de 30 de abril que permite la Dirección General. Por estos 
+expedientes, la Dirección General de Turismo ha requerido que presenten la justifica
+-
+ 
+ 
+El hecho de que la norma establezca transferir a los ayuntamientos cada semestre la 
+recaudación y 
+al mismo tiempo
+ 
+prevea justificar la suma total de los dos semestres 
+transferidos hace compleja la ejecución y justificación del Fondo de gestión local, por
+-
+que desde la segunda transferencia el margen de tiempo a justificar es insuficiente. 
+Hay que recordar que los proyectos y actuaciones implican cumplir la normativa de 
+con
+tratación pública. Cabe decir que 
+existen acciones que se ejecutan en períodos 
+superio
+res al año y pueden haber retrasos.
+ 
+ 
+Consideramos que para garantizar inversiones eficaces, de relevancia y que requieren 
+de mayor presupuesto es necesario que los proyectos o actuaciones se puedan finan
+-
+ciar con los importes correspondientes a dos transferencias. Por lo tanto, 
+debería
+ 
+ampliar
+se
+ 
+el plazo de justificación del destino efectivo de los créditos por parte de los 
+entes locales.
+ 
+ 
+En lo referente a los años auditados, estos fueron unos años singulares, con unos 
+im
+portes pequeños, y los ayuntamientos de municipios con una actividad turística 
+casi inexistente tuvieron que replantear su estrategia, ya que las actividades de pro
+-
+moción en muchos casos no tenían sentido ni podían llevarse a cabo.
+ 
+ 
+Se considera que este informe 
+debe
+ 
+servir para instar un cambio normativo a fin de 
+am
+pliar el plazo máximo de presentación del certificado y clarificar el sistema en lo 
+referente al retraso en la justificación.
+ 
+ 
+ 
+d) Apartado 2.2.3.5.
+ 
+Resultados de fiscalización, se dice: 
+los casos en 
+los 
+que no se acredita el destino efectivo de los créditos, dado que insta 
+a
+l Comité a determinar directamente el destino de los fondos a acciones vinculadas a 
+las directrices de actuación dentro del ámbito territorial de referencia del municipio 
+in
+tere
+sado, sin tener en cuenta que estos fondos ya se han repartido en el municipio, 
+por lo que debería preverse un proceso de revocación de los importes reparti
+dos y de 
+reintegro de las cuantías no justificadas.
+ 
+Entendemos que la falta de destino se corresponde con una incapacidad del ente local 
+para decidir el destino de la siguiente participación del Fondo. Este sistema pretende 
+evitar penalizar el territorio y por lo tanto se prevé que la gestión sea del ente t
+erritorial 
+superior.
+ 
+ 
+Se comparte la observación de que la normativa no es clara en los casos en 
+los 
+que 
+no se acredita el destino efectivo de los créditos, y por lo tanto, por seguridad jurídica, 
+sería necesario
+ 
+clarificar que el incumplimiento afectará a los siguientes importes del 
+Fondo. Este informe debe servir para instar los cambios normativos necesarios.
+ 
+ 
+No obstante, consideramos que un procedimiento de revocación en primer lugar no 
+encajaría por la naturaleza del Fondo de gestión local que es una participación en un 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+44
+ 
+tributo de la Generalidad, no es una subvención, ni una transferencia. En segundo lugar, 
+supondría unos costes y una litigiosidad no justificables de acuerdo con los principios 
+de eficacia y eficiencia de las administraciones públicas y teniendo en cuenta 
+que la 
+finalidad puede alcanzarse con soluciones alternativas más ágiles e igual de efectivas. 
+ 
+ 
+e) Apartado 2.2.3.5.
+ 
+En el ejercicio 2014, la 
+Dirección General de Turismo 
+disponía de unas directrices establecidas por el Co
+-
+mi
+té bilateral, pero solo para el tramo del Fondo destinado a los entes locales. En 
+estas directrices se establecían
+ 
+una serie de actuaciones para las que se definían 
+las acciones que quedaban enmarcadas y aquellas que no 
+podían incluirse
+. Estas 
+ac
+tuaciones eran las siguientes: 
+ 
+ 
+ 
+Soporte a los certificados de especialidad del destino
+ 
+ 
+Mejora de la experiencia turística del visitante en los equipamientos de informa
+-
+ción y atención turística
+ 
+ 
+Plan de formación en idiomas, en atención al cliente y en la prestación de los 
+servicios 
+ 
+ 
+Mejora de la experiencia turística estimulando la creación y consolidación de 
+nuevos productos turísticos
+ 
+ 
+Aplicación de las tecnologías de la información y las comunicaciones para la 
+mejora de la experiencia turística
+ 
+ 
+Mejora de la señalización turística del destino
+ 
+ 
+Priorización de captación de turismo interior
+ 
+ 
+Plan de captación y retención de mercados de proximidad (España y Francia)
+ 
+ 
+ 
+ 
+Hay
+ 
+que
+ 
+decir
+, como consecuencia de la falta de constitución de la Comisión del Fon
+-
+do, en el ejercicio fiscalizado tampoco se han establecido las directrices de actuación 
+del Fondo para el fomento del turismo.
+ 
+ 
+Al no tener un marco directivo a que acogerse, la Dirección General de Turismo tampo
+-
+co efectúa una revisión detallada y profunda de las acciones que desarrollan y jus
+tifi
+-
+can los entes locales en cada anualidad.
+ 
+ 
+En cuanto a la parte del Fondo que debe 
+destinarse a la Generalidad, tampoco se 
+dis
+pone de directrices de actuación, por lo que la distribución de este Fondo en el 
+presupuesto de la Generalidad tampoco responde a ningún marco directivo que esté 
+en consonancia con las políticas turísticas. La falta de directrices provoca que no se 
+lleve a
+ 
+cabo un seguimiento de las actuaciones previstas respecto a las actuaciones 
+realizadas, para analizar las posibles desviaciones.
+ 
+ 
+La Dirección General de Turismo debe impulsar la definición de estas directrices, no 
+solo para la parte del Fondo destinada a los entes locales, sino también para la parte 
+del Fondo destinada a la Generalidad. Mediante una mayor concreción de los objetivos
+ 
+previstos en el artículo 49 de la Ley 5/2017, estas directrices deben permitir alcanzar 
+los objetivos previamente establecidos de acuerdo con la planificación turística de la 
+ 
+ 
+Esta redacción no es del todo precisa, dado que la Dirección General de Turismo no 
+tiene por función impulsar la definición de las directrices de actuación. Entendemos 
+que esta función corresponde a la Comisión del Fondo para el fomento del turismo de 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+45
+ 
+acuerdo con su función de proponer las directrices de actuación, prevista en el artículo 
+431
+-
+3.1 del Decreto 75/2020, de 4 de agosto, de 
+t
+urismo de Cataluña. 
+ 
+ 
+Consideramos que las directrices de actuación son aplicables a los entes locales, no 
+a la Generalidad, porque son una herramienta para el control que lleva a cabo el Co
+-
+mité bilateral sobre porcentaje de Fondo con destino local, consistente en verificar que 
+los entes locales han destinado efectivamente los recursos del Fondo a las directrices 
+de actuación.
+ 
+ 
+En lo referente al 50% del Fondo que corresponde a la Generalidad, hay que mencionar 
+que los presupuestos de la Generalidad aprobados por el Parlamento de Cataluña 
+detallan el destino y los programas del Fondo del fomento de turismo en cuanto a la 
+asignaci
+ón de la Generalidad. Este porcentaje viene determinado, 
+a priori
+, en la elabo
+-
+ración del 
+A
+nteproyecto de Ley del presupuesto.
+ 
+ 
+Sin embargo consideramos que hay que aclarar en la norma que el Comité Bilateral 
+decide el destino de los Fondos de gestión local. 
+ 
+ 
+f) Apartado 2.2.3.5.
+ 
+De acuerdo con la normativa, 
+la acreditación del cumplimiento de los requisitos por parte de los entes locales se 
+realiza mediante un certificado de un funcionario con habilitación suficiente. Este certifi
+-
+cado debe ir acompañado del correspondiente informe sobre el conjunto de actua
+-
+ciones que han 
+realizado
+ 
+para el control de la actividad de los alojamientos turísticos 
+situados en su ámbito territorial que prevé el artículo 431
+-
+8 del citado decret
+o. De 
+acuerdo con esto, la comprobación realizada por la Dirección General de Turismo se 
+limita a verificar la existencia de este certificado. No se solicita la documentación jus
+ti
+-
+fi
+cativa del gasto certificado, ni el justificante de pago de la actuación concreta, ni 
+dicho
+ 
+ 
+ 
+En cuanto a la aportación de documentación justificativa del gasto certificado cabe 
+decir que la normativa no exige más obligaciones de intervención o auditoría, que la 
+emi
+sión de un certificado extendido por funcionario habilitado. En 
+consecuencia,
+ 
+en
+-
+tiende que al determinar que la persona sea habilitada es suficiente garantía. 
+ 
+ 
+g) Apartado 2.2.3.5.
+ 
+Resultados de fiscalización, se dice: 
+-
+ficar que el 60
+-
+75% de la recaudación por el conjunto de las dos temporadas semes
+-
+trales se destina a actuaciones de promoción turística.
+ 
+ 
+En la muestra fiscalizada se ha verificado que, para las temporadas de invierno 2019
+-
+2020 
+y verano 2020, los municipios de Barcelona, Lloret de Mar, Calonge, Roda de Berà y 
+Camprodon, y el Consejo Comarcal de La Cerdanya, no han justificado el porcentaje q
+ue 
+marca la normativa para invertir el Fondo en actuaciones concretas de promoción turística.
+ 
+ 
+El Comité bilateral ha empezado a efectuar esta verificación a partir de la última justifi
+-
+cación del Fondo, que corresponde a las temporadas de invierno 2020
+-
+2021 y verano 
+2021. En la muestra fiscalizada se ha verificado que Cadaqués, Lloret de Mar, Rialp y el 
+ 
+En lo referente al segundo párrafo interpret
+a
+mos que la obligación de los entes locales 
+de destinar un porcentaje mínimo de los importes del Fondo a proyectos y actuaciones 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+46
+ 
+concretas de promoción turística, y que está prevista en el artículo 431
+-
+6.1 del Decreto 
+75/2020, de 4 de agosto, de turismo de Cataluña, es aplicable a partir de la temporada 
+de invierno 2020
+-
+2021 porque fue la primera temporada posterior a la entrada en vigor 
+de
+ 
+dicho 
+Decreto, 
+tal y como recoge el informe que empezó a efectuar el Comité bilateral.
+ 
+ 
+ 
+h) Apartado 2.2.3.5.
+ 
+Resultados de fiscalización, se dice: 
+-
+miento de Camprodon relativa al período de las temporadas de invierno 2019 a la de 
+verano 2020 es insuficiente, 
+ya 
+que solo asciende a 4.405
+ 
+ 
+recibidos. Esta falta de justificación se compensó con el exceso de justificación del 
+Ayun
+tamiento relativo a la temporada anterior, la de verano 2019, ya que justificó 
+12.855
+ 
+die
+r
+a cobertura a esta compensación.
+ 
+ 
+Para analizar de forma completa la falta de justificación, se ha realizado un análisis 
+de
+ta
+llado de los listados de justificación por temporadas. De este análisis se des
+-
+prende que el número de entes locales que no han justificado el destino de los fondos 
+o que han justificado por debajo del importe recibido son los siguientes:
+ 
+ 
+Cuadro 16. Entes locales sin justificación o con justificación incompleta del destino del fondo
+ 
+Temporada
+ 
+Total de 
+entes locales 
+que 
+debían
+ 
+justificar el 
+destino de 
+los
+ 
+fondos
+ 
+Número de 
+entes locales 
+que no 
+justificaron el 
+destino 
+de 
+los
+ 
+fondos
+ 
+Porcen
+-
+taje 
+sobre 
+total
+ 
+Número de entes 
+locales que justi
+-
+ficaron el destino 
+de los fondos 
+por
+ 
+d
+ebajo del 
+importe
+ 
+recibido
+ 
+Porcen
+-
+taje 
+sobre 
+total
+ 
+Verano 
+2019
+ 
+251
+ 
+11
+ 
+4,38
+ 
+5
+ 
+1,99
+ 
+Invierno 
+2019
+-
+2020 
+/ 
+verano 
+2020
+ 
+241
+ 
+7
+ 
+2,86
+ 
+1
+ 
+0,41
+ 
+Invierno 
+2020
+-
+2021 
+/ 
+verano 
+2021
+ 
+197
+ 
+13
+ 
+6,60
+ 
+8
+ 
+4,06
+ 
+FUENTE: 
+Elaboración propia a partir de los listados de justificaciones por 
+temporadas.
+ 
+ 
+El incumplimiento solo ha supuesto que el reparto de la recaudación del próximo ejer
+-
+cicio deba realizarse en el consejo comarcal correspondiente, en lugar de realizarse 
+ 
+ 
+Hay que expresar que el Comité Bilateral ha aplicado lo establecido por la norma para 
+el supuesto de falta de justificación. 
+ 
+ 
+3. CONCLUSIONES
+ 
+ 
+i)
+ 
+-
+puesto y, especialmente, el Fondo para el fomento del turismo, se hace difícil alcan
+zar 
+unos objetivos que surjan de una planificación turística previa. El hecho de que el 
+importe recaudado se diluya entre los municipios hace que se pierda el control del 
+destino de estos fondos. Si bien la justificación que se requiere a los entes locales
+ 
+im
+plica un cierto control en cuanto a la consecución de los 5 objetivos genéricos e
+sta
+-
+blecidos en la normativa, también es cierto que a la práctica las actividades justifi
+cadas 
+no responden a unos objetivos concretos y predeterminados por parte de la Gene
+-
+ralidad de Cataluña. Hay que plantearse, después de unos años de la creación del 
+impuesto, si con los procedimientos actuales se están alcanzando los objetivos con
+-
+cre
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+47
+ 
+Hay que expresar la total conformidad con esta conclusión. El hecho de que se diluya 
+entre los municipios hace que se pierda el control del Fondo, este informe puede servir 
+para plantearse modificaciones.
+ 
+ 
+proceso (la gestión, recaudación e inspección) la efectúa la Agencia Tributaria de 
+Cataluña y, otra (concretamente, la gestión del Fondo para el fomento del turismo), e
+l 
+Departamento de Empresa y Trabajo. Esta distribución de tareas dificulta al departa
+-
+mento competente el control y seguimiento de los importes recaudados y de la conse
+-
+cución de los objetivos para los que se creó el impuesto, y esto se ve agraviado 
+porque
+ 
+l
+o
+s datos obtenidos por la Agencia respecto a la gestión del impuesto no se 
+traspasan al Departamento ni tan solo con un proceso previo de disociación y ano
+ni
+-
+mi
+ 
+Hay que expresar la total conformidad con esta recomendación.
+ 
+ 
+ 
+3.1. OBSERVACIONES
+ 
+ 
+k) 3.1.1 Observaciones
+,
+ 
+se dice: 
+Direc
+ción General y la Agencia dado que, para acceder a la 
+información, la Agencia 
+no accede a la base de datos del Registro de turismo de Cataluña de que dispone la 
+Dirección General, sino que obtiene la información directamente del Centro de Tele
+-
+comunicaciones y Tecnologías de la Información de la Generalidad de Cataluña. Este 
+hecho aumenta el riesgo de ineficiencias operativas y de control interno (véase el 
+ 
+ 
+Nos remitimos a la valoración expuesta en el apartado a). 
+ 
+ 
+l) 3.1.2 Observaciones,
+ 
+se dice: 
+debe
+ 
+decidir la asignación 
+de los recursos del Fondo para el fomento del turismo, a la práctica, aprueba el destino 
+del global del Fondo pero solo detalla el 50% correspondiente a la parte del Fondo a 
+destinar a los ayuntamientos en función de la recaudación e
+n su ámbito territorial, 
+diferenciando los importes por cada ente local. Para el 50% restante del Fondo, ade
+-
+más de la aprobación global, el Comité no detalla ni especifica las actuaciones o
+ 
+finali
+-
+ 
+bueno del presidente, que establece el artículo 20.3 de la Ley 26/2010, de régimen 
+jurídico y de procedimiento de las administraciones públicas de Cataluña (véase el 
+apar
+ 
+En cuanto a la observación del primer párrafo nos remitimos a la valoración expuesta 
+en el apartado e). 
+ 
+En cuanto al aspecto formal detectado respecto al visto bueno del presidente en las 
+actas del Comité bilateral debe aclararse que las actas constan aprobadas en todas 
+las sesiones del Comité bilateral con representación o asistencia de su presidente. 
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+48
+ 
+m) 3.1.3 Observaciones
+,
+ 
+men
+-
+to del turismo para la temporada de invierno 2020
+-
+2021 es posterior a la fecha prevista 
+en la normativa. Por otra parte, el reparto del Fondo correspondiente al recargo de 
+Barcelona para las temporadas de verano 2021 y de invierno 2021
+-
+2022 se efectúa 
+con 
+posterioridad al plazo de 2 meses previstos en la normativa (véase el apartado 
+ 
+ 
+Nos remitimos a la valoración expuesta en el apartado b).
+ 
+ 
+n) 3.1.5. Observaciones,
+ 
+se dice
+-
+men
+to de turismo, la normativa excluye de este reparto la tarifa especial y también el 
+recargo para la ciudad de Barcelona, por lo que estos ingresos no están afectados a 
+dichas
+ 
+finalidades. La normativa debería especificar el destino de estos fondos, prin
+-
+ci
+palmente los relativos a la tarifa especial que se recauda en los establecimientos 
+ 
+Estamos de acuerdo con esta observación. 
+ 
+ 
+o) 3.1.6. Observaciones
+,
+ 
+En cuanto a la 
+justificación de la parte del Fondo 
+para el fomento del turismo destinado a los entes locales, se ha visto que ninguno de 
+los entes locales analizados presentó la justificación en el plazo previsto, y que existe 
+un desfase de entre 1 y 16 meses respecto al
+ 
+ 
+ 
+Nos remitimos a la valoración expuesta en el apartado c). 
+ 
+ 
+p) 3.1.7. Observaciones,
+ 
+se dice: 
+actuación, a la práctica, el Comité bilateral da por buenas todas las actividades justifi
+-
+cadas por los entes locales que podrían incluirse en la actividad turística o bien en uno 
+de los 5 objetivos previstos en la normativa, pero sin seguir unos criterios y unas direc
+-
+trices claras. En varias ocasiones, estas actividades no están definidas ni detalladas 
+de forma clara en el certificado, sino que solo se cuantifican de form
+a global enmar
+-
+cán
+dolas dentro de alguno de los 5 objetivos genéricos legalmente establecidos. Se 
+considera que la justificación de estas actuaciones debería recoger una descripción 
+más detallada, no solo de las actividades incluidas sino también del período en el que 
+se ha
+ 
+realizado la actuación y del coste soportado, con la correspondiente documen
+-
+tación justificativa, entre otros. Hay que subrayar que fundamentar el procedimiento de 
+justificación en 
+dicho
+ 
+certificado, sin requerir adjuntar documentación
+ 
+explicativa (me
+-
+morias, contratos, facturas, etc.) no permite a la Dirección General de Turismo reali
+zar 
+ninguna clase de comprobación o validación sustentada de las actuaciones certifi
+-
+ 
+En lo referente al sistema de control previsto legalmente nos remitimos a la valoración 
+expuesta en el apartado f). 
+ 
+q) 3.1.9. Observaciones
+, 
+se dice: 
+los 
+que 
+no se 
+acredita el destino efectiv
+o
+ 
+de los créditos, 
+dado
+ 
+que el artículo 431
+-
+6 del Decreto 
+75/2020 insta 
+a
+l Comité a determinar directamente el destino de los fondos
+ 
+a acciones 
+vinculadas a las directrices de actuación dentro del ámbito territorial de referencia del 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+49
+ 
+municipio interesado, sin tener en cuenta que estos fondos ya se han repartido en el 
+municipio, por lo que se debería prever un proceso de revocación de los importes 
+re
+partidos y de reintegro de las cuantías no justificadas. La normativa tampoco concre
+-
+ta el procedimiento a seguir cuando quien no justifica los fondos es un consejo comar
+-
+ 
+ 
+Nos remitimos a la valoración expuesta en el apartado d). 
+ 
+ 
+En lo referente al procedimiento a seguir cuando quien no justifica el fondo es un con
+-
+sejo comarcal, 
+debe
+ 
+mencionar
+se
+ 
+que el artículo 431
+-
+6.3 del Decreto 75/2020 prevé 
+lo
+ 
+siguiente: 
+En caso de que el incumplimiento sea imputable a un consejo comar
+-
+cal o al Consejo General de Arán, el Comité debe determinar directamente el destino 
+de los fondos a las acciones de promoción turística del Departamento competente en 
+ma
+ 
+ 
+3.2. RECOMENDACIONES
+ 
+ 
+r) 3.2.1 Recomendaciones
+,
+ 
+se dice: 
+aprueba la asignación del 
+global del Fondo para el fomento del turismo, pero lleva a
+ 
+cabo trabajos de control únicamente respecto a la parte del Fondo asignada a los entes
+ 
+locales. 
+Sería necesario
+ 
+que 
+las partidas que conforman la parte del Fondo des
+ti
+nada 
+a otros conceptos y destinatarios diferentes 
+de
+ 
+los entes locales, fueran objeto de unos 
+trámites mínimos de justificación por parte de los destinatarios delante el Comité bila
+-
+teral, y de control por parte de este
+ 
+último
+ 
+ 
+Nos remitimos a la valoración expuesta en el apartado e).
+ 
+ 
+s) 3.3.3 Recomendaciones,
+ 
+se dice: 
+Debería
+ 
+revisar
+se
+ 
+en profundidad el sistema 
+de justificación de los importes recibidos del Fondo para el fomento de turismo, dado 
+que el sistema actual se fundamenta en la existencia de un certificado, con mayor o 
+menor detalle y más o menos genérico en sus descripciones. 
+Este certificado debería 
+ir acompañado de la documentación justificativa que correspondiera, como memo
+-
+rias, contratos, facturas, pagos, etc. de modo que la Dirección General de Turismo 
+pu
+diera llevar a cabo una correcta comprobación y validación de las a
+ctuaciones, 
+no solo de los entes locales sino también del resto de entidades cuando reciben 
+par
+ 
+ 
+Nos remitimos a la valoración expuesta en el apartado f).
+ 
+ 
+t
+) 3.3.4 Recomendaciones,
+ 
+se dice:
+ 
+-
+ría instar a mejorar la normativa relativa al impuesto sobre las estancias en estableci
+-
+mientos turísticos en varios aspectos, como elaborar una redacción más clara respecto 
+a los plazos de justificación, establecer la cooperación entre la Agencia Tributaria de 
+Cataluña y los departamentos que gestionan el 
+F
+ondo, definir el Fondo de gestión 
+propia de la Generalidad, determinar el destino de la tarifa especial y de los recargos 
+de Barcelona, especificar el procedimiento en caso de que los importes no se justifica
+-
+ 
+ 
+Nos remitimos a las valoraciones expuestas en los diferentes apartados de este 
+documento.
+ 
+SINDICATURA DE 
+CUENTAS DE CATALUÑA 
+ 
+INFORME 34/2023
+ 
+50
+ 
+ca-ES4.2. TRATAMIENTO DE LAS ALEGACIONES Las alegaciones formuladas han sido analizadas y valoradas por la Sindicatura de Cuentas. Como consecuencia de la alegación d en el apartado 2.2.3.5 y de la alegación q en la ob-servación 9, se ha modificado el texto del proyecto de informe, según se indica en las correspondientes notas al pie de página.  El resto del texto del proyecto de informe no se ha alterado porque se entiende que las alegaciones enviadas son explicaciones que confirman la situación descrita inicialmente o porque no se comparten los juicios que en ellas se exponen. APROBACIÓN DEL INFORME Certifico que en Barcelona, el 19 de diciembre de 2023, reunido el Pleno de la Sindicatura de Cuentas, presidido por el síndico mayor, Miquel Salazar Canalda, con la asistencia de los síndicos Manel Rodríguez Tió, Luz Rodríguez Rodríguez, M. Àngels Cabasés Piqué, Ferran Roquer Padrosa y Josep Viñas Xifra, y de la entonces secretaria general por suplencia de la Sindicatura, Marta Junquera Bernal, actuando como ponente el síndico Josep Viñas Xifra, previa deliberación se acuerda aprobar el informe de fiscalización 34/2023, relativo al Departamento de Empresa y Trabajo, impuesto sobre las estancias en establecimientos turísticos, Fondo para el fomento del turismo, ejercicio 2021. Y para que así conste y surta los efectos que correspondan, firmo esta certificación, con el visto bueno del síndico mayor. 
+[Firma digital de 
+Marta Junquera Bernal
+]
+ 
+La secretaria general por suplencia
+ 
+Visto bueno,
+ 
+[Firma digital de Miquel Salazar Canalda]
+ 
+El síndico mayor
+ 
+ 

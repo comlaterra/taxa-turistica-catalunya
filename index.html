@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>On va la taxa turística? · Catalunya 2012–2025</title>
+<meta name="description" content="Quina part de la taxa turística catalana s'ha destinat a mitigar l'impacte del turisme i quina a promoure'l, des de 2012. Amb dades públiques i verificables.">
+<meta property="og:title" content="On va la taxa turística?">
+<meta property="og:description" content="Mitigar l'impacte del turisme o promoure'l? El que diuen — i el que amaguen — les dades públiques de la taxa turística catalana des de 2012.">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<style>
+  :root{
+    --bg:#0e0f12; --panel:#16181d; --line:#262a31;
+    --ink:#e9eaed; --muted:#9aa0aa; --faint:#6b7178;
+    --promo:#e4572e; --mitig:#3aaf6c; --neutre:#8a8f98;
+    --accent:#f5c451;
+    --serif:Georgia,'Times New Roman',serif;
+    --sans:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+    --maxw:720px;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0;background:var(--bg);color:var(--ink);
+    font-family:var(--sans);font-size:18px;line-height:1.65;
+    -webkit-font-smoothing:antialiased;
+  }
+  #progress{position:fixed;top:0;left:0;height:3px;width:0;background:var(--accent);z-index:50;transition:width .1s linear}
+  .ghbtn{position:fixed;top:14px;right:14px;z-index:60;display:inline-flex;align-items:center;gap:7px;
+    background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:7px 13px 7px 11px;
+    color:var(--ink);text-decoration:none;font-size:.82rem;font-weight:600;backdrop-filter:blur(6px)}
+  .ghbtn:hover{border-color:var(--accent)}
+  .ghbtn svg{width:18px;height:18px;fill:currentColor}
+  @media (max-width:520px){ .ghbtn span{display:none} .ghbtn{padding:8px} }
+  .contrib{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:26px 24px}
+  .contrib .btnrow{margin-top:1.1em}
+  .btn{display:inline-flex;align-items:center;gap:8px;margin:.3em 10px .3em 0;padding:11px 18px;border-radius:9px;
+    text-decoration:none;font-size:.9rem;font-weight:600}
+  .btn-primary{background:var(--accent);color:#0e0f12}
+  .btn-ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
+  .btn-ghost:hover{border-color:var(--accent)}
+  .btn svg{width:18px;height:18px;fill:currentColor}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px}
+  section{padding:9vh 0;border-bottom:1px solid transparent}
+  .scene{opacity:0;transform:translateY(22px);transition:opacity .7s ease,transform .7s ease}
+  .scene.in{opacity:1;transform:none}
+  h1{font-family:var(--serif);font-weight:700;font-size:clamp(2.1rem,7vw,3.6rem);line-height:1.05;letter-spacing:-.01em;margin:.2em 0 .35em}
+  h2{font-family:var(--serif);font-weight:700;font-size:clamp(1.5rem,4.6vw,2.2rem);line-height:1.12;margin:.2em 0 .5em}
+  h3{font-size:.82rem;text-transform:uppercase;letter-spacing:.14em;color:var(--accent);font-weight:700;margin:0 0 1.1em}
+  p{margin:0 0 1.1em}
+  .lede{font-size:1.18rem;color:var(--ink)}
+  .muted{color:var(--muted)}
+  .small{font-size:.86rem;line-height:1.5}
+  a{color:var(--ink);text-decoration:underline;text-decoration-color:var(--faint);text-underline-offset:3px}
+  a:hover{text-decoration-color:var(--accent)}
+  .kicker{font-size:.8rem;text-transform:uppercase;letter-spacing:.2em;color:var(--faint);margin-bottom:1.4em}
+  .tweet{border-left:3px solid var(--line);padding:.2em 0 .2em 1.2em;margin:1.6em 0;color:var(--muted);font-style:italic}
+  .big-stat{font-family:var(--serif);font-size:clamp(3rem,16vw,7rem);line-height:.9;font-weight:700;letter-spacing:-.02em}
+  .big-stat.promo{color:var(--promo)}
+  .big-stat.hole{color:var(--accent)}
+  .chip{display:inline-flex;align-items:center;gap:.45em;font-size:.8rem;color:var(--muted);margin:.2em .8em .2em 0}
+  .dot{width:.7em;height:.7em;border-radius:2px;display:inline-block}
+  figure{margin:1.8em 0}
+  figcaption{font-size:.8rem;color:var(--faint);margin-top:.7em}
+  .src{font-size:.74rem;color:var(--faint)}
+  .src a{color:var(--muted)}
+  .callout{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:22px 22px;margin:1.6em 0}
+  .callout.warn{border-color:#3a3320;background:#1b1810}
+  .quote{font-family:var(--serif);font-size:1.25rem;line-height:1.45;color:var(--ink);margin:.2em 0 .5em}
+  table.note{width:100%;border-collapse:collapse;font-size:.82rem;margin-top:.6em}
+  table.note td{padding:.28em 0;border-bottom:1px solid var(--line);vertical-align:top}
+  table.note td:last-child{text-align:right;white-space:nowrap;padding-left:14px;color:var(--muted)}
+  .star{color:var(--accent);font-weight:700}
+  svg{display:block;width:100%;height:auto;overflow:visible}
+  .axis{fill:var(--faint);font-size:11px;font-family:var(--sans)}
+  .barlabel{fill:var(--ink);font-size:12px;font-family:var(--sans)}
+  .barval{fill:var(--muted);font-size:12px;font-family:var(--sans)}
+  .legend{display:flex;flex-wrap:wrap;gap:2px 0;margin:.4em 0 0}
+  .toggle{display:inline-flex;gap:6px;margin:.4em 0 1em;flex-wrap:wrap}
+  .toggle button{background:var(--panel);color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:6px 13px;font:inherit;font-size:.8rem;cursor:pointer}
+  .toggle button[aria-pressed=true]{color:var(--bg);background:var(--accent);border-color:var(--accent);font-weight:600}
+  .srcline{margin-top:.5em;font-size:.76rem;line-height:1.9}
+  .srcline a{color:var(--muted);margin-right:.5em;border:1px solid var(--line);border-radius:6px;padding:3px 8px;text-decoration:none;white-space:nowrap;display:inline-block}
+  .srcline a:hover{border-color:var(--accent);color:var(--ink)}
+  .srcline a .ok{color:var(--mitig);font-weight:700}
+  .regsrc{font-size:.74rem;margin-top:.5em;display:inline-block;color:var(--muted);text-decoration:none;border-bottom:1px solid var(--line)}
+  .regsrc:hover{color:var(--ink);border-color:var(--accent)}
+  .srclist{list-style:none;padding:0;margin:.4em 0 0;font-size:.82rem}
+  .srclist li{padding:.7em 0;border-bottom:1px solid var(--line)}
+  .srclist a{color:var(--ink)}
+  .srclist .meta{color:var(--faint);display:block;margin-top:.2em;line-height:1.5}
+  .ok{color:var(--mitig);font-weight:700}
+  footer{padding:7vh 0 12vh;color:var(--muted);font-size:.86rem}
+  footer h2{color:var(--ink)}
+  .dl{display:inline-block;margin:.3em 12px .3em 0;padding:9px 15px;border:1px solid var(--line);border-radius:8px;text-decoration:none;color:var(--ink);font-size:.85rem}
+  .dl:hover{border-color:var(--accent)}
+  hr{border:0;border-top:1px solid var(--line);margin:2.4em 0}
+  code{background:#1f232a;border:1px solid var(--line);border-radius:4px;padding:1px 5px;font-size:.86em}
+  .anno{fill:var(--faint);font-size:10.5px}
+  @media (max-width:520px){ body{font-size:17px} section{padding:7vh 0} }
+</style>
+</head>
+<body>
+<div id="progress"></div>
+<a class="ghbtn" href="https://github.com/comlaterra/taxa-turistica-catalunya" target="_blank" rel="noopener noreferrer" aria-label="Veure el codi i les dades a GitHub">
+  <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+  <span>Codi i dades</span>
+</a>
+
+<main>
+  <section id="intro">
+    <div class="wrap scene in">
+      <div class="kicker">Taxa turística · Catalunya · 2012–2025</div>
+      <h1>On va la taxa turística?</h1>
+      <p class="lede">Algú ho preguntava a Twitter: quin percentatge de la recaptació de la taxa
+      turística s'ha destinat, des de 2012, a <strong>mitigar l'impacte</strong> del turisme i
+      quin a <strong>promoure'l</strong>.</p>
+      <div class="tweet">«M'encantaria que algun periodista de dades expliqués amb gràfics i
+      colorets quin % de la recaptació de la taxa turística s'ha destinat a mitigar l'impacte del
+      turisme i quin a promoure'l. Dic 2012 perquè és quan va entrar en vigor l'IEET…»</div>
+      <p class="muted">Aquí va la resposta amb dades públiques. Amb una sorpresa: la part més
+      important de la resposta és <em>que no ens deixen calcular-la</em>.</p>
+      <p class="small muted" style="margin-top:2.4em">↓ desplaça't</p>
+    </div>
+  </section>
+
+  <section id="recaptacio">
+    <div class="wrap">
+      <div class="scene"><h3>1 · El denominador</h3>
+      <h2>Primer, de quants diners parlem</h2>
+      <p>L'IEET és vigent des de l'1 de novembre de 2012. Aquesta és la recaptació real, any a
+      any, segons les xifres oficials de la Generalitat (i contrastades amb la Sindicatura de
+      Comptes). De pocs milions a gairebé <strong>95 milions l'any</strong>.</p>
+      </div>
+      <figure class="scene">
+        <div class="toggle" id="recToggle">
+          <button data-mode="ieet" aria-pressed="true">IEET (Generalitat)</button>
+          <button data-mode="both" aria-pressed="false">+ recàrrec de Barcelona</button>
+        </div>
+        <div id="chart-recaptacio"></div>
+        <figcaption>Recaptació anual en milions d'euros. <span class="muted">2012 i 2025 són anys
+        parcials.</span></figcaption>
+        <div class="src" data-src="excel_gencat,socrata_q4sr,sindicatura_34_2023">Font: Generalitat,
+        Dept. d'Empresa i Treball (Excel oficial 2012–2025); recàrrec de Barcelona via dades
+        obertes. Contrast: Sindicatura de Comptes, Informe 34/2023.</div>
+      </figure>
+    </div>
+  </section>
+
+  <section id="pregunta">
+    <div class="wrap scene">
+      <h3>2 · La pregunta</h3>
+      <h2>«…i on van, aquests diners?»</h2>
+      <p>La llei envia la recaptació a un fons amb un nom que ja és tota una declaració
+      d'intencions: el <strong>Fons per al Foment del Turisme</strong>. <em>Foment</em>, no
+      mitigació.</p>
+      <div id="regimes"></div>
+    </div>
+  </section>
+
+  <section id="forat">
+    <div class="wrap">
+      <div class="scene" style="text-align:center">
+        <h3 style="color:var(--accent)">3 · El forat negre</h3>
+        <div class="big-stat hole">50%</div>
+        <p class="lede" style="margin-top:.6em">del Fons el gestiona la Generalitat sense dir
+        públicament en què el gasta.</p>
+      </div>
+      <div class="scene callout warn">
+        <p class="quote">«Per al 50% restant del Fons… el Comitè bilateral <strong>no detalla ni
+        especifica les actuacions o finalitats concretes</strong> a què s'ha de destinar
+        l'import.»</p>
+        <p class="src">— Sindicatura de Comptes de Catalunya, <a
+        href="https://www.sindicatura.cat/documents/36414/85841/2023_34_es.pdf" target="_blank"
+        rel="noopener noreferrer">Informe 34/2023</a> (fiscalització de l'exercici 2021, p. 24–26).
+        Traducció del castellà.</p>
+      </div>
+      <div class="scene">
+        <p>Aquest és el moll de l'os. <strong>El percentatge exacte mitigació-vs-promoció a
+        escala de Catalunya no es pot calcular</strong> — no perquè no s'hagi mirat prou, sinó
+        perquè <strong>l'administració no ho publica</strong>. I aquesta opacitat ja és una
+        resposta a la pregunta del tuit.</p>
+        <p class="muted">Però sí que podem mirar dues coses que <em>sí</em> són públiques: a qui
+        van a parar els diners, i el cas de Barcelona, on el detall existeix.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="proxy">
+    <div class="wrap">
+      <div class="scene"><h3>4 · El que sí es veu (Generalitat)</h3>
+      <h2>A qui transfereix la Generalitat</h2>
+      <p>No sabem la finalitat euro a euro, però sí <strong>el destinatari</strong>. De la part
+      del Fons que gestiona la Generalitat, l'exercici 2021, gairebé tot va a dos
+      <strong>ens de promoció</strong>: l'Agència Catalana de Turisme i Circuits de
+      Catalunya.</p>
+      </div>
+      <figure class="scene">
+        <div id="chart-distribucio"></div>
+        <div class="legend" id="legend-cats"></div>
+        <figcaption>Transferències del Fons per destinatari, 2021, en milions d'euros.</figcaption>
+        <div class="src" data-src="sindicatura_34_2023">Font: Sindicatura de Comptes, Informe
+        34/2023 (obligacions reconegudes, exercici 2021).</div>
+      </figure>
+      <div class="scene callout">
+        <p style="margin:0">L'<strong>Agència Catalana de Turisme</strong> i <strong>Circuits de
+        Catalunya</strong> són, tots dos, organismes de <span style="color:var(--promo)">promoció
+        turística</span>. La despesa identificable en <span
+        style="color:var(--mitig)">mitigar</span> l'impacte, en canvi, queda dins el 50% que «no
+        es detalla».</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="barcelona">
+    <div class="wrap">
+      <div class="scene"><h3>5 · El cas Barcelona</h3>
+      <h2>Aquí la dada sí existeix</h2>
+      <p>Barcelona aplica des de 2021 un <strong>recàrrec municipal</strong> propi, que gestiona
+      al marge del Fons català i que sí es pot resseguir. La investigació d'<a
+      href="https://www.elcritic.cat/investigacio/un-consorci-dirigit-pels-hotelers-ha-rebut-39-milions-publics-de-la-taxa-turistica-195808"
+      target="_blank" rel="noopener noreferrer">El Crític</a> va desglossar <strong>92,8 M€</strong> (2012–2022).</p>
+      </div>
+      <figure class="scene">
+        <div id="chart-bcn"></div>
+        <div class="legend" id="legend-cats2"></div>
+        <figcaption>Repartiment del recàrrec de Barcelona 2012–2022, per categoria.
+        <span class="star">*</span> <span class="muted">classificació discutible.</span></figcaption>
+        <div class="src" data-src="elcritic">Font: El Crític, a partir de memòries i pressupostos
+        municipals. Classificació pròpia (vegeu metodologia).</div>
+      </figure>
+      <div class="scene">
+        <table class="note" id="bcn-table"></table>
+      </div>
+      <div class="scene callout">
+        <p style="margin:0 0 .4em"><strong>39 milions</strong> — el 43% — van anar directament a
+        <strong>Turisme de Barcelona</strong>, el consorci público-privat dirigit pels hotelers.
+        L'<a href="https://assembleabarris.wordpress.com/2024/03/20/taxa-turistica-ni-solucio-ni-gestio-nomes-promocio-i-financament-de-turisme-de-barcelona/"
+        target="_blank" rel="noopener noreferrer">Assemblea de Barris pel Decreixement
+        Turístic</a> ho va reconstruir amb una petició d'accés a la informació (difós per <a
+        href="https://www.diaripublic.cat/90-recaptacio-taxa-turistica-barcelona-els-darrers-10-anys-s-destinat-promocio-turisme.html"
+        target="_blank" rel="noopener noreferrer">Públic</a>):</p>
+        <div class="big-stat promo" style="font-size:clamp(2.4rem,12vw,5rem)">90%</div>
+        <p class="muted" style="margin:.2em 0 .8em">de la recaptació de la dècada (81 M€ de 91) a
+        finalitats de foment del turisme. Pràcticament res a revertir-ne els impactes.</p>
+        <p class="small" style="margin:0"><strong>I els 39 M€?</strong> Segons l'Assemblea,
+        Turisme de Barcelona <strong>no n'ha justificat la finalitat</strong> — ni en les dades
+        transferides ni en les seves memòries i pressupostos.</p>
+        <div class="src" data-src="assemblea_abdt,diaripublic" style="margin-top:.8em">Font:
+        anàlisi de l'Assemblea de Barris (petició d'accés a la informació), 2013–2022.</div>
+      </div>
+    </div>
+  </section>
+
+  <section id="conclusio">
+    <div class="wrap scene">
+      <h3>6 · La resposta</h3>
+      <h2>Llavors, quin percentatge?</h2>
+      <p>La resposta honesta té tres capes:</p>
+      <div class="callout">
+        <p style="margin:0 0 .8em"><span class="dot" style="background:var(--neutre)"></span>
+        <strong>A escala de Catalunya: no es pot saber.</strong> La Generalitat no publica la
+        despesa del Fons per finalitat. Que la pregunta no tingui resposta pública, en un impost
+        que ja recapta ~95 M€/any, <em>és</em> la troballa.</p>
+        <p style="margin:0 0 .8em"><span class="dot" style="background:var(--promo)"></span>
+        <strong>Pel destinatari: el gruix, a promoció.</strong> El 2021, de la part que gestiona
+        la Generalitat, gairebé tot va a l'ACT i a Circuits — ens de promoció. La mitigació no
+        apareix com a partida pròpia.</p>
+        <p style="margin:0"><span class="dot" style="background:var(--promo)"></span>
+        <strong>A Barcelona, on hi ha detall: 9 de cada 10 euros, a foment.</strong> 39 M€ al
+        consorci hoteler; la mitigació (agents cívics, bus, inspecció) és minoritària.</p>
+      </div>
+      <p>El fons es diu, literalment, «de Foment del Turisme». Les dades que <em>sí</em> existeixen
+      hi apunten en la mateixa direcció. I la dada que ho tancaria del tot… no es publica.</p>
+    </div>
+  </section>
+
+  <section id="contribueix">
+    <div class="wrap scene">
+      <h3>7 · Obert a tothom</h3>
+      <h2>Hi trobes un error? Tens una dada millor?</h2>
+      <p>Tot el codi i totes les dades són <strong>públics i de domini públic</strong> (CC0). La
+      classificació promoció / mitigació és, per força, editorial — i per això està
+      <strong>oberta a discussió</strong>. Si veus una xifra mal posada, tens una font millor o
+      vols reclassificar una partida amb arguments, pots fer-ho.</p>
+      <div class="contrib">
+        <p style="margin:0"><strong>Qualsevol persona pot contribuir.</strong> L'única regla:
+        els canvis entren per <em>Pull Request</em> (la branca <code>master</code> està
+        protegida). Tota dada nova ha de portar una font verificable.</p>
+        <div class="btnrow">
+          <a class="btn btn-primary" href="https://github.com/comlaterra/taxa-turistica-catalunya" target="_blank" rel="noopener noreferrer">
+            <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+            Repositori a GitHub
+          </a>
+          <a class="btn btn-ghost" href="https://github.com/comlaterra/taxa-turistica-catalunya/blob/master/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Com contribuir →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="wrap">
+      <h2>Metodologia i fonts</h2>
+      <p class="small">Sèrie principal de recaptació: Excel oficial de la Generalitat (Dept.
+      d'Empresa i Treball), 2012–2025, contrastada amb la Sindicatura de Comptes (Informe
+      34/2023). Recàrrec de Barcelona: portal de dades obertes. Repartiment de Barcelona: El
+      Crític i Públic / Assemblea de Barris pel Decreixement Turístic. La classificació
+      mitigació / promoció / neutre segueix una rúbrica pública; les partides discutibles van
+      marcades amb <span class="star">*</span>.</p>
+      <p class="small">Cap xifra d'aquesta pàgina surt d'enlloc que no sigui el dataset obert.
+      Pots descarregar-lo i refer els càlculs:</p>
+      <p>
+        <a class="dl" href="data/dataset.json">⬇ dataset.json</a>
+        <a class="dl" href="data/dataset.csv">⬇ dataset.csv</a>
+        <a class="dl" href="METODOLOGIA.md">📄 metodologia completa</a>
+        <a class="dl" href="data/fonts.md">🔗 totes les fonts</a>
+        <a class="dl" href="data/verificacio.md">✓ registre de verificació</a>
+      </p>
+      <hr>
+      <h3 style="margin-bottom:.8em">Fonts verificades</h3>
+      <p class="src" id="verified-note"></p>
+      <ul id="source-list" class="srclist"></ul>
+      <hr>
+      <p class="src" id="updated"></p>
+      <p class="src">Fet com a resposta a una pregunta de Twitter. Dades públiques; classificació
+      editorial i oberta a discussió.</p>
+    </div>
+  </footer>
+</main>
+
+<script id="dataset" type="application/json">{"meta":{"title":"On va la taxa turística?","subtitle":"Quina part de la taxa turística catalana s'ha destinat a mitigar l'impacte del turisme i quina a promoure'l, des de 2012.","data_updated":"2026-06-02","coverage":"IEET 2012 (2n semestre) – 2025 (1r semestre)","currency":"EUR","note_global":"L'IEET (Impost sobre les Estades en Establiments Turístics) és vigent des de l'1 de novembre de 2012 (Llei 5/2012, després Llei 5/2017). La recaptació és pública i auditada. La despesa per FINALITAT (mitigació vs promoció) a nivell Generalitat NO es publica de forma desglossada: ho confirma la pròpia Sindicatura de Comptes. Per això el % exacte no és calculable a escala catalana; només es pot reconstruir per a Barcelona, on el recàrrec municipal sí es detalla."},"sources":{"excel_gencat":{"label":"Generalitat (Empresa i Treball) — Excel IEET per municipis 2012–2025","url":"https://empresa.gencat.cat/web/.content/20_-_turisme/coneixement_i_planificacio/estadistiques/IEET/Cataluna/arxius/Informe-IEET-municipis-2012-2025.xlsx","kind":"Dada primària (Excel oficial)","http":200,"verified":"2026-06-03","backs":"Sèrie de recaptació IEET 2012–2025 (TOTAL CATALUNYA per semestre)."},"empresa_estadistiques":{"label":"Generalitat (Empresa i Treball) — Estadístiques de l'IEET","url":"https://empresa.gencat.cat/ca/treb_ambits_actuacio/turisme/professionals_turisme/emo_impost_establiments_turistics/estadistiques/","kind":"Pàgina oficial","http":200,"verified":"2026-06-03","backs":"Pàgina índex d'on penja l'Excel oficial."},"sindicatura_34_2023":{"label":"Sindicatura de Comptes — Informe 34/2023 (IEET i Fons, exercici 2021)","url":"https://www.sindicatura.cat/documents/36414/85841/2023_34_es.pdf","kind":"Dada primària (PDF auditat)","http":200,"verified":"2026-06-03","backs":"Recaptació auditada 2016–2022; despesa 2021 per destinatari (ACT 34.179.188 €; Circuits 6.230.700 €); cita sobre la no-especificació de finalitats del 50% del Fons."},"socrata_q4sr":{"label":"Dades obertes Generalitat — IEET per municipi i tipologia (Socrata q4sr-68c3)","url":"https://analisi.transparenciacatalunya.cat/Hisenda/Impost-sobre-les-Estades-en-Establiments-Tur-stics/q4sr-68c3","kind":"Dada primària (API/CSV)","http":200,"verified":"2026-06-03","backs":"Recàrrec municipal de Barcelona 2021–2025 i detall per tipologia."},"elcritic":{"label":"El Crític — «Un consorci dirigit pels hotelers ha rebut 39 milions públics de la taxa turística»","url":"https://www.elcritic.cat/investigacio/un-consorci-dirigit-pels-hotelers-ha-rebut-39-milions-publics-de-la-taxa-turistica-195808","kind":"Mitjà (investigació)","http":200,"verified":"2026-06-03","backs":"Desglossament del recàrrec de Barcelona 2012–2022 (92,8 M€; 39 M€ a Turisme de Barcelona; partides itemitzades)."},"assemblea_abdt":{"label":"Assemblea de Barris pel Decreixement Turístic — «Taxa turística: ni solució ni gestió, només promoció»","url":"https://assembleabarris.wordpress.com/2024/03/20/taxa-turistica-ni-solucio-ni-gestio-nomes-promocio-i-financament-de-turisme-de-barcelona/","kind":"Font primària (entitat; petició d'accés a la informació)","http":200,"verified":"2026-06-03","backs":"Anàlisi del recàrrec 2013–2022 a partir d'una petició d'accés a la informació a l'Ajuntament: 90% (81 M€ de 91) a foment; 42% (39 M€) a Turisme de Barcelona, finalitat no justificada."},"diaripublic":{"label":"Públic / Diari Públic — «El 90% de la taxa turística de Barcelona, a promoció»","url":"https://www.diaripublic.cat/90-recaptacio-taxa-turistica-barcelona-els-darrers-10-anys-s-destinat-promocio-turisme.html","kind":"Mitjà (recull de l'anàlisi de l'Assemblea)","http":200,"verified":"2026-06-03","backs":"Difusió periodística de l'anàlisi de l'Assemblea (90%; 45% promoció / 27% foment / 19% desenvolupament)."},"verificat":{"label":"Verificat — «On van els diners de la taxa turística de Catalunya i el recàrrec de Barcelona?»","url":"https://www.verificat.cat/on-van-els-diners-de-la-taxa-turistica-de-catalunya-i-el-recarrec-de-barcelona/","kind":"Mitjà (verificació)","http":200,"verified":"2026-06-03","backs":"Reforma de 2025: afectació del 25% a habitatge / 75% al Fons."},"bcn_surcharge":{"label":"Ajuntament de Barcelona — Recàrrec municipal sobre l'IEET","url":"https://ajuntament.barcelona.cat/turisme/en/tourism-barcelona/projects/municipal-surcharge-ieet","kind":"Pàgina oficial","http":200,"verified":"2026-06-03","backs":"Existència i calendari del recàrrec municipal de Barcelona (des de juny de 2021)."},"bcn_projects_pdf":{"label":"Ajuntament de Barcelona — Projectes finançats amb l'IEET (PDF, oct. 2025)","url":"https://ajuntament.barcelona.cat/turisme/sites/default/files/2025-10/Projectes%20IEET%20fins%20a%2020251016.pdf","kind":"Document oficial","http":200,"verified":"2026-06-03","backs":"Llista oficial de projectes finançats amb el recàrrec."},"ieet_refos":{"label":"Generalitat (Economia) — Text refós de l'IEET (Llei 5/2017 + Reglament)","url":"https://economia.gencat.cat/web/.content/70_tributs/Normativa/Refoses/IEET.pdf","kind":"Normativa","http":200,"verified":"2026-06-03","backs":"Marc legal de l'impost i del Fons."},"govern_reglament":{"label":"Govern — «El Govern aprova el Reglament del Fons per al Foment del Turisme»","url":"https://govern.cat/salapremsa/notes-premsa/196648/govern-aprova-reglament-del-fons-al-foment-del-turisme","kind":"Nota oficial","http":200,"verified":"2026-06-03","backs":"Finalitats legals del Fons per al Foment del Turisme."}},"recaptacio":{"unit":"EUR","source_ids":["excel_gencat","sindicatura_34_2023","socrata_q4sr"],"primary_source":"Generalitat de Catalunya, Departament d'Empresa i Treball — Informe IEET per municipis 2012-2025 (Excel oficial). Sèrie TOTAL CATALUNYA per semestre, agregada a anual.","audit_source":"Sindicatura de Comptes de Catalunya, Informe 34/2023 (recaptació auditada per temporada 2016-2022).","recarrec_source":"Portal de dades obertes de la Generalitat (Socrata, dataset q4sr-68c3) — columna de recàrrec municipal, arrodonida a milers. El recàrrec només l'aplica Barcelona (des de juny de 2021).","notes":["ieet = impost base recaptat per la Generalitat (sense el recàrrec municipal de Barcelona).","sind_audit = total auditat per la Sindicatura (només 2016-2022). Les petites diferències amb la sèrie de l'Excel s'expliquen per criteri de meritació vs caixa i pel calendari d'autoliquidacions.","recarrec_bcn = recàrrec municipal de Barcelona sobre l'IEET, gestionat 100% per l'Ajuntament al marge del Fons català.","2012 i 2025 són anys parcials (mig any de dades)."],"rows":[{"year":2012,"ieet":8116438.08,"sind_audit":null,"recarrec_bcn":0,"partial":"Només 2n semestre (impost vigent des de l'1 nov 2012)"},{"year":2013,"ieet":39090577.95,"sind_audit":null,"recarrec_bcn":0,"partial":null},{"year":2014,"ieet":41612356.19,"sind_audit":null,"recarrec_bcn":0,"partial":null},{"year":2015,"ieet":45114778.66,"sind_audit":null,"recarrec_bcn":0,"partial":null},{"year":2016,"ieet":48025008.17,"sind_audit":47291505,"recarrec_bcn":0,"partial":null},{"year":2017,"ieet":58884174.22,"sind_audit":53619849,"recarrec_bcn":0,"partial":null},{"year":2018,"ieet":59727817.57,"sind_audit":59062100,"recarrec_bcn":0,"partial":null},{"year":2019,"ieet":57602047.51,"sind_audit":54630860,"recarrec_bcn":0,"partial":null},{"year":2020,"ieet":10014845.55,"sind_audit":10813913,"recarrec_bcn":0,"partial":"Pandèmia de la covid-19"},{"year":2021,"ieet":39323711.04,"sind_audit":39815168,"recarrec_bcn":9849000,"partial":null},{"year":2022,"ieet":82076887.38,"sind_audit":82965604,"recarrec_bcn":47408000,"partial":null},{"year":2023,"ieet":92169611.5,"sind_audit":null,"recarrec_bcn":81069000,"partial":null},{"year":2024,"ieet":94657529.85,"sind_audit":null,"recarrec_bcn":105894000,"partial":null},{"year":2025,"ieet":65174468.2,"sind_audit":null,"recarrec_bcn":65320000,"partial":"Només 1r semestre"}]},"distribucio_generalitat_2021":{"title":"On van els diners del Fons que gestiona la Generalitat (exercici 2021)","source_id":"sindicatura_34_2023","source":"Sindicatura de Comptes de Catalunya, Informe 34/2023. Obligacions reconegudes / liquidació del Fons per al Foment del Turisme, 2021.","key_quote_es":"para el 50% restante del Fondo, además de la aprobación del importe global, el Comité bilateral no detalla ni especifica las actuaciones o finalidades concretas a las que debe destinarse el importe.","key_quote_ca":"Per al 50% restant del Fons, a més de l'aprovació de l'import global, el Comitè bilateral no detalla ni especifica les actuacions o finalitats concretes a què s'ha de destinar l'import.","structure_note":"El Fons es reparteix grosso modo en dues meitats: ~50% als ens locals on es recapta i ~50% que gestiona la Generalitat. D'aquesta meitat de la Generalitat, el gruix es transfereix a dos ens de PROMOCIÓ (l'Agència Catalana de Turisme i Circuits de Catalunya). De l'altra meitat, la finalitat concreta no es detalla.","items":[{"dest":"Agència Catalana de Turisme (ACT)","amount":34179188,"category":"promocio","note":"Ens públic de promoció turística de Catalunya."},{"dest":"Circuits de Catalunya, SL","amount":6230700,"category":"promocio","note":"Societat de promoció turística (Costa Brava / Pirineu)."},{"dest":"Empreses privades i famílies","amount":153500,"category":"neutre","note":null},{"dest":"Altres entitats participades per la Generalitat","amount":400000,"category":"neutre","note":null},{"dest":"Agència Catalana del Patrimoni Cultural","amount":10500,"category":"neutre","note":null},{"dest":"Corporacions locals (transf. corrents)","amount":35630,"category":"neutre","note":null},{"dest":"Inversions reals","amount":165137,"category":"neutre","note":null}]},"barcelona":{"title":"Barcelona: l'únic lloc on la dada existeix de veritat","intro":"El recàrrec municipal de Barcelona el gestiona íntegrament l'Ajuntament, al marge del Fons català, i sí es pot resseguir projecte a projecte. Aquí la pregunta del tuit SÍ té resposta.","itemized":{"period":"2012–2022","total":92800000,"source_id":"elcritic","source":"El Crític (investigació, a partir de memòries i pressupostos municipals).","items":[{"concept":"Turisme de Barcelona (consorci público-privat dirigit pels hotelers)","amount":39000000,"category":"promocio","debatable":false,"note":"43% del total. És l'estructura de promoció de la ciutat."},{"concept":"Agents cívics a zones de molta pressió turística","amount":10200000,"category":"mitigacio","debatable":false,"note":null},{"concept":"Reforç de la freqüència d'autobús (2017–2019)","amount":3800000,"category":"mitigacio","debatable":false,"note":null},{"concept":"Inspecció de pisos turístics il·legals","amount":2800000,"category":"mitigacio","debatable":false,"note":null},{"concept":"Biennals de pensament i de ciència","amount":800000,"category":"neutre","debatable":true,"note":"Cultura ciutadana; classificació discutible."},{"concept":"Festival Llum BCN","amount":636000,"category":"promocio","debatable":true,"note":"Esdeveniment amb component d'atracció turística."},{"concept":"Festival Grec","amount":550000,"category":"neutre","debatable":true,"note":"Festival cultural ciutadà; classificació discutible."},{"concept":"Final del World Padel Tour","amount":500000,"category":"promocio","debatable":false,"note":"Esdeveniment d'aparador internacional."},{"concept":"Barcelona Obertura (música clàssica)","amount":500000,"category":"promocio","debatable":true,"note":null},{"concept":"Royal Polo Club (hípica)","amount":225000,"category":"promocio","debatable":false,"note":null},{"concept":"Festival Sónar (2017–2018)","amount":400000,"category":"neutre","debatable":true,"note":"200.000 €/any. Cultura amb component turístic; discutible."}]},"framing_assemblea":{"period":"2013–2022","total":91000000,"source_id":"assemblea_abdt","source_secondary_id":"diaripublic","source":"Assemblea de Barris pel Decreixement Turístic (anàlisi pròpia a partir d'una petició d'accés a la informació a l'Ajuntament), difosa per Públic.","method":"Petició d'accés a la informació a l'Ajuntament de Barcelona; anàlisi dels exercicis 2013–2022.","headline":"El 90% de la recaptació (81 M€ de 91 M€) s'ha dedicat a finalitats de foment del turisme.","split":[{"label":"Promoció","pct":45},{"label":"Foment","pct":27},{"label":"Desenvolupament turístic","pct":19},{"label":"Altres","pct":9}],"no_justificat":"Segons l'Assemblea, Turisme de Barcelona no ha justificat la finalitat dels 39 M€ rebuts, ni en les dades transferides ni en les seves memòries i pressupostos.","critique":"L'Assemblea retreu que pràcticament no hi ha partides per revertir els impactes negatius del turisme."}},"regimes":{"title":"Com ha canviat el repartiment per llei","items":[{"year":"2012","norm":"Llei 5/2012","desc":"Es crea l'IEET i el Fons per al Foment del Turisme. El nom del fons ja diu la intenció: foment = promoció.","source_id":"govern_reglament"},{"year":"2017","norm":"Llei 5/2017","desc":"Nova regulació íntegra. ~50% per als ens locals on es recapta; ~50% gestionat per la Generalitat (majoritàriament cap a l'ACT, ens de promoció).","source_id":"ieet_refos"},{"year":"2021","norm":"Recàrrec de Barcelona","desc":"Barcelona aplica un recàrrec municipal propi (des de juny de 2021), que gestiona íntegrament al marge del Fons català.","source_id":"bcn_surcharge"},{"year":"2025","norm":"Decret llei (març 2025)","desc":"Reforma recent: una part de la recaptació (25%) es comença a afectar a polítiques d'habitatge; la resta (75%) continua al Fons de foment.","source_id":"verificat"}]},"rubric":{"title":"Com classifiquem cada euro","intro":"Tres categories, amb regla pública. Les partides marcades com a discutibles porten asterisc a la pàgina.","categories":[{"key":"promocio","label":"Promoció","color":"#e4572e","rule":"Captar o atraure visitants: màrqueting i campanyes, fires, viatges de familiarització, ens i consorcis de promoció (ACT, Circuits, Turisme de Barcelona) i esdeveniments-aparador per atraure turisme."},{"key":"mitigacio","label":"Mitigació","color":"#2e8b57","rule":"Reduir o gestionar l'impacte del turisme: agents cívics, reforç de transport públic, inspecció de pisos turístics, neteja i seguretat a zones saturades, habitatge i protecció de recursos sota pressió."},{"key":"neutre","label":"Neutre / mixt","color":"#8a8f98","rule":"Infraestructura genèrica, gestió administrativa i cultura ciutadana ambivalent que no encaixa clarament en cap dels dos blocs. S'inclou per no sobre-afirmar."}]}}</script>
+<script>
+(function(){
+  "use strict";
+  var DATA = JSON.parse(document.getElementById('dataset').textContent);
+  var C = {promocio:'#e4572e', mitigacio:'#3aaf6c', neutre:'#8a8f98'};
+  var CLABEL = {promocio:'Promoció', mitigacio:'Mitigació', neutre:'Neutre / mixt'};
+  var eu = new Intl.NumberFormat('ca-ES');
+  function m(n){ return (n/1e6); }
+  function fmtM(n){ return eu.format(Math.round(m(n)*10)/10); }
+  function esc(s){ return String(s).replace(/[&<>"']/g,function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
+  function el(tag,attrs,children){
+    var e=document.createElementNS('http://www.w3.org/2000/svg',tag);
+    for(var k in attrs){ e.setAttribute(k, attrs[k]); }
+    (children||[]).forEach(function(c){ e.appendChild(c); });
+    return e;
+  }
+  function txt(x,y,s,cls,extra){
+    var t=el('text',Object.assign({x:x,y:y,'class':cls||''},extra||{}));
+    t.textContent=s; return t;
+  }
+
+  /* ---------- Chart 1: recaptació (yearly columns) ---------- */
+  var recMode='ieet';
+  function drawRecaptacio(){
+    var box=document.getElementById('chart-recaptacio'); box.innerHTML='';
+    var rows=DATA.recaptacio.rows;
+    var W=720,H=360, padL=34,padR=10,padT=18,padB=46;
+    var iw=W-padL-padR, ih=H-padT-padB;
+    var max= recMode==='both'
+      ? Math.max.apply(null,rows.map(function(r){return r.ieet+r.recarrec_bcn;}))
+      : Math.max.apply(null,rows.map(function(r){return r.ieet;}));
+    max = Math.ceil(max/2e7)*2e7;
+    var n=rows.length, gap=8, bw=(iw - gap*(n-1))/n;
+    var svg=el('svg',{viewBox:'0 0 '+W+' '+H,role:'img','aria-label':'Recaptació anual de la taxa turística'});
+    // gridlines + y labels
+    for(var g=0; g<=max; g+=2e7){
+      var gy=padT+ih-(g/max)*ih;
+      svg.appendChild(el('line',{x1:padL,y1:gy,x2:W-padR,y2:gy,stroke:'#1f232a','stroke-width':1}));
+      svg.appendChild(txt(padL-6,gy+3, eu.format(g/1e6),'axis',{'text-anchor':'end'}));
+    }
+    rows.forEach(function(r,i){
+      var x=padL+i*(bw+gap);
+      var hIeet=(r.ieet/max)*ih;
+      var partial = !!r.partial;
+      // IEET bar
+      var bar=el('rect',{x:x, y:padT+ih, width:bw, height:0, rx:2,
+        fill: partial? '#3a4a6a' : '#5b7fb0', opacity: partial?0.7:1});
+      svg.appendChild(bar);
+      (function(bar,h){ requestAnimationFrame(function(){
+        bar.style.transition='y .9s cubic-bezier(.2,.7,.2,1), height .9s cubic-bezier(.2,.7,.2,1)';
+        requestAnimationFrame(function(){ bar.setAttribute('y',padT+ih-h); bar.setAttribute('height',h); });
+      }); })(bar,hIeet);
+      // recàrrec stacked
+      if(recMode==='both' && r.recarrec_bcn>0){
+        var hR=(r.recarrec_bcn/max)*ih;
+        var rb=el('rect',{x:x, y:padT+ih-hIeet, width:bw, height:0, rx:2, fill:C.promocio, opacity:.92});
+        svg.appendChild(rb);
+        (function(rb,hI,hh){ requestAnimationFrame(function(){
+          rb.style.transition='y 1s ease, height 1s ease';
+          requestAnimationFrame(function(){ rb.setAttribute('y',padT+ih-hI-hh); rb.setAttribute('height',hh); });
+        }); })(rb,hIeet,hR);
+      }
+      // x label
+      svg.appendChild(txt(x+bw/2, H-padB+16, ("'"+String(r.year).slice(2)), 'axis', {'text-anchor':'middle'}));
+      // value on top of tallest full-year bars
+      var top = recMode==='both'? (r.ieet+r.recarrec_bcn) : r.ieet;
+      if(!partial){
+        svg.appendChild(txt(x+bw/2, padT+ih-(top/max)*ih-5, fmtM(top), 'barval', {'text-anchor':'middle','font-size':'10'}));
+      }
+    });
+    // peak annotation
+    svg.appendChild(txt(padL, padT-4, 'milions €','axis'));
+    box.appendChild(svg);
+  }
+  document.getElementById('recToggle').addEventListener('click',function(e){
+    var b=e.target.closest('button'); if(!b) return;
+    recMode=b.getAttribute('data-mode');
+    Array.prototype.forEach.call(this.querySelectorAll('button'),function(x){
+      x.setAttribute('aria-pressed', x===b ? 'true':'false');
+    });
+    drawRecaptacio();
+  });
+
+  /* ---------- Regimes (timeline) ---------- */
+  (function(){
+    var host=document.getElementById('regimes'); if(!host) return;
+    DATA.regimes.items.forEach(function(it){
+      var d=document.createElement('div'); d.className='callout'; d.style.padding='14px 18px';
+      d.innerHTML='<strong>'+esc(it.year)+' · '+esc(it.norm)+'</strong><br><span class="muted small">'+esc(it.desc)+'</span>';
+      var s=DATA.sources[it.source_id];
+      if(s){
+        var a=document.createElement('a');
+        a.className='regsrc'; a.href=s.url; a.target='_blank'; a.rel='noopener noreferrer';
+        a.textContent='Font: '+s.label.split(' — ')[0];
+        d.appendChild(document.createElement('br')); d.appendChild(a);
+      }
+      host.appendChild(d);
+    });
+  })();
+
+  /* ---------- Chart 2: distribució 2021 (horizontal bars) ---------- */
+  (function(){
+    var box=document.getElementById('chart-distribucio'); if(!box) return;
+    var items=DATA.distribucio_generalitat_2021.items.slice().sort(function(a,b){return b.amount-a.amount;});
+    var W=720, rowH=44, padL=4, padR=4, top=8;
+    var H=top+items.length*rowH+6;
+    var max=Math.max.apply(null,items.map(function(i){return i.amount;}));
+    var svg=el('svg',{viewBox:'0 0 '+W+' '+H,role:'img','aria-label':'Distribució del fons 2021'});
+    var barMax=W-160;
+    items.forEach(function(it,i){
+      var y=top+i*rowH;
+      svg.appendChild(txt(0,y+12,it.dest.length>34?it.dest.slice(0,33)+'…':it.dest,'barlabel'));
+      var w=Math.max(2,(it.amount/max)*barMax);
+      var bar=el('rect',{x:0,y:y+18,width:0,height:16,rx:3,fill:C[it.category]});
+      svg.appendChild(bar);
+      (function(bar,w){ requestAnimationFrame(function(){
+        bar.style.transition='width 1s cubic-bezier(.2,.7,.2,1)';
+        requestAnimationFrame(function(){ bar.setAttribute('width',w); });
+      });})(bar,w);
+      svg.appendChild(txt(w+8,y+31, fmtM(it.amount)+' M€','barval'));
+    });
+    box.appendChild(svg);
+    legend('legend-cats',['promocio','mitigacio','neutre']);
+  })();
+
+  /* ---------- Chart 3: Barcelona stacked bar by category ---------- */
+  (function(){
+    var box=document.getElementById('chart-bcn'); if(!box) return;
+    var bcn=DATA.barcelona.itemized;
+    var totals={promocio:0,mitigacio:0,neutre:0};
+    bcn.items.forEach(function(it){ totals[it.category]+=it.amount; });
+    var itemized=totals.promocio+totals.mitigacio+totals.neutre;
+    var rest=Math.max(0, bcn.total-itemized);
+    totals.neutre+=rest; // remainder = projectes no desglossats
+    var order=['promocio','mitigacio','neutre'];
+    var W=720,H=120, padT=10, barH=54, x0=0, full=W;
+    var svg=el('svg',{viewBox:'0 0 '+W+' '+H,role:'img','aria-label':'Repartiment del recàrrec de Barcelona'});
+    var x=x0;
+    order.forEach(function(k){
+      var w=(totals[k]/bcn.total)*full;
+      var seg=el('rect',{x:x,y:padT,width:0,height:barH,fill:C[k]});
+      svg.appendChild(seg);
+      (function(seg,xx,w){ requestAnimationFrame(function(){
+        seg.style.transition='width 1.1s cubic-bezier(.2,.7,.2,1)';
+        requestAnimationFrame(function(){ seg.setAttribute('width',w); });
+      });})(seg,x,w);
+      var pct=Math.round(totals[k]/bcn.total*100);
+      if(w>54){
+        svg.appendChild(txt(x+8,padT+22,pct+'%','barlabel',{'font-weight':'700',fill:'#0e0f12'}));
+        svg.appendChild(txt(x+8,padT+40,CLABEL[k],'barlabel',{'font-size':'11',fill:'#0e0f12'}));
+      }
+      x+=w;
+    });
+    svg.appendChild(txt(0,padT+barH+22,'Total desglossat: '+fmtM(bcn.total)+' M€ (2012–2022)','barval'));
+    box.appendChild(svg);
+    legend('legend-cats2',order);
+
+    // table of items
+    var tb=document.getElementById('bcn-table');
+    bcn.items.slice().sort(function(a,b){return b.amount-a.amount;}).forEach(function(it){
+      var tr=document.createElement('tr');
+      var star=it.debatable?' <span class="star">*</span>':'';
+      tr.innerHTML='<td><span class="dot" style="background:'+C[it.category]+'"></span> '+
+        esc(it.concept)+star+'</td><td>'+fmtM(it.amount)+' M€</td>';
+      tb.appendChild(tr);
+    });
+  })();
+
+  function legend(id,keys){
+    var host=document.getElementById(id); if(!host) return;
+    keys.forEach(function(k){
+      var s=document.createElement('span'); s.className='chip';
+      s.innerHTML='<span class="dot" style="background:'+C[k]+'"></span>'+CLABEL[k];
+      host.appendChild(s);
+    });
+  }
+
+  /* ---------- per-figure verified source links ---------- */
+  (function(){
+    Array.prototype.forEach.call(document.querySelectorAll('.src[data-src]'),function(node){
+      var ids=node.getAttribute('data-src').split(',');
+      var line=document.createElement('div'); line.className='srcline';
+      ids.forEach(function(id){
+        var s=DATA.sources[id.trim()]; if(!s) return;
+        var a=document.createElement('a');
+        a.href=s.url; a.target='_blank'; a.rel='noopener noreferrer';
+        a.title=s.backs;
+        a.innerHTML=esc(s.label.split(' — ')[0])+' <span class="ok">✓</span>';
+        line.appendChild(a);
+      });
+      node.appendChild(line);
+    });
+  })();
+
+  /* ---------- footer: verified sources registry ---------- */
+  (function(){
+    var ul=document.getElementById('source-list'); if(!ul) return;
+    var ids=Object.keys(DATA.sources), allok=true;
+    ids.forEach(function(id){
+      var s=DATA.sources[id]; if(s.http!==200) allok=false;
+      var li=document.createElement('li');
+      var a=document.createElement('a');
+      a.href=s.url; a.target='_blank'; a.rel='noopener noreferrer'; a.textContent=s.label;
+      li.appendChild(a);
+      var meta=document.createElement('span'); meta.className='meta';
+      meta.innerHTML='<span class="ok">✓ HTTP '+s.http+'</span> · verificat '+esc(s.verified)+
+        ' · '+esc(s.kind)+'. Sosté: '+esc(s.backs);
+      li.appendChild(meta);
+      ul.appendChild(li);
+    });
+    document.getElementById('verified-note').innerHTML =
+      (allok?'<span class="ok">Tots els '+ids.length+' enllaços comprovats (HTTP 200)</span>':
+              ids.length+' fonts')+
+      ' el 2026-06-03. Cada enllaç obre la font original en una pestanya nova.';
+  })();
+
+  /* ---------- updated stamp ---------- */
+  document.getElementById('updated').textContent =
+    'Dades actualitzades: '+DATA.meta.data_updated+' · Cobertura: '+DATA.meta.coverage+'.';
+
+  /* ---------- force every link to open in an external tab ---------- */
+  Array.prototype.forEach.call(document.querySelectorAll('a[href]'),function(a){
+    a.setAttribute('target','_blank');
+    a.setAttribute('rel','noopener noreferrer');
+  });
+
+  /* ---------- scroll reveal + progress ---------- */
+  var scenes=document.querySelectorAll('.scene');
+  if('IntersectionObserver' in window){
+    var io=new IntersectionObserver(function(es){
+      es.forEach(function(en){ if(en.isIntersecting){ en.target.classList.add('in'); io.unobserve(en.target);} });
+    },{threshold:.18});
+    scenes.forEach(function(s){ io.observe(s); });
+  } else { scenes.forEach(function(s){ s.classList.add('in'); }); }
+
+  var prog=document.getElementById('progress');
+  window.addEventListener('scroll',function(){
+    var h=document.documentElement;
+    var p=h.scrollTop/(h.scrollHeight-h.clientHeight);
+    prog.style.width=(p*100)+'%';
+  },{passive:true});
+
+  drawRecaptacio();
+})();
+</script>
+</body>
+</html>

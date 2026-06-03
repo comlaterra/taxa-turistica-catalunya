@@ -1,0 +1,45 @@
+block,year_or_period,concept,category,amount_eur,source
+recaptacio,2012,IEET (Generalitat),,8116438.08,Excel oficial Empresa i Treball
+recaptacio,2013,IEET (Generalitat),,39090577.95,Excel oficial Empresa i Treball
+recaptacio,2014,IEET (Generalitat),,41612356.19,Excel oficial Empresa i Treball
+recaptacio,2015,IEET (Generalitat),,45114778.66,Excel oficial Empresa i Treball
+recaptacio,2016,IEET (Generalitat),,48025008.17,Excel oficial Empresa i Treball
+recaptacio_auditada,2016,IEET auditat,,47291505,Sindicatura 34/2023
+recaptacio,2017,IEET (Generalitat),,58884174.22,Excel oficial Empresa i Treball
+recaptacio_auditada,2017,IEET auditat,,53619849,Sindicatura 34/2023
+recaptacio,2018,IEET (Generalitat),,59727817.57,Excel oficial Empresa i Treball
+recaptacio_auditada,2018,IEET auditat,,59062100,Sindicatura 34/2023
+recaptacio,2019,IEET (Generalitat),,57602047.51,Excel oficial Empresa i Treball
+recaptacio_auditada,2019,IEET auditat,,54630860,Sindicatura 34/2023
+recaptacio,2020,IEET (Generalitat),,10014845.55,Excel oficial Empresa i Treball
+recaptacio_auditada,2020,IEET auditat,,10813913,Sindicatura 34/2023
+recaptacio,2021,IEET (Generalitat),,39323711.04,Excel oficial Empresa i Treball
+recaptacio_auditada,2021,IEET auditat,,39815168,Sindicatura 34/2023
+recarrec_barcelona,2021,Recàrrec municipal BCN,,9849000,Dades obertes (Socrata)
+recaptacio,2022,IEET (Generalitat),,82076887.38,Excel oficial Empresa i Treball
+recaptacio_auditada,2022,IEET auditat,,82965604,Sindicatura 34/2023
+recarrec_barcelona,2022,Recàrrec municipal BCN,,47408000,Dades obertes (Socrata)
+recaptacio,2023,IEET (Generalitat),,92169611.50,Excel oficial Empresa i Treball
+recarrec_barcelona,2023,Recàrrec municipal BCN,,81069000,Dades obertes (Socrata)
+recaptacio,2024,IEET (Generalitat),,94657529.85,Excel oficial Empresa i Treball
+recarrec_barcelona,2024,Recàrrec municipal BCN,,105894000,Dades obertes (Socrata)
+recaptacio,2025,IEET (Generalitat),,65174468.20,Excel oficial Empresa i Treball
+recarrec_barcelona,2025,Recàrrec municipal BCN,,65320000,Dades obertes (Socrata)
+distribucio_generalitat,2021,Agència Catalana de Turisme (ACT),promocio,34179188,Sindicatura 34/2023
+distribucio_generalitat,2021,"Circuits de Catalunya, SL",promocio,6230700,Sindicatura 34/2023
+distribucio_generalitat,2021,Empreses privades i famílies,neutre,153500,Sindicatura 34/2023
+distribucio_generalitat,2021,Altres entitats participades per la Generalitat,neutre,400000,Sindicatura 34/2023
+distribucio_generalitat,2021,Agència Catalana del Patrimoni Cultural,neutre,10500,Sindicatura 34/2023
+distribucio_generalitat,2021,Corporacions locals (transf. corrents),neutre,35630,Sindicatura 34/2023
+distribucio_generalitat,2021,Inversions reals,neutre,165137,Sindicatura 34/2023
+barcelona_recarrec,2012–2022,Turisme de Barcelona (consorci público-privat dirigit pels hotelers),promocio,39000000,"El Crític (investigació, a partir de memòries i pressupostos municipals)."
+barcelona_recarrec,2012–2022,Agents cívics a zones de molta pressió turística,mitigacio,10200000,"El Crític (investigació, a partir de memòries i pressupostos municipals)."
+barcelona_recarrec,2012–2022,Reforç de la freqüència d'autobús (2017–2019),mitigacio,3800000,"El Crític (investigació, a partir de memòries i pressupostos municipals)."
+barcelona_recarrec,2012–2022,Inspecció de pisos turístics il·legals,mitigacio,2800000,"El Crític (investigació, a partir de memòries i pressupostos municipals)."
+barcelona_recarrec,2012–2022,Biennals de pensament i de ciència,neutre,800000,"El Crític (investigació, a partir de memòries i pressupostos municipals)."
+barcelona_recarrec,2012–2022,Festival Llum BCN,promocio,636000,"El Crític (investigació, a partir de memòries i pressupostos municipals)."
+barcelona_recarrec,2012–2022,Festival Grec,neutre,550000,"El Crític (investigació, a partir de memòries i pressupostos municipals)."
+barcelona_recarrec,2012–2022,Final del World Padel Tour,promocio,500000,"El Crític (investigació, a partir de memòries i pressupostos municipals)."
+barcelona_recarrec,2012–2022,Barcelona Obertura (música clàssica),promocio,500000,"El Crític (investigació, a partir de memòries i pressupostos municipals)."
+barcelona_recarrec,2012–2022,Royal Polo Club (hípica),promocio,225000,"El Crític (investigació, a partir de memòries i pressupostos municipals)."
+barcelona_recarrec,2012–2022,Festival Sónar (2017–2018),neutre,400000,"El Crític (investigació, a partir de memòries i pressupostos municipals)."
