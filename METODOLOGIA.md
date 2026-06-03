@@ -92,6 +92,33 @@ despesa no es fa pública.** Per això:
 - **Sí** reconstruïm el desglossament real **a Barcelona**, on el recàrrec municipal sí es
   detalla.
 
+## 5 bis. Barcelona: reconstrucció des de la font primària (OCR)
+
+El desglossament de Barcelona ja no depèn només de mitjans: l'hem reconstruït des del **document
+oficial de projectes finançats amb l'IEET de l'Ajuntament de Barcelona** (PDF, octubre de 2025),
+que conté **582 partides** amb el seu import.
+
+Aquest PDF és **vectoritzat** (el text no es pot copiar). Per extreure'l:
+
+1. **OCR amb el motor Vision de macOS** (`tools/ocr_pdf.swift`), conservant les coordenades de cada
+   fragment per reconstruir la taula projecte → import.
+2. **Dues passades** d'OCR (amb i sense correcció lingüística) i **reconciliació**
+   (`tools/reconcile_amounts.py`, `tools/resolve_final.py`): on les dues passades coincideixen
+   (500 de 583 cel·les) la xifra és d'alta confiança; on discrepen, es prefereix el format europeu
+   canònic (`X.XXX,YY`).
+3. **Verificació visual manual** de les 17 cel·les que cap passada resolia netament, renderitzant
+   la pàgina i llegint-ne la columna d'imports (per exemple, "Senyalització Park Güell" eren
+   50.440 €, no 500 milions com llegia malament l'OCR).
+
+Resultat: **162,2 M€ en 582 projectes (2014–2025)**, classificats amb la rúbrica → **58,9%
+promoció, 10,4% mitigació, 30,7% neutre**. Coincideix amb les reconstruccions independents d'El
+Crític (39 M€ al consorci hoteler) i de l'Assemblea de Barris (90% a foment). La llista completa,
+amb import i categoria per projecte, és a `data/bcn_projectes_oficial.json`; les eines d'extracció,
+a `tools/`.
+
+> Limitació: l'OCR pot tenir errors residuals en partides petites; les xifres grans estan totes
+> verificades visualment. La classificació per projecte és editorial i oberta a correcció.
+
 ## 6. Reproductibilitat
 
 Totes les xifres viuen a [`data/dataset.json`](data/dataset.json), amb la font indicada a cada

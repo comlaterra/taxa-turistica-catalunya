@@ -18,7 +18,7 @@
     "diaripublic": { "label": "Públic / Diari Públic — «El 90% de la taxa turística de Barcelona, a promoció»", "url": "https://www.diaripublic.cat/90-recaptacio-taxa-turistica-barcelona-els-darrers-10-anys-s-destinat-promocio-turisme.html", "kind": "Mitjà (recull de l'anàlisi de l'Assemblea)", "http": 200, "verified": "2026-06-03", "backs": "Difusió periodística de l'anàlisi de l'Assemblea (90%; 45% promoció / 27% foment / 19% desenvolupament)." },
     "verificat": { "label": "Verificat — «On van els diners de la taxa turística de Catalunya i el recàrrec de Barcelona?»", "url": "https://www.verificat.cat/on-van-els-diners-de-la-taxa-turistica-de-catalunya-i-el-recarrec-de-barcelona/", "kind": "Mitjà (verificació)", "http": 200, "verified": "2026-06-03", "backs": "Reforma de 2025: afectació del 25% a habitatge / 75% al Fons." },
     "bcn_surcharge": { "label": "Ajuntament de Barcelona — Recàrrec municipal sobre l'IEET", "url": "https://ajuntament.barcelona.cat/turisme/en/tourism-barcelona/projects/municipal-surcharge-ieet", "kind": "Pàgina oficial", "http": 200, "verified": "2026-06-03", "backs": "Existència i calendari del recàrrec municipal de Barcelona (des de juny de 2021)." },
-    "bcn_projects_pdf": { "label": "Ajuntament de Barcelona — Projectes finançats amb l'IEET (PDF, oct. 2025)", "url": "https://ajuntament.barcelona.cat/turisme/sites/default/files/2025-10/Projectes%20IEET%20fins%20a%2020251016.pdf", "kind": "Document oficial", "http": 200, "verified": "2026-06-03", "backs": "Llista oficial de projectes finançats amb el recàrrec." },
+    "bcn_projects_pdf": { "label": "Ajuntament de Barcelona — Projectes finançats amb l'IEET (PDF oficial, oct. 2025)", "url": "https://ajuntament.barcelona.cat/turisme/sites/default/files/2025-10/Projectes%20IEET%20fins%20a%2020251016.pdf", "kind": "Dada primària (document oficial, OCR)", "http": 200, "verified": "2026-06-04", "backs": "Llista oficial de 582 projectes finançats amb l'IEET (2014–2025), amb import per projecte. Base del desglossament primari de Barcelona: 58,9% promoció / 10,4% mitigació / 30,7% neutre (162,2 M€)." },
     "ieet_refos": { "label": "Generalitat (Economia) — Text refós de l'IEET (Llei 5/2017 + Reglament)", "url": "https://economia.gencat.cat/web/.content/70_tributs/Normativa/Refoses/IEET.pdf", "kind": "Normativa", "http": 200, "verified": "2026-06-03", "backs": "Marc legal de l'impost i del Fons." },
     "govern_reglament": { "label": "Govern — «El Govern aprova el Reglament del Fons per al Foment del Turisme»", "url": "https://govern.cat/salapremsa/notes-premsa/196648/govern-aprova-reglament-del-fons-al-foment-del-turisme", "kind": "Nota oficial", "http": 200, "verified": "2026-06-03", "backs": "Finalitats legals del Fons per al Foment del Turisme." },
     "ivalua_ieet": { "label": "Ivàlua — Avaluació de l'Impost sobre les estades en establiments turístics (2024)", "url": "https://ivalua.cat/ca/node/5822", "kind": "Informe oficial d'avaluació", "http": 200, "verified": "2026-06-04", "backs": "L'institut oficial d'avaluació de polítiques públiques analitza l'IEET (2012–2019) i NO desglossa la despesa per finalitat; recomana explícitament avaluar l'ús dels recursos — documentant el buit d'informació." },
@@ -79,6 +79,30 @@
   "barcelona": {
     "title": "Barcelona: l'únic lloc on la dada existeix de veritat",
     "intro": "El recàrrec municipal de Barcelona el gestiona íntegrament l'Ajuntament, al marge del Fons català, i sí es pot resseguir projecte a projecte. Aquí la pregunta del tuit SÍ té resposta.",
+    "oficial": {
+      "period": "2014–2025",
+      "total": 162222821.80,
+      "n_projects": 582,
+      "source_id": "bcn_projects_pdf",
+      "method": "Reconstruït del document oficial de projectes finançats amb l'IEET de l'Ajuntament de Barcelona (582 partides). El PDF és vectoritzat: el text s'ha extret per OCR (motor Vision de macOS) amb dues passades reconciliades i verificació visual manual de totes les xifres discrepants. Classificació promoció/mitigació/neutre segons la rúbrica pública. La llista completa és a data/bcn_projectes_oficial.json.",
+      "categories": [
+        { "key": "promocio", "n": 142, "amount": 95594549.12, "pct": 58.9 },
+        { "key": "mitigacio", "n": 33, "amount": 16905341.86, "pct": 10.4 },
+        { "key": "neutre", "n": 407, "amount": 49722930.82, "pct": 30.7 }
+      ],
+      "top": [
+        { "name": "Promoció del Turisme Blau", "amount": 4932500.00, "cat": "promocio" },
+        { "name": "Accions de Promoció Turística", "amount": 3899679.92, "cat": "promocio" },
+        { "name": "Activitats de promoció turística (Consorci Turisme de Barcelona)", "amount": 3660000.00, "cat": "promocio" },
+        { "name": "Accions de promoció de la Destinació Barcelona (Consorci Turisme de Barcelona)", "amount": 3120000.00, "cat": "promocio" },
+        { "name": "Fira Internacional del Llibre de Guadalajara (Barcelona, convidada d'honor)", "amount": 3000000.00, "cat": "promocio" },
+        { "name": "Accions de Promoció Turística", "amount": 3000000.00, "cat": "promocio" },
+        { "name": "Gran Départ Tour de França 2026", "amount": 2700000.00, "cat": "promocio" },
+        { "name": "Servei d'Agents Cívics a espais de gran afluència", "amount": 2676644.00, "cat": "mitigacio" },
+        { "name": "Servei d'Agents Cívics (2018)", "amount": 2500000.00, "cat": "mitigacio" },
+        { "name": "Copa Amèrica (37a edició, 2024 Barcelona)", "amount": 2420000.00, "cat": "promocio" }
+      ]
+    },
     "itemized": {
       "period": "2012–2022",
       "total": 92800000,

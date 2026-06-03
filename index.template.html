@@ -229,28 +229,30 @@
     <div class="wrap">
       <div class="scene"><h3>5 · El cas Barcelona</h3>
       <h2>Aquí la dada sí existeix</h2>
-      <p>Barcelona aplica des de 2021 un <strong>recàrrec municipal</strong> propi, que gestiona
-      al marge del Fons català i que sí es pot resseguir. La investigació d'<a
-      href="https://www.elcritic.cat/investigacio/un-consorci-dirigit-pels-hotelers-ha-rebut-39-milions-publics-de-la-taxa-turistica-195808"
-      target="_blank" rel="noopener noreferrer">El Crític</a> va desglossar <strong>92,8 M€</strong> (2012–2022).</p>
+      <p>A Barcelona, l'Ajuntament publica la <strong>llista oficial de projectes</strong>
+      finançats amb l'impost. L'hem agafada sencera — <strong>582 partides, 162,2 M€</strong>
+      (2014–2025) — i hem classificat cada euro. El resultat parla sol.</p>
       </div>
       <figure class="scene">
         <div id="chart-bcn"></div>
         <div class="legend" id="legend-cats2"></div>
-        <figcaption>Repartiment del recàrrec de Barcelona 2012–2022, per categoria.
-        <span class="star">*</span> <span class="muted">classificació discutible.</span></figcaption>
-        <div class="src" data-src="elcritic">Font: El Crític, a partir de memòries i pressupostos
-        municipals. Classificació pròpia (vegeu metodologia).</div>
+        <figcaption>Repartiment dels 582 projectes oficials de Barcelona (2014–2025), per
+        categoria. <span class="muted">Classificació pròpia segons la rúbrica pública.</span></figcaption>
+        <div class="src" data-src="bcn_projects_pdf">Font: document oficial de projectes IEET de
+        l'Ajuntament de Barcelona, extret per OCR i verificat. Llista completa descarregable.</div>
       </figure>
       <div class="scene">
         <table class="note" id="bcn-table"></table>
       </div>
       <div class="scene callout">
-        <p style="margin:0 0 .4em"><strong>39 milions</strong> — el 43% — van anar directament a
-        <strong>Turisme de Barcelona</strong>, el consorci público-privat dirigit pels hotelers.
-        L'<a href="https://assembleabarris.wordpress.com/2024/03/20/taxa-turistica-ni-solucio-ni-gestio-nomes-promocio-i-financament-de-turisme-de-barcelona/"
+        <p style="margin:0 0 .6em"><strong>I no és només la nostra lectura.</strong> Dues
+        reconstruccions independents arriben al mateix lloc. <strong>39 milions</strong> —
+        el 43% — van anar directament a <strong>Turisme de Barcelona</strong>, el consorci
+        público-privat dirigit pels hotelers (investigació d'<a
+        href="https://www.elcritic.cat/investigacio/un-consorci-dirigit-pels-hotelers-ha-rebut-39-milions-publics-de-la-taxa-turistica-195808"
+        target="_blank" rel="noopener noreferrer">El Crític</a>). I l'<a href="https://assembleabarris.wordpress.com/2024/03/20/taxa-turistica-ni-solucio-ni-gestio-nomes-promocio-i-financament-de-turisme-de-barcelona/"
         target="_blank" rel="noopener noreferrer">Assemblea de Barris pel Decreixement
-        Turístic</a> ho va reconstruir amb una petició d'accés a la informació (difós per <a
+        Turístic</a>, amb una petició d'accés a la informació (difós per <a
         href="https://www.diaripublic.cat/90-recaptacio-taxa-turistica-barcelona-els-darrers-10-anys-s-destinat-promocio-turisme.html"
         target="_blank" rel="noopener noreferrer">Públic</a>):</p>
         <div class="big-stat promo" style="font-size:clamp(2.4rem,12vw,5rem)">90%</div>
@@ -280,8 +282,9 @@
         la Generalitat, gairebé tot va a l'ACT i a Circuits — ens de promoció. La mitigació no
         apareix com a partida pròpia.</p>
         <p style="margin:0"><span class="dot" style="background:var(--promo)"></span>
-        <strong>A Barcelona, on hi ha detall: 9 de cada 10 euros, a foment.</strong> 39 M€ al
-        consorci hoteler; la mitigació (agents cívics, bus, inspecció) és minoritària.</p>
+        <strong>A Barcelona, on hi ha la llista oficial: 59% a promoció, 10% a mitigació.</strong>
+        Dels 582 projectes (162,2 M€), el gruix va a promoure el turisme; mitigar-ne l'impacte
+        (agents cívics, bus, inspecció) és minoritari.</p>
       </div>
       <p>El fons es diu, literalment, «de Foment del Turisme». Les dades que <em>sí</em> existeixen
       hi apunten en la mateixa direcció. I la dada que ho tancaria del tot… no es publica.</p>
@@ -334,6 +337,7 @@
       <p>
         <a class="dl" href="data/dataset.json">⬇ dataset.json</a>
         <a class="dl" href="data/dataset.csv">⬇ dataset.csv</a>
+        <a class="dl" href="data/bcn_projectes_oficial.json">⬇ 582 projectes BCN (oficial)</a>
         <a class="dl" href="METODOLOGIA.md">📄 metodologia completa</a>
         <a class="dl" href="data/fonts.md">🔗 totes les fonts</a>
         <a class="dl" href="data/verificacio.md">✓ registre de verificació</a>
@@ -482,45 +486,39 @@
     legend('legend-cats',['promocio','mitigacio','neutre']);
   })();
 
-  /* ---------- Chart 3: Barcelona stacked bar by category ---------- */
+  /* ---------- Chart 3: Barcelona stacked bar by category (dada oficial) ---------- */
   (function(){
     var box=document.getElementById('chart-bcn'); if(!box) return;
-    var bcn=DATA.barcelona.itemized;
-    var totals={promocio:0,mitigacio:0,neutre:0};
-    bcn.items.forEach(function(it){ totals[it.category]+=it.amount; });
-    var itemized=totals.promocio+totals.mitigacio+totals.neutre;
-    var rest=Math.max(0, bcn.total-itemized);
-    totals.neutre+=rest; // remainder = projectes no desglossats
+    var bcn=DATA.barcelona.oficial;
+    var catMap={}; bcn.categories.forEach(function(c){ catMap[c.key]=c; });
     var order=['promocio','mitigacio','neutre'];
-    var W=720,H=120, padT=10, barH=54, x0=0, full=W;
-    var svg=el('svg',{viewBox:'0 0 '+W+' '+H,role:'img','aria-label':'Repartiment del recàrrec de Barcelona'});
-    var x=x0;
+    var W=720,H=120, padT=10, barH=54, full=W;
+    var svg=el('svg',{viewBox:'0 0 '+W+' '+H,role:'img','aria-label':'Repartiment dels projectes oficials de Barcelona'});
+    var x=0;
     order.forEach(function(k){
-      var w=(totals[k]/bcn.total)*full;
+      var c=catMap[k]; var w=(c.amount/bcn.total)*full;
       var seg=el('rect',{x:x,y:padT,width:0,height:barH,fill:C[k]});
       svg.appendChild(seg);
-      (function(seg,xx,w){ requestAnimationFrame(function(){
+      (function(seg,w){ requestAnimationFrame(function(){
         seg.style.transition='width 1.1s cubic-bezier(.2,.7,.2,1)';
         requestAnimationFrame(function(){ seg.setAttribute('width',w); });
-      });})(seg,x,w);
-      var pct=Math.round(totals[k]/bcn.total*100);
-      if(w>54){
-        svg.appendChild(txt(x+8,padT+22,pct+'%','barlabel',{'font-weight':'700',fill:'#0e0f12'}));
+      });})(seg,w);
+      if(w>46){
+        svg.appendChild(txt(x+8,padT+22,c.pct+'%','barlabel',{'font-weight':'700',fill:'#0e0f12'}));
         svg.appendChild(txt(x+8,padT+40,CLABEL[k],'barlabel',{'font-size':'11',fill:'#0e0f12'}));
       }
       x+=w;
     });
-    svg.appendChild(txt(0,padT+barH+22,'Total desglossat: '+fmtM(bcn.total)+' M€ (2012–2022)','barval'));
+    svg.appendChild(txt(0,padT+barH+22,bcn.n_projects+' projectes oficials · '+fmtM(bcn.total)+' M€ ('+bcn.period+')','barval'));
     box.appendChild(svg);
     legend('legend-cats2',order);
 
-    // table of items
+    // table: top projectes oficials
     var tb=document.getElementById('bcn-table');
-    bcn.items.slice().sort(function(a,b){return b.amount-a.amount;}).forEach(function(it){
+    bcn.top.forEach(function(it){
       var tr=document.createElement('tr');
-      var star=it.debatable?' <span class="star">*</span>':'';
-      tr.innerHTML='<td><span class="dot" style="background:'+C[it.category]+'"></span> '+
-        esc(it.concept)+star+'</td><td>'+fmtM(it.amount)+' M€</td>';
+      tr.innerHTML='<td><span class="dot" style="background:'+C[it.cat]+'"></span> '+
+        esc(it.name)+'</td><td>'+eu.format(Math.round(it.amount/1000))+' k€</td>';
       tb.appendChild(tr);
     });
   })();
