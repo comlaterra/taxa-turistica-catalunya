@@ -1,0 +1,16 @@
+name: "❓ Pregunta o comentari"
+description: "Qualsevol dubte sobre les dades, la metodologia o el projecte."
+title: "[Pregunta] "
+labels: ["pregunta"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Pregunta el que vulguis. No cal cap coneixement tècnic.
+  - type: textarea
+    id: pregunta
+    attributes:
+      label: La teva pregunta o comentari
+      placeholder: "Ex.: com classifiqueu els esdeveniments esportius?"
+    validations:
+      required: true
