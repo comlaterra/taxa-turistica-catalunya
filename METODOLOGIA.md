@@ -124,3 +124,20 @@ a `tools/`.
 Totes les xifres viuen a [`data/dataset.json`](data/dataset.json), amb la font indicada a cada
 bloc, i s'exporten també a [`data/dataset.csv`](data/dataset.csv). La pàgina (`index.html`)
 incrusta aquestes mateixes dades; no hi ha cap xifra a la pàgina que no surti del dataset.
+
+## 7. Els codis oficials A–E (objectiu finalista)
+
+El document de l'Ajuntament etiqueta cada projecte amb un codi **A–E** a la columna «Objectiu
+finalista (Generalitat)». Segons la nostra lectura, corresponen a les **cinc finalitats legals del
+Fons** que fixa l'**article 49.1** del text refós de l'IEET:
+
+- **a)** protecció, preservació i millora dels **recursos turístics**;
+- **b)** foment i millora de **productes turístics** (desestacionalització, mobilitat de baixes
+  emissions, accés universal…);
+- **c)** **promoció** d'un turisme sostenible;
+- **d)** millora del **control i inspecció** dels establiments;
+- **e)** desenvolupament d'**infraestructures** i intel·ligència turística.
+
+De les cinc, **només la d) (inspecció) serveix clarament per gestionar l'impacte**. Vam poder llegir
+el codi per OCR només en el 38% dels imports; en aquesta mostra dominen E (infraestructures) i A
+(recursos), i la d) és minoritària — coherent amb el conjunt.
