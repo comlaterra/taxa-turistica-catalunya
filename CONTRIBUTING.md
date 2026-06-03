@@ -3,7 +3,21 @@
 Aquest projecte és **obert a tothom**. No cal demanar permís ni formar part de cap equip: si
 veus un error, tens una dada millor o vols afinar una classificació, endavant.
 
-L'única regla de procés és aquesta:
+Hi ha **dues maneres** de col·laborar:
+
+## A · Demanar o avisar, sense tocar codi
+
+No cal saber programar. Si tens una idea, vols una funcionalitat o has vist una dada que no
+quadra, **obre un _Issue_**:
+
+👉 https://github.com/comlaterra/taxa-turistica-catalunya/issues/new/choose
+
+Hi trobaràs formularis senzills en català (suggeriment, error en una dada, pregunta). Omple'ls amb
+les teves paraules i ja ens n'encarreguem nosaltres.
+
+## B · Fer el canvi tu mateix/a
+
+Si vols editar dades, classificacions o codi, l'única regla de procés és aquesta:
 
 > **Tots els canvis entren per _Pull Request_ (PR).** La branca `master` està protegida i no
 > accepta canvis directes. Qualsevol persona pot obrir un PR.

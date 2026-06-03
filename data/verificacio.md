@@ -21,6 +21,11 @@ navegador; es registra el codi de la resposta final. Totes les fonts són públi
 | ✅ 200 | [Ajuntament de Barcelona — nota de premsa juny 2025](https://ajuntament.barcelona.cat/premsa/2025/06/08/lajuntament-aprova-un-nou-paquet-d1164me-de-limpost-turistic-per-a-27-projectes-diferents/) | 11,64 M€ / 27 projectes |
 | ✅ 200 | [Text refós de l'IEET (Economia)](https://economia.gencat.cat/web/.content/70_tributs/Normativa/Refoses/IEET.pdf) | Marc legal de l'impost i del Fons |
 | ✅ 200 | [Govern — Reglament del Fons](https://govern.cat/salapremsa/notes-premsa/196648/govern-aprova-reglament-del-fons-al-foment-del-turisme) | Finalitats legals del Fons |
+| ✅ 200 | [Ivàlua — Avaluació de l'IEET (2024)](https://ivalua.cat/ca/node/5822) | L'institut públic d'avaluació recomana avaluar l'ús dels recursos: documenta el buit d'informació sobre la despesa per finalitat |
+| ✅ 200 | [Sindicatura — Informe 5/2023 (Consorci Turisme de Barcelona, 2018)](https://www.sindicatura.cat/documents/36414/85841/2023_05_ca.pdf) | 5.986.563 € via Fons des de l'IEET; tota l'activitat del Consorci és promoció |
+| ✅ 200 | [Parlament — Memòria pressupostària, programa 651](https://www.parlament.cat/document/antecedents/407465199.pdf) | El pressupost turístic (217,2 M€, 2024) només es desglossa per capítol econòmic, no per finalitat |
+| ✅ 200 | [3Cat — A què es destina la taxa turística](https://www.3cat.cat/3catinfo/a-que-es-destina-la-taxa-turistica-i-quant-es-recapta-els-ingressos-municipi-a-municipi/noticia/3395331/) | El recàrrec barreja mitigació i promoció sense destí fixat per llei; recaptació municipi a municipi |
+| ✅ 200 | [ABDT — Comunicat: desmantellament de Turisme de Barcelona (des. 2025)](https://assembleabarris.wordpress.com/2025/12/22/comunicat-labdt-reclama-el-desmantellament-de-turisme-de-barcelona/) | Posició actual de l'entitat |
 
 > Nota: `publico.es/public/...` redirigeix (301) a la URL canònica `diaripublic.cat`; per evitar
 > el salt, citem directament la destinació final.
@@ -45,3 +50,23 @@ de resums:
   secundària, atribuïda explícitament i marcada com a tal).
 
 Els documents primaris descarregats es conserven a `data/` per a comprovació independent.
+
+## Afirmacions descartades (no incloses)
+
+La verificació adversarial va **refutar** aquestes afirmacions circulants; per això NO apareixen a
+la pàgina:
+
+- «Tota la recaptació de l'IEET està afectada (art. 24) i reverteix íntegrament al sector
+  turístic» — refutada.
+- «L'ACT té 68,5 M€ dins el programa 651 (2024)» — no confirmada.
+- «PIMEC: 371 M€ (2013–2020) íntegrament afectats a promoció» — refutada.
+- «Dins el 75% del Fons, cada municipi en conserva la meitat i la Generalitat l'altra meitat» —
+  feblement refutada; per això descrivim el repartiment amb la formulació literal de la
+  Sindicatura («el 50% restant del Fons») i prou.
+
+## Nota sobre el recàrrec de Barcelona vs l'IEET autonòmic
+
+Són **dos fluxos diferents** que sovint es barregen: l'IEET autonòmic (que nodreix el Fons) i el
+recàrrec municipal de Barcelona (gestionat per l'Ajuntament des de 2021). A la pàgina es mostren
+separats. Les dades 90% / 87% de l'Assemblea cobreixen 2013–2022 i precedeixen les reformes de
+2024+ (reorientació del Fons cap a sostenibilitat; 25% a habitatge des de 2025).

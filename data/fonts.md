@@ -39,6 +39,21 @@ Totes les fonts són públiques. Data de consulta: 2026-06-02.
   Còpia local: `data/BCN_Projectes_IEET_20251016.pdf`
   Nota premsa juny 2025 (11,64 M€ / 27 projectes): https://ajuntament.barcelona.cat/premsa/2025/06/08/lajuntament-aprova-un-nou-paquet-d1164me-de-limpost-turistic-per-a-27-projectes-diferents/
 
+## Fonts addicionals (recerca ampliada)
+- **Ivàlua** — Avaluació de l'Impost sobre les estades en establiments turístics (2024). Recomana avaluar l'ús dels recursos.
+  https://ivalua.cat/ca/node/5822
+  Informe (PDF): https://ivalua.cat/sites/default/files/2024-02/Informe%20final_Impost%20estades%20establiments%20turistics.pdf
+- **Sindicatura de Comptes** — Informe 5/2023, Consorci Turisme de Barcelona, exercici 2018 (PDF)
+  https://www.sindicatura.cat/documents/36414/85841/2023_05_ca.pdf
+- **Parlament de Catalunya** — Memòria de pressupostos, programa 651 (foment i promoció del turisme)
+  https://www.parlament.cat/document/antecedents/407465199.pdf
+- **3Cat** — «A què es destina la taxa turística i quant es recapta (municipi a municipi)»
+  https://www.3cat.cat/3catinfo/a-que-es-destina-la-taxa-turistica-i-quant-es-recapta-els-ingressos-municipi-a-municipi/noticia/3395331/
+- **Assemblea de Barris pel Decreixement Turístic** — Comunicat: reclama el desmantellament de Turisme de Barcelona (des. 2025)
+  https://assembleabarris.wordpress.com/2025/12/22/comunicat-labdt-reclama-el-desmantellament-de-turisme-de-barcelona/
+- **El Crític** — «Quants diners de la taxa turística s'ha emportat la Copa Amèrica»
+  https://www.elcritic.cat/noticies/quants-diners-de-la-taxa-turistica-sha-emportat-la-copa-america-240008
+
 ## Marc normatiu
 - **Text refós de l'IEET** (Llei 5/2017 + Reglament) — economia.gencat
   https://economia.gencat.cat/web/.content/70_tributs/Normativa/Refoses/IEET.pdf

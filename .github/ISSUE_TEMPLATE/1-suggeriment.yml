@@ -1,0 +1,32 @@
+name: "💡 Suggeriment o petició de funcionalitat"
+description: "Demana una funcionalitat, una visualització nova o qualsevol millora. No cal saber programar."
+title: "[Idea] "
+labels: ["suggeriment"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gràcies per la idea! **No cal escriure gens de codi.** Explica-la amb les teves paraules
+        i ja ens n'encarreguem. Com més concret, millor.
+  - type: textarea
+    id: idea
+    attributes:
+      label: Què t'agradaria?
+      description: Descriu la funcionalitat, el gràfic o la millora que tens al cap.
+      placeholder: "Ex.: m'agradaria poder comparar la recaptació de Barcelona amb la de Girona…"
+    validations:
+      required: true
+  - type: textarea
+    id: per-que
+    attributes:
+      label: Per què seria útil?
+      description: Quin problema resol o què permetria entendre millor? (opcional)
+    validations:
+      required: false
+  - type: input
+    id: font
+    attributes:
+      label: Tens alguna font o dada en ment?
+      description: Si la teva idea necessita dades concretes, enganxa-hi l'enllaç (opcional).
+    validations:
+      required: false

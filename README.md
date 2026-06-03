@@ -77,9 +77,15 @@ El lloc es publica amb **GitHub Pages** servint l'arrel de la branca `master`. Q
 
 ## Contribuir
 
-Tothom hi és benvingut. L'única regla: **els canvis entren per Pull Request** (la branca `master`
-està protegida). Tota dada nova ha de portar font verificable. Tens la guia completa a
-[`CONTRIBUTING.md`](CONTRIBUTING.md).
+Tothom hi és benvingut, de dues maneres:
+
+- **Sense tocar codi** — obre un [Issue](https://github.com/comlaterra/taxa-turistica-catalunya/issues/new/choose)
+  amb un formulari senzill en català (demana una funcionalitat, reporta un error en una dada o
+  fes una pregunta). Ens n'encarreguem nosaltres.
+- **Fent el canvi tu** — **els canvis entren per Pull Request** (la branca `master` està
+  protegida). Tota dada nova ha de portar font verificable.
+
+Tens la guia completa a [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## Llicència
 

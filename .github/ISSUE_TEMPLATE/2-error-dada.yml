@@ -1,0 +1,37 @@
+name: "🔢 Error en una dada o classificació"
+description: "Has vist una xifra que no quadra o una partida mal classificada? Avisa'ns. No cal saber programar."
+title: "[Dada] "
+labels: ["dada"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Aquest projecte va de dades, així que els errors importen. Explica'ns què està malament
+        i, si pots, **enganxa una font** que ho confirmi. Ens n'encarreguem nosaltres.
+  - type: textarea
+    id: que-falla
+    attributes:
+      label: Què creus que està malament?
+      description: Indica la xifra, la secció o la classificació concreta.
+      placeholder: "Ex.: la recaptació de 2019 hauria de ser X, no Y; o «el festival Z no és promoció»…"
+    validations:
+      required: true
+  - type: input
+    id: font
+    attributes:
+      label: Font que ho confirma
+      description: Enllaç a un document, notícia o dada oficial (molt recomanable).
+      placeholder: "https://…"
+    validations:
+      required: false
+  - type: dropdown
+    id: tipus
+    attributes:
+      label: De quin tipus és?
+      options:
+        - "Xifra incorrecta"
+        - "Classificació discutible (promoció / mitigació / neutre)"
+        - "Font trencada o desactualitzada"
+        - "Altres"
+    validations:
+      required: false
